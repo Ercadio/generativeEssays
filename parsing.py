@@ -22,7 +22,6 @@ from os import listdir
 from os.path import isfile, join, isdir
 import re
 import sys
-import os
 
 
 class DataCleaner:
