@@ -1,15 +1,1 @@
-from matt madsen subject re please recommend d graphics library for mac robert g carpenter writes hi netters, >i'm building a cad package and need a 3d graphics library that can handle
->some rudimentry tasks, such as hidden line removal, shading, animation, etc.
->
->can you please offer some recommendations?
->
->i'll also need contact info (name, address, email...) if you can find it.
->
->thanks
->
->(please post your responses, in case others have same need)
->
->bob carpenter
-> i too would like a 3d graphics library! how much do c libraries cost
-anyway? can you get the tools used by, say, renderman, and can you get
-them at a reasonable cost? sorry that i don't have any answers, just questions... matt madsen
+From Matt Madsen Subject Re Please Recommend D Graphics Library For Mac Robert G Carpenter writes Hi Netters, I'm building a CAD package and need a D graphics library that can handle some rudimentry tasks, such as hidden line removal, shading, animation, etc Can you please offer some recommendations I'll also need contact info name, address, email if you can find it Thanks Please Post Your Responses, in case others have same need Bob Carpenter I too would like a D graphics library How much do C libraries cost anyway Can you get the tools used by, say, RenderMan, and can you get them at a reasonable cost Sorry that I don't have any answers, just questions Matt Madsen

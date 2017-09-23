@@ -1,16 +1,1 @@
-from thomas michanek subject re gui builders for vms in article mark d collier writes i am looking for gui builders/uims's which run in a vms/openvms
->environment. i am interested in both motif tools and gui-independent
->tools such as xvt. my client also requires that the tool has been
->in production for at least 6 months in the vms environment. note
->that i have the list of tools from the faq, but not the info on
->vms availability.
->
->thanks take a look at teleuse, a complete uims from alsys (formerly telesoft).
-in the us, you can reach them at (619) 457 2700. alsys have an vms version of teleuse v2.0.5 for vms v5.5 or higher,
-built using decwindows motif 1.0 (based on x11r4 and motif v1.1.1). btw, the vms port from the unix version was made at my company, and was
-released in november 1992. .- - - - - - - - - - - -. _ _ _ ___ _ _ _ _ _ _ _ .- - - - - - - -.
-| thomas michanek | | |\ | |_ / \ | / \ / _ | / `|_` | dial +46 13 |
-| infologics linkoping | | | \| | \_/ |_,\_/ \_| | \_,._| | 210060  phone |
-| email:thomas.michanek |          _                          | 210068  direct|
-|       @lin.infolog.se |  l i n k o p i n g  -  s w e d e n  | 210155  fax   |
-`- - - - - - - - - - - -'                                     `- - - - - - - -'
+From Thomas Michanek Subject Re GUI builders for VMS In article Mark D Collier writes I am looking for GUI Builders UIMS's which run in a VMS OpenVMS environment I am interested in both Motif tools and GUI independent tools such as XVT My client also requires that the tool has been in production for at least months in the VMS environment Note that I have the list of tools from the FAQ, but not the info on VMS availability Thanks Take a look at TeleUSE, a complete UIMS from Alsys formerly TeleSoft In the US, you can reach them at Alsys have an VMS version of TeleUSE v for VMS V or higher, built using DECwindows Motif based on X R and Motif v BTW, the VMS port from the UNIX version was made at my company, and was released in November Thomas Michanek Dial Infologics Linkoping , , Phone email Thomas Michanek Direct lin infolog se L I N K O P I N G S W E D E N Fax ' '

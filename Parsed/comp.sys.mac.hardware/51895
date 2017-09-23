@@ -1,15 +1,1 @@
-from ray fischer subject re x x how do they compare (ravikuma venkateswar) writes ...
-> (ray fischer) writes:
->>040 486 030 386 020 286
->
->how about some numbers here? some kind of benchmark? benchmarks are for marketing dweebs and cpu envy. ok, if it will make
-you happy, the 486 is faster than the 040. bfd. both architectures
-are nearing then end of their lifetimes. and especially with the x86
-architecture: good riddance. >besides, for 0 wait state performance, you'd need a cache anyway. i mean,
->who uses a processor that runs at the speed of 80ns simms? note that this
->memory speed corresponds to a clock speed of 12.5 mhz. the point being the processor speed is only one of many aspects of a
-computers performance. clock speed, processor, memory speed, cpu
-architecture, i/o systems, even the application program all contribute to the overall system performance. >>and roughly, the 68040 is twice as fast at a given clock
->>speed as is the 68030.
->
->numbers? look them up yourself. -- ray fischer "convictions are more dangerous enemies of truth than lies." -- friedrich nietzsche
+From Ray Fischer Subject Re x x How do they compare Ravikuma Venkateswar writes Ray Fischer writes How about some numbers here Some kind of benchmark Benchmarks are for marketing dweebs and CPU envy OK, if it will make you happy, the is faster than the BFD Both architectures are nearing then end of their lifetimes And especially with the x architecture good riddance Besides, for wait state performance, you'd need a cache anyway I mean, who uses a processor that runs at the speed of ns SIMMs Note that this memory speed corresponds to a clock speed of MHz The point being the processor speed is only one of many aspects of a computers performance Clock speed, processor, memory speed, CPU architecture, I O systems, even the application program all contribute to the overall system performance And roughly, the is twice as fast at a given clock speed as is the Numbers Look them up yourself Ray Fischer Convictions are more dangerous enemies of truth than lies Friedrich Nietzsche

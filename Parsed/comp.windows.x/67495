@@ -1,14 +1,1 @@
-from alan richardson subject xvertext version released now available xvertext --------------------- another day, another xvertext release... summary -------
-xvertext provides you with several functions to draw strings at any angle in an x window (previous versions were limited to vertical text). what's new since 4.0?
----------------------
-o existing bitmap fonts can be magnified to give reasonable fonts at large sizes.
-o bounding boxes can be obtained.
-o the gc's stipple bitmap is honoured.
-o font ids can be cached when font names are unavailable.
-o an imakefile is present.
-o the demos are better (including a ransom note like the comp.sources.postscript one) where can i get it? -------------------
-comp.sources.x (soon...)
-export.lcs.mit.edu : contrib/xvertext.5.0.shar.z (now) -- alan richardson, * "you don't have to be *
-school of maths & physical sciences, * old to be wise" *
-univ. of sussex, brighton bn1 9qh, england * ******judas priest*****
-uk: elsewhere:
+From Alan Richardson Subject xvertext version released Now available xvertext Another day, another xvertext release Summary xvertext provides you with several functions to draw strings at any angle in an X window previous versions were limited to vertical text What's new since o Existing bitmap fonts can be magnified to give reasonable fonts at large sizes o Bounding boxes can be obtained o The GC's stipple bitmap is honoured o Font IDs can be cached when font names are unavailable o An Imakefile is present o The demos are better including a ransom note like the comp sources postscript one Where can I get it comp sources x soon export lcs mit edu contrib xvertext shar Z now Alan Richardson, You don't have to be School of Maths Physical Sciences, old to be wise Univ of Sussex, Brighton BN QH, ENGLAND Judas Priest UK elsewhere

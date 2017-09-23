@@ -1,7 +1,1 @@
-from deepak mulchandani subject help in developing a x windows interface for gdb hi, i am trying to write an x windows based interface that runs on top of gdb. could anyone help me in understanding the way we are supposed to "fork" gdb off as a subprocess ?? i currently use pipes but when i try and debug this program, the following happens : program : main() { int x; printf("enter x : "); scanf("%d", &x); printf("x = .%d.\n", x ); } output : the program hangs without returning the output of the printf statement. when i type
-in a value (like 5), then all the printf's output comes out at one time. is there any other way, besides using pipes to do this i.e., like ioctl or something else ?? thanks, deepak --------------------------------------------------------------------------------------------
-deepak mulchandani
-advanced products research and development laboratory
-motorola, semiconductor products sector
-austin, tx
-(512) 928-7642
+From Deepak Mulchandani Subject Help in developing a X Windows interface for GDB Hi, I am trying to write an X windows based interface that runs on top of GDB Could anyone help me in understanding the way we are supposed to fork GDB off as a subprocess I currently use pipes but when I try and debug this program, the following happens PROGRAM main int x printf enter x scanf d , x printf x d n , x OUTPUT The program hangs without returning the output of the printf statement When I type in a value like , then all the printf's output comes out at one time Is there any other way, besides using PIPES to do this i e , like ioctl or something else Thanks, Deepak Deepak Mulchandani Advanced Products Research and Development Laboratory Motorola, Semiconductor Products Sector Austin, TX

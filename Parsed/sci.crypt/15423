@@ -1,14 +1,1 @@
-from stephen r tate subject re more technical details in article germano caronni actually dorothy denning writes:
->the seeds s1 and s2 do not change. let me see if i have this straight --- if a person knows s1 and s2,
-and the serial number of the unit, it's easy to reconstruct uk.
-of course, if they know sk, the "family key", they can easily get the
-serial number of any unit that has made a transmission. so with s1 and
-s2 being used for a while "batch" of the unit keys, the number of
-used s1/s2 pairs will probably be fairly low. of course, you have to
-believe that the nsa/fbi/name-your-favorite-government agency will
-know sk so all it needs is the s1/s2 pairs, and presto, nasty details like court orders for wire taps are no longer necessary. now, i'm not one of the people who distrusts the government at every
-turn, but taking someone's word for it that the s1/s2 pairs are not kept
-around is pushing what i'm willing to believe just a little bit too far. -- steve tate | the reason why mathematics enjoys special esteem,
-dept. of computer science | above all other sciences, is that its laws are
-duke university | absolutely certain and indisputable, while those of all
-durham, nc 27706 | other sciences are to some extent debatable. (einstein)
+From Stephen R Tate Subject Re More technical details In article A Germano Caronni actually Dorothy Denning writes The seeds S and S do not change Let me see if I have this straight if a person knows S and S , and the serial number of the unit, it's easy to reconstruct UK Of course, if they know SK, the family key , they can easily get the serial number of any unit that has made a transmission So with S and S being used for a while batch of the unit keys, the number of used S S pairs will probably be fairly low Of course, you have to believe that the NSA FBI name your favorite government agency will know SK so all it needs is the S S pairs, and presto, nasty details like court orders for wire taps are no longer necessary Now, I'm not one of the people who distrusts the government at every turn, but taking someone's word for it that the S S pairs are not kept around is pushing what I'm willing to believe just a little bit too far Steve Tate The reason why mathematics enjoys special esteem, Dept of Computer Science above all other sciences, is that its laws are Duke University absolutely certain and indisputable, while those of all Durham, NC other sciences are to some extent debatable Einstein

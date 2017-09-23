@@ -1,8 +1,1 @@
-from joel aycock subject re page setup in notepad in writes i often use notepad to view and print "read.me" type files. i often find
-> myself rushing to get to print manager to stop the printer and delete
-> the file from the print queue because i've forgotten to reset the print
-> margins from .75 inches (left and right) to 0 inches. the resulting printed
-> text looks all chopped up because of the hard returns in the source file.
-> [...] i struggled with the margin problem for ages as well, until i
-finally got hold of the shareware binary editor beav133, and dug into
-notepad.exe (there is no setup facility to force notepad to default to 0.0 margins- it's hardwired into code!!!). do a search for ".75", then change the offending bytes to ".00", et viola. who are the guys who hardcode these "options" anyway? i'm interested in whether the problem only rears it's ugly head for certain printers- i'm using an old epson lx-800 (or is that ex-800? never can remember). aloha.
+From JOEL jach hawaii edu Joel Aycock Subject Re page setup in Notepad In A writes I often use Notepad to view and print read me type files I often find myself rushing to get to Print Manager to stop the printer and delete the file from the print queue because I've forgotten to reset the print margins from inches left and right to inches The resulting printed text looks all chopped up because of the hard returns in the source file I struggled with the margin problem for ages as well, until I finally got hold of the shareware binary editor BEAV , and dug into NOTEPAD EXE there is no SETUP facility to force NOTEPAD to default to margins it's hardwired into code Do a SEARCH for , then change the offending bytes to , et viola Who are the guys who hardcode these options anyway I'm interested in whether the problem only rears it's ugly head for certain printers I'm using an old Epson LX or is that EX never can remember aloha

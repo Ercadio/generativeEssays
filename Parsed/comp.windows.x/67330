@@ -1,7 +1,1 @@
-from dortmund de rainer klute subject re imake help needed in article , paul byrne writes > can someone please give me some pointers to setting up imake in a sun
-|> openwindows
-|> enviornment ? i've checked through all the documentation but can not
-|> find any clues. sun's openwindows imake is broken. i suggest installing imake-pure, mit's
-x11r5 imake. you can get it from ftp.germany.eu.net in file
-/pub/x11/misc/imake/imake-pure.tar.z (117807 byte). -- dipl.-inform. rainer klute i r b : immer richtig beraten univ. dortmund, irb postfach 500500 |)|/ tel.: +49 231 755-4663
-d-w4600 dortmund 50 |\|\ fax : +49 231 755-2386 new address after june 30th: univ. dortmund, d-44221 dortmund
+From Rainer Klute Subject Re imake help needed In article A , Paul Byrne writes Can someone please give me some pointers to setting up imake in a SUN OPENWINDOWS enviornment I've checked through all the documentation but can not find any clues Sun's OpenWindows imake is broken I suggest installing imake pure, MIT's X R imake You can get it from ftp germany eu net in file pub X misc imake imake pure tar Z Byte Dipl Inform Rainer Klute I R B immer richtig beraten Univ Dortmund, IRB Postfach Tel D W Dortmund Fax new address after June th Univ Dortmund, D Dortmund

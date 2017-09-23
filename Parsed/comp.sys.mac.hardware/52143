@@ -1,10 +1,1 @@
-from alexander samuel mcdiarmid am o andrew cmu edu subject re svga monitors and centris the real story what is the real story here? can i hook up any pc svga montitor to the
-centris internal video? do i need to make my own cable if it doesn't not
-come with one? has apple released a tech note with the pinouts for doing
-such? the reasoj i ask is that it seems the prices for svga are lower than
-that of their mac counterparts...
---mike ************************** having been discusse essentially adnausium the answer is yes. at
-least for the 600x400 configuration. you can get an adaptor called mac
-vga -q from james engineering (510) 525 7350 and this will let you
-display 600x400 and 800x600 if the monitor is capable. i think the
-800x600 requires 56khz horizontal sync. i use this on my sony 1604. (gives a slightly wider screen than the 832x624 adaptor. hope it helps -a.
+From Alexander Samuel McDiarmid am o andrew cmu edu Subject Re SVGA Monitors and Centris the real story What is the real story here Can I hook up any PC SVGA Montitor to the Centris internal video Do I need to make my own cable if it doesn't not come with one Has apple released a Tech note with the pinouts for doing such The reasoj I ask is that it seems the prices for SVGA are lower than that of their mac counterparts mike having been discusse essentially adnausium the answer is yes at least for the x configuration you can get an adaptor called Mac VGA Q from James engineering and this will let you display x and x if the monitor is capable I think the x requires Khz horizontal sync I use this on my sony gives a slightly wider screen than the x adaptor hope it helps A

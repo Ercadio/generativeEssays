@@ -1,4 +1,1 @@
-from ferdinand oeinck subject re distance between two bezier curves pekka siltanen writes suppose two cubic bezier curves (control points v1,..,v4 and w1,..,w4)
-> which have equal first and last control points (v1 = w1, v4 = w4). how do i > get upper bound for distance between these curves. which distance? the distance between one point (t = ti) on the first curve
-and a point on the other curve with same parameter (u = ti)? > > any references appreciated. thanks in anvance.
-> > pekka siltanen
+From Ferdinand Oeinck Subject Re Distance between two Bezier curves Pekka Siltanen writes Suppose two cubic Bezier curves control points V , ,V and W , ,W which have equal first and last control points V W , V W How do I get upper bound for distance between these curves Which distance The distance between one point t ti on the first curve and a point on the other curve with same parameter u ti Any references appreciated Thanks in anvance Pekka Siltanen

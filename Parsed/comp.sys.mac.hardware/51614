@@ -1,16 +1,1 @@
-from jim jagielski subject re quadra scsi problems tim smith writes attention mac quadra owners: many storage industry experts have
->> concluded that mac quadras suffer from timing irregularities deviating
->> from the standard scsi specification. this results in silent corruption
->> of data when used with some devices, including ultra-modern devices.
->> although i will not name the devices, since it is not their fault, an
->> example would be a sony 3.5 inch mo, without the special "mac-compatible"
->> firmware installed. one solution, sometimes, is to disable "blind writes" >this doesn't sound right to me. don't quadras use the 53c96? if so, the
->mac has nothing to do with the scsi timing. that's all handled by the
->chip. about the only the timing could be wrong is if apple programs the
->clock registers wrong on the 96. that, however, should only really hurt
->synchronous transfer, which is not used by the mac scsi manager. >furthermore, disabling blind writes should be meaningless on a quadra.
->on macs that used the 5380, which is a much lower level scsi chip, the
->mac was responsible for the handshake of each byte transferred. blind
->mode affected how the mac handled that handshake. on the 5396, the
->handshake is entirely handled by the chip. the docs say that it's a scsi manager bug, if this changes things at all...
--- jim jagielski | "and he's gonna stiff me. so i say, | 'hey! lama! how about something, nasa/gsfc, code 734.4 | you know, for the effort!'" greenbelt, md 20771 |
+From Jim Jagielski Subject Re Quadra SCSI Problems Tim Smith writes ATTENTION Mac Quadra owners Many storage industry experts have concluded that Mac Quadras suffer from timing irregularities deviating from the standard SCSI specification This results in silent corruption of data when used with some devices, including ultra modern devices Although I will not name the devices, since it is not their fault, an example would be a Sony inch MO, without the special Mac compatible firmware installed One solution, sometimes, is to disable blind writes This doesn't sound right to me Don't Quadras use the C If so, the Mac has nothing to do with the SCSI timing That's all handled by the chip About the only the timing could be wrong is if Apple programs the clock registers wrong on the That, however, should only really hurt synchronous transfer, which is not used by the Mac SCSI Manager Furthermore, disabling blind writes should be meaningless on a Quadra On Macs that used the , which is a much lower level SCSI chip, the Mac was responsible for the handshake of each byte transferred Blind mode affected how the Mac handled that handshake On the , the handshake is entirely handled by the chip The docs say that it's a SCSI Manager bug, if this changes things at all Jim Jagielski And he's gonna stiff me So I say, 'Hey Lama How about something, NASA GSFC, Code you know, for the effort ' Greenbelt, MD

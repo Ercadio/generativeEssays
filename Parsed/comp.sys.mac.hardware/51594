@@ -1,5 +1,1 @@
-from d jon w tte subject re what is rom accelerated video in qknuq c b-3jl@web-4f.berkeley.edu (james wang) writes: >addressing modes. commands that do fills should be slightly faster
->since the new instructions fetch 2 bytes at a time versus one. even the 68000 can fetch two bytes at a time. the new instruction in the 68040 is move16 which fetches 16 bytes
-at a time instead of 4 which the 68030 has; that means 4 24bit
-pixels instead of one. cheers, / h+
--- -- jon w{tte, h+@nada.kth.se, mac hacker deluxe -- this article printed on 100% recycled electrons.
+From Jon W tte Subject Re What is ROM accelerated video In qknuq James Wang writes addressing modes commands that do fills should be slightly faster since the new instructions fetch bytes at a time versus one Even the can fetch two bytes at a time The new instruction in the is MOVE which fetches bytes at a time instead of which the has that means bit pixels instead of one Cheers, h Jon W tte, h nada kth se, Mac Hacker Deluxe This article printed on recycled electrons

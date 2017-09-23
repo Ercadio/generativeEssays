@@ -1,12 +1,1 @@
-from john munsch subject re ati avi drivers in article andrew a houghton ah i andrew cmu edu> writes:
->
->i noticed ati had posted *beta* avi drivers for their mach32 boards on
->compuserve.. has anyone had the chance tgo try them? >
->how well do they work? very well indeed. at home (a vl bus version of the graphics pro) i can stretch
-an avi window to 640x480 and it will continue to play back smoothly. it drops
-a few more frames but on most machines even attempting such a thing would mean
-one frame update every 30 seconds. an isa graphics+ was able to do "zoom by
-2" without any perceptible performance penalty. it is the best performance
-i've seen so far with the possible exception of an intel indeo board (which
-uses overlay so it doesn't have to move the decompressed data over the isa
-bus at any point). john munsch
+From John Munsch Subject Re ATI AVI drivers In article QfwYnH WB RzV Andrew A Houghton ah i andrew cmu edu writes I noticed ATI had posted BETA AVI drivers for their mach boards on compuserve has anyone had the chance tgo try them How well do they work Very well indeed At home a VL Bus version of the Graphics Pro I can stretch an AVI window to x and it will continue to play back smoothly It drops a few more frames but on most machines even attempting such a thing would mean one frame update every seconds An ISA Graphics was able to do Zoom by without any perceptible performance penalty It is the best performance I've seen so far with the possible exception of an Intel Indeo board which uses overlay so it doesn't have to move the decompressed data over the ISA bus at any point John Munsch

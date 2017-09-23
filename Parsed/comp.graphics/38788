@@ -1,5 +1,1 @@
-from craig lamparter subject ds inv normal array does anyone truely understand the invalid normal array error 3ds gives
-you while rendering? it seems to present itself while rendering
-complicated images. i have circumvented this problem by rendering at
-the command line, however it would be nice to render inside the editor.
-is this a memory problem??? craig....
+From Craig Lamparter Subject DS INV NORMAL ARRAY Does anyone truely understand the INVALID NORMAL ARRAY error ds gives you while rendering It seems to present itself while rendering complicated images I have circumvented this problem by rendering at the command line, however it would be nice to render inside the editor Is this a memory problem Craig

@@ -1,9 +1,1 @@
-from paul burry subject re ide vs scsi in article guy dawson writes int eh same article the pc would will get plug and play scsi {from the
-|> article it seems you get plug and play scsi-1 only since scsi-2 in full
-|> implimentation has ten not 7 devices.}
-|
-|i beleive this last bit is just plain wrong! i believe you are right. both scsi and scsi-2 support 8 devices on the bus
-(normally that would be the host controller and 7 targets) each of which
-may have up to 8 logical units (luns).
--- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-paul burry voice: (613)-991-7325 internet: fax: (613)-991-7323 uucp: ..!{uunet,cunews}!cse.dnd.ca!pburry
+From Paul Burry Subject Re IDE vs SCSI In article C L E D Guy Dawson writes int eh same article the PC would will get plug and play SCSI from the article it seems you get plug and play SCSI only since SCSI in FULL implimentation has TEN NOT devices I beleive this last bit is just plain wrong I believe you are right Both SCSI and SCSI support devices on the bus normally that would be the host controller and targets each of which may have up to logical units LUNs Paul Burry Voice Internet Fax UUCP uunet,cunews cse dnd ca pburry

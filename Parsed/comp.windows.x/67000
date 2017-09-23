@@ -1,8 +1,1 @@
-from dresden de andre beck subject re system file in tmp in article , christopher lusardi writes |> |> what is the directory .x11-unix for in /tmp? when i start
-|> x, it is created by the system. this directory wasn't created |> by root, and it contains an empty file (x0) that is owned by me. |> it's the unix domain socket (local connection) to your xserver.
-try to rm it :) --
-+-o-+--------------------------------------------------------------+-o-+
-| o | \\\- brain inside -/// | o |
-| o | ^^^^^^^^^^^^^^^ | o |
-| o | andre' beck (abpsoft) mehl: -dresden.de | o |
-+-o-+--------------------------------------------------------------+-o-+
+From Andre Beck Subject Re System file in tmp In article C JJIG D , Christopher Lusardi writes What is the directory X unix for in tmp When I start x, it is created by the system This directory wasn't created by root, and it contains an empty file X that is owned by me It's the Unix Domain Socket local connection to your XServer Try to rm it o o o Brain Inside o o o o Andre' Beck ABPSoft mehl Andre Beck IRS Inf TU Dresden de o o o

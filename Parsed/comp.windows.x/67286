@@ -1,12 +1,1 @@
-from brian herzog sunsoft product engineering subject re xsun not running on sparcclassic in article passau de passau de (christian rank) writes:
->i've installed x11r5 with patches for solaris 2.1 on our sparcstation lx /
->sparcclassic pool. on the lx, x11r5 runs fine, but on the classics,
->after giving the command startx, xsun prints the following messages:
->	warning: cg3_mmap: can't map dummy space!
->	mapping cg3c: no such device or address
->and exits.
->
->does anybody know how to fix this problem? i'm just guessing here, but i'd guess that x11r5 expects the cg3 to have
-1152x900 resolution, and the version of the cg3 in the sparcclassic is 1024x768. -- --------------------------------------------------------------------------------
-disclaimer: i do not represent sunsoft, inc., sun microsystems, inc., etc., etc.
-brian herzog, sunsoft ...!sun!eng!herzog
+From herzog dogwalk Eng Sun COM Brian Herzog SunSoft Product Engineering Subject Re Xsun not running on SPARCclassic In article r th INN Christian Rank writes I've installed X R with patches for Solaris on our SPARCstation LX SPARCclassic pool On the LX, X R runs fine, but on the classics, after giving the command startx, Xsun prints the following messages WARNING cg mmap can't map dummy space Mapping cg c No such device or address and exits Does anybody know how to fix this problem I'm just guessing here, but I'd guess that X R expects the CG to have x resolution, and the version of the CG in the SPARCclassic is x Disclaimer I do not represent SunSoft, Inc , Sun Microsystems, Inc , etc , etc Brian Herzog, SunSoft herzog Eng Sun COM sun eng herzog

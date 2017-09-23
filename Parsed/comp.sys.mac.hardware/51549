@@ -1,11 +1,1 @@
-from gregory g woodbury subject q fp errors was quadra differences (robert david klapper) writes:
->
->	i also believe that the 950 fixed a bug in the cpu which screwed up
->some floating point calculations. does anyone have details on this? what sort of fp errors is
-the q900 sensitive to? (my q900 is having some strange problems with an fp intensive
-program, getting a lot of ds15 (segment loader) errors. thinkc5.0.4 and
-system 7.0.1+)
--- gregory g. woodbury @ the wolves den unix, durham nc <standard disclaimers>
-uucp: ...dukcds!wolves!ggw ...duke!wolves!ggw [use the maps!]
-domain: ggw%
-[this site is *not* affiliated with duke university. (idiots!) ]
+From ggw wolves Durham NC US Gregory G Woodbury Subject Q FP Errors was Quadra differences Robert David Klapper writes I also believe that the fixed a bug in the CPU which screwed up some floating point calculations Does anyone have details on this What sort of FP errors is the Q sensitive to My Q is having some strange problems with an FP intensive program, getting a lot of DS Segment Loader errors ThinkC and System Gregory G Woodbury The Wolves Den UNIX, Durham NC Standard disclaimers UUCP dukcds wolves ggw duke wolves ggw use the maps Domain ggw wolves Durham NC US ggw This site is not affiliated with Duke University Idiots

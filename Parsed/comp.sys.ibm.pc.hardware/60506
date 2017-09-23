@@ -1,14 +1,1 @@
-from jim graham subject re possible faq question about a uart in article gordon lang writes national semiconductor. i don't know if other manufacturers make equivalent
->chips or not. maybe national isn't even the original, but they are the only
->one that i know about. ns16450, ns16c450, ns16c451, ns16550af, ns16c551, and
->ns16c552. no argument on going direct to national (see my previous post on this topic),
-but some info regarding what you said above. i don't know about the 8250 or
-16450, but ns was the original source for the 16550 series (and i strongly
-suspect that they developed the others first, too). i can also tell you that i'm one of those who won't buy a uart made by
-anyone other than national semiconductor. --jim --
-#include <std_disclaimer.h> 73 de n5ial (/4)
-------------------------------------------------------------------------------
-internet: | icbm: 30.23n 86.32w
-amateur radio: n5ial@w4zbb (ft. walton beach, fl) amtor selcal: nial
-------------------------------------------------------------------------------
-e-mail me for information about kamterm (host mode for kantronics tncs).
+From Jim Graham Subject Re Possible FAQ question about a UART In article qjp bINN Gordon Lang writes National Semiconductor I don't know if other manufacturers make equivalent chips or not Maybe National isn't even the original, but they are the only one that I know about NS , NS C , NS C , NS AF, NS C , and NS C no argument on going direct to National see my previous post on this topic , but some info regarding what you said above I don't know about the or , but NS was the original source for the series and I strongly suspect that they developed the others first, too I can also tell you that I'm one of those who won't buy a UART made by anyone other than National Semiconductor jim include std disclaimer h DE N IAL INTERNET ICBM N W AMATEUR RADIO n ial w zbb Ft Walton Beach, FL AMTOR SELCAL NIAL E mail me for information about KAMterm host mode for Kantronics TNCs

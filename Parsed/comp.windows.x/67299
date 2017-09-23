@@ -1,9 +1,1 @@
-from tim white subject re x load on the network bkline occs nlm nih gov bob kline writes can someone point me in the direction of any papers (not necessarily
->formally conducted studies) discussing how much traffic x apps generate
->for the network, particularly in comparison with curses-bases apps >over telnet? also, does an x server typically buffer up user keyboard
->input a line at a time? can the x client control this, asking for
->keystrokes immediately? thanks in advance for any feedback! ncd has an excellent document titled "host loading considerations in the x environment". i received my copy by emailing . this may help out.
---
-==============================================================================
-tim white university of south carolina humanities and social sciences laboratory
-(803)-777-7840 columbia, s.c. 29208
+From Tim White Subject Re X load on the Network bkline occs nlm nih gov Bob Kline writes Can someone point me in the direction of any papers not necessarily formally conducted studies discussing how much traffic X apps generate for the network, particularly in comparison with curses bases apps over telnet Also, does an X server typically buffer up user keyboard input a line at a time Can the X client control this, asking for keystrokes immediately Thanks in advance for any feedback Ncd has an excellent document titled Host Loading Considerations in the X environment I received my copy by emailing This may help out Tim White University of South Carolina Humanities and Social Sciences Laboratory Columbia, S C

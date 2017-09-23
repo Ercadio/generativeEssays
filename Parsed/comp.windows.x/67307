@@ -1,7 +1,1 @@
-from nightline subject editres under pie tvt wm hi, looking for any advice or suggestions about a problem i'm having with mit x r 's editres, in particular under twm variants. for a start, 9 times out of 10 (but not always) editres won't
-grab a widget tree when running on our ncd (decwindows) xterms,
-which i'm told will be fixed when the r5 (not r4) xdm is installed.
-ok, so i tried running it on a sun, running real r5, on the same
-network - i get a widget tree, but it's always for 'twm icon manager' anybody know of any patches for (a) twm or (b) editres that i should
-look at? thanks,
-k
+From Nightline Subject Editres under Pie TVT wm Hi, looking for any advice or suggestions about a problem I'm having with MIT X R 's editres, in particular under twm variants For a start, times out of but NOT always editres won't grab a widget tree when running on our NCD Decwindows Xterms, which I'm told will be fixed when the R not R XDm is installed OK, so I tried running it on a Sun, running real R , on the same network I get a widget tree, but it's ALWAYS for 'TWM Icon Manager' Anybody know of any patches for a twm or b editres that I should look at Thanks, K

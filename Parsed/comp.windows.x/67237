@@ -1,3 +1,1 @@
-from bob shaw subject summary xon and x r hi folks thanks to the ones that replied, however, my problem turned out to be very simple. in my .xresources i had a space after xterm*font: 10x20.
-removing this and xrdb fixed my problem. also, same symptom, was that some of my users did not have the
-proper capitals for xterm*font. thanks again bob
+From Bob Shaw Subject SUMMARY xon and X R Hi folks Thanks to the ones that replied, however, my problem turned out to be very simple In my Xresources I had a space after XTerm font x Removing this and xrdb fixed my problem Also, same symptom, was that some of my users did not have the proper capitals for XTerm font Thanks again Bob

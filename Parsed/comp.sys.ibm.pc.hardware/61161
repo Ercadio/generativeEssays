@@ -1,8 +1,1 @@
-from greg 'spike' bishop subject need an esdi hdd for posessed system ahhhuuurrrrgggghhhh spinrite says 80 sectors marked bad in the fat
-initially, 79 returned to active use, 80 new sectors marked bad, following
-successive runs of spinrite. i think i need a new esdi hdd controller. i know that these two will work:
-dtc 6280
-adaptec 2322b others that might work:
-dtc 6282
-ultra store 12
-wd 1007v if you own one and will sell it cheaply i'll buy it. thanks, -greg bishop -- gt: "designing tommorow the night before with yesterday's technology."
+From EDU Greg 'Spike' Bishop Subject Need an ESDI HDD for posessed system AHHHUUURRRRGGGGHHHH Spinrite says sectors marked bad in the FAT initially, returned to active use, new sectors marked bad, following successive runs of spinrite I think I need a new ESDI HDD controller I know that these two will work DTC Adaptec B Others that MIGHT work DTC Ultra Store WD V If you own one and will sell it cheaply I'll buy it Thanks, Greg Bishop GT Designing tommorow the night before with yesterday's technology

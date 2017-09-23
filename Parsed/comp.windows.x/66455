@@ -1,9 +1,1 @@
-from john collins subject problem with mit shm i am trying to write an image display program that uses the mit shared memory extension the shared memory segment
-gets allocated and attached to the process with no problem.
-but the program crashes at the first call to xshmputimage,
-with the following message: x error of failed request: badshmseg (invalid shared segment parameter) major opcode of failed request: 133 (mit-shm) minor opcode of failed request: 3 (x_shmputimage) segment id in failed request 0x0 serial number of failed request: 741 current serial number in output stream: 742 like i said, i did error checking on all the calls to shmget
-and shmat that are necessary to create the shared memory
-segment, as well as checking xshmattach. there are no
-problems. if anybody has had the same problem or has used mit-shm without
-having the same problem, please let me know. by the way, i am running openwindows 3.0 on a sun sparc2. thanks in advance--
-john c.
+From John Collins Subject Problem with MIT SHM I am trying to write an image display program that uses the MIT shared memory extension The shared memory segment gets allocated and attached to the process with no problem But the program crashes at the first call to XShmPutImage, with the following message X Error of failed request BadShmSeg invalid shared segment parameter Major opcode of failed request MIT SHM Minor opcode of failed request X ShmPutImage Segment id in failed request x Serial number of failed request Current serial number in output stream Like I said, I did error checking on all the calls to shmget and shmat that are necessary to create the shared memory segment, as well as checking XShmAttach There are no problems If anybody has had the same problem or has used MIT SHM without having the same problem, please let me know By the way, I am running OpenWindows on a Sun Sparc Thanks in advance John C

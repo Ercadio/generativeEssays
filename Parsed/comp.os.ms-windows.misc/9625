@@ -1,7 +1,1 @@
-from berlin de m kerkhoff subject re using microsoft foundation classes with borland c hi all, has anybody tried to compile ctrltest from the mfc/samples directory,
-after compiling the mfc-libs with bwc ? seems to me, that bwc isn't able to distinguish pointers to overloaded
-functions.
-for example, imagine the following 2 (overloaded) functions:
-void same_name ( void ) void same_name ( int ) after trying the whole day, i think, with bwc its impossible to take the
-adress of one of the above two functions and assign it to a properly defined
-function pointer. am i right ? has anybody else had this problem ? thanx
+From M Kerkhoff Subject Re Using Microsoft Foundation Classes with Borland C Hi all, has anybody tried to compile CTRLTEST from the MFC SAMPLES directory, after compiling the MFC libs with BWC Seems to me, that BWC isn't able to distinguish pointers to overloaded functions For example, imagine the following overloaded functions void same name void void same name int After trying the whole day, I think, with BWC its impossible to take the adress of one of the above two functions and assign it to a properly defined function pointer Am I right Has anybody else had this problem thanx

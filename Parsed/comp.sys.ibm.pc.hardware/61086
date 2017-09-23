@@ -1,17 +1,1 @@
-from sam latonia subject re help ide drive installation problems article 302 is last):
->newsgroups: comp.sys.ibm.pc.hardware
-from: (kris schludermann)
-subject: help:ide drive installation problems
-date: thu apr 22 12:11:58 1993 i'm having trouble with installing a second ide drive on a promise ide caching
-controller. the first drive is a conner 3204 and works fine. the second drive
-is a conner 30174, it is currently unjumpered to be the slave drive. the
-problem is the slave drive is recognized but is reported back as having no
-free space. disabling cache has made no effect. what else should i check for? krispy
-end of file, press return to quit krispy,
-lets start with what promise controller that you have. ther are only
-about 4 or 6 of them made. the one that i have the dc-99m needs
-nothing done but install it as stated. as to the 2th. hd you do know
-about running fdisk on it and partisitions and then formatting it
-after your finished with the fdisk operation right!....sam
--- gosh..i think i just installed a virus..it was called ms dos6...
-don't copy that floppy..burn it...i just love windows...crash...
+From ab cleveland Freenet Edu Sam Latonia Subject Re HELP IDE Drive installation problems Article is last Newsgroups comp sys ibm pc hardware From Kris Schludermann Subject HELP IDE Drive installation problems Date Thu Apr I'm having trouble with installing a second IDE drive on a Promise IDE caching controller The first drive is a conner and works fine The second drive is a conner , it is currently unjumpered to be the slave drive The problem is the slave drive is recognized but is reported back as having no free space Disabling cache has made no effect What else should I check for krispy End of File, Press RETURN to quit Krispy, Lets start with what Promise controller that you have Ther are only about or of them made The one that I have the DC m needs nothing done but install it as stated As to the th hd you do know about running FDISK on it and partisitions and then formatting it after your finished with the fdisk operation right Sam Gosh I think I just installed a virus It was called MS DOS Don't copy that floppy BURN IT I just love Windows CRASH

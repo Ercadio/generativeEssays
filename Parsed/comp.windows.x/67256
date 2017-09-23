@@ -1,10 +1,1 @@
-from shonkwiler r w subject screen problem in unix xwindows solaris experiment from a sun openwindows xterm window log into a
-solaris 2.x machine using rlogin; now do an "ls" and get the first
-character of each line display in the last column of the display
-with the rest of the line wrapped to the next line of the display. log out and the condition persists. check stty all, try reset
-with no effect. use telnet instead of rlogin and it doesn't occur. try it from a unix console and it doesn't occur. (1) what's causing this?
-(2) can it be avoided?
-(3) how can the terminal characteristics be reset? please send replies to -- shonkwiler r w
-georgia institute of technology, atlanta georgia, 30332
-uucp: ...!{allegra,amd,hplabs,seismo,ut-ngp}!gatech!prism!ma201rs
-arpa:
+From EDU SHONKWILER R W Subject screen problem in unix xwindows solaris Experiment From a Sun openwindows xterm window log into a Solaris x machine using rlogin now do an ls and get the first character of each line display in the last column of the display with the rest of the line wrapped to the next line of the display Log out and the condition persists Check stty all, try reset with no effect Use telnet instead of rlogin and it doesn't occur Try it from a unix console and it doesn't occur What's causing this Can it be avoided How can the terminal characteristics be reset Please send replies to SHONKWILER R W Georgia Institute of Technology, Atlanta Georgia, uucp allegra,amd,hplabs,seismo,ut ngp gatech prism ma rs ARPA

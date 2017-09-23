@@ -1,14 +1,1 @@
-from paul hardwick subject re pc syquest on a mac in qsk u robert c sprecher writes: >is it possible, ie via creative cable splicing or whatever, to
->hook a syquest 44mb removable drive to a mac? >is there any difference with the guts of the drive or is it
->just cable differences? >thanks. their should be no difference in the drive itself between ibm-pc and mac.
-the two main differences are the formatting of the disk itself (but with
-the correct software each can read the others) and maybe the cable
-(depends on your scsi board on ibm-pc). if you get some mac softawre to allow mounting of any ibm-formatted disk
-and the correct cable you should br able to mount and read your ibm-pc
-syquest. good luck, --paul -- +-------------------------------------------------------------------------+ | paul hardwick | technical consulting | internet: | | p.o. box 1482 | for mvs (sp/xa/esa) | voice: (212) 535-0998 | | ny, ny 10274   |  and 3rd party addons  |  fax:      (212) pending      |
-  +-------------------------------------------------------------------------+
--- 
-  +-------------------------------------------------------------------------+
-  | paul hardwick  |  technical consulting  |  internet:  |
-  | p.o. box 1482  |  for mvs (sp/xa/esa)   |  voice:    (212) 535-0998     |
-  | ny, ny 10274   |  and 3rd party addons  |  fax:      (212) pending      |
+From Paul Hardwick Subject Re PC Syquest on a Mac In qsk u d l usenet INS CWRU Edu rcs po CWRU Edu Robert C Sprecher writes Is it possible, ie via creative cable splicing or whatever, to hook a Syquest MB removable drive to a Mac Is there any difference with the guts of the drive or is it just cable differences Thanks Their should be no difference in the drive itself between IBM PC and Mac The two main differences are the formatting of the disk itself but with the correct software each can read the others and maybe the cable depends on your SCSI board on IBM PC If you get some Mac softawre to allow mounting of ANY IBM formatted disk and the correct cable you should br able to mount and read your IBM PC syquest good luck, Paul Paul Hardwick Technical Consulting InterNet P O Box for MVS SP XA ESA Voice NY, NY and rd party addons Fax Pending Paul Hardwick Technical Consulting InterNet P O Box for MVS SP XA ESA Voice NY, NY and rd party addons Fax Pending

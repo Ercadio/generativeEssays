@@ -1,10 +1,1 @@
-from spencer greene subject how can i change sun cgthree fb writes to dword hello xperts out there i've just built x r for sunos 4.1.1/sparc.
-i have gcc-2.2 and i'd like to use its 64-bit capability
-to generate an x11 release which will render to the frame
-buffer using store-double (64-bit) machine code.
-can anyone tell me which directories/source files/
-compiler switches to begin with? thanks in advance
--- - spencer greene +1 408 727 5445 -
-- nimbus technology inc. -
-- santa clara, california usa {sgiblab,ub-gate}!c2tech!sgreene -
-- "patriotism is the last refuge of a scoundrel." --dr. samuel johnson -
+From Spencer Greene Subject How can I change sun cgthree fb writes to dword Hello Xperts out there I've just built X R for SunOS SPARC I have gcc and I'd like to use its bit capability to generate an X release which will render to the frame buffer using store double bit machine code Can anyone tell me which directories source files compiler switches to begin with thanks in advance Spencer Greene Nimbus Technology Inc Santa Clara, California USA sgiblab,ub gate c tech sgreene Patriotism is the last refuge of a scoundrel Dr Samuel Johnson

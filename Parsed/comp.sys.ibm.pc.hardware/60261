@@ -1,11 +1,1 @@
-from tom huot subject re soundblaster irq and port settings the cybard wrote william roger uzun writes: : >i have a soundblaster board in a 486-sx pc, and i have it
-: >jumpered to irq 7, port 220h. will this conflict with my
-: >parallel port? i just have an ide controller, a multi-io board
-: >with 2ser, 1par port and a vga board. should i choose
-: >another irq besides 7? or is irq 7 safe to use on 486 motherboards? : recently i was adding a modem to my computer, and i noticed that lpt1 uses
-: irq-7 and so does my sb card (220h). i've never had a problem, but i'm
-: just wondering why not. i thought this would cause a conflict. i would also like an explanation of this. if anyone can explain
-why the sb pro and lpt 1 can share an irq, please do so.
-thanks --
-_____________________________________________________________________________
-tom huot ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From Tom Huot Subject Re Soundblaster IRQ and Port settings The Cybard wrote William Roger Uzun writes I have a SoundBlaster board in a SX PC, and I have it jumpered to IRQ , port h Will this conflict with my parallel port I just have an IDE controller, a multi IO board with ser, Par port and a VGA board Should I choose another IRQ besides Or is IRQ safe to use on Motherboards Recently I was adding a modem to my computer, and I noticed that LPT uses IRQ and so does my SB card h I've never had a problem, but I'm just wondering why not I thought this would cause a conflict I would also like an explanation of this If anyone can explain why the SB Pro and LPT can share an IRQ, please do so Thanks Tom Huot

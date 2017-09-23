@@ -1,14 +1,1 @@
-from joe zbiciak subject re booting from b drive in roger c pao writes much discussion about switching 5.25" and 3.5" drives removed] another (albeit strange) option is using a program like 800 ii
-(available via anonymous ftp at many major sites), or fdformat
-(also available via anonymous ftp), that allows you to format
-5.25hd disks to 1.44meg, or 3.5"hd disks to 1.2meg (along with
-many many other formats!) so you can diskcopy (yes, the broken
-messy-dos diskcopy!) the 5.25" disks onto 3.5" disks or vice
-versa... i use this techniques with "non-dos" self-booting game disks on my old tandy 1000, and it works... another program
-named teledisk (shareware--available on many major bbs's) will
-also make the weird format disks, provided you have 800 ii
-or fdformat installed.... some disks that won't diskcopy
-properly can be readily teledisk'd into the proper format...
-at least this is a software solution for a hardware/bios deficiency, eh? --
-joseph zbiciak [====disclaimer--if you believe any of this, check your head!====]
------------------------------------------------------------------- nuke the whales!
+From Joe Zbiciak Subject Re Booting from B drive In C Roger C Pao writes much discussion about switching and drives removed Another albeit strange option is using a program like II available via anonymous FTP at many major sites , or FDFORMAT also available via anonymous FTP , that allows you to format HD disks to Meg, or HD disks to Meg along with many MANY other formats so you can DISKCOPY yes, the broken MeSsy DOS DISKCOPY the disks onto disks or vice versa I use this techniques with NON DOS self booting game disks on my old Tandy , and it works Another program named Teledisk shareware available on many major BBS's will also make the weird format disks, provided you have II or FDFormat installed Some disks that won't DISKCOPY properly can be readily Teledisk'd into the proper format At least this is a software solution for a hardware BIOS deficiency, eh Joseph Zbiciak Disclaimer If you believe any of this, check your head Nuke the Whales

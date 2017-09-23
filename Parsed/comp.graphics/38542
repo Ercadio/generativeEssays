@@ -1,18 +1,1 @@
-from xia zhao subject more on radiosity in article , you write let's be serious... i'm working on a radiosity package, written in c++.
-|> i would like to make it public domain. i'll announce it in c.g. the minute
-|> i finished it.
-|>
-|> that were the good news. the bad news: it'll take another 2 months (at least)
-|> to finish it. are you using the traditional radiosity method, progressive refinement, or something else in your package? if you need to project patches on the hemi-cube surfaces, what technique are you using? do you have hardware to facilitate the projection? |>
-|> in the meantime you may have a look at the file
-|> radiosity_code.tar.z
-|> located at
-|> compute1.cc.ncsu.edu what are the guest username and password for this ftp site? |>
-|> (there are some other locations; have a look at archie to get the nearest)
-|>
-|> hope that'll help.
-|>
-|> yours
-|>
-|> stephan
-|> thanks, stephan. josephine
+From xz longs LANCE ColoState Edu Xia Zhao Subject more on radiosity In article A , you write Let's be serious I'm working on a radiosity package, written in C I would like to make it public domain I'll announce it in c g the minute I finished it That were the good news The bad news It'll take another months at least to finish it Are you using the traditional radiosity method, progressive refinement, or something else in your package If you need to project patches on the hemi cube surfaces, what technique are you using Do you have hardware to facilitate the projection In the meantime you may have a look at the file Radiosity code tar Z located at compute cc ncsu edu What are the guest username and password for this ftp site there are some other locations have a look at archie to get the nearest Hope that'll help Yours Stephan Thanks, Stephan Josephine

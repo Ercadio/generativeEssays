@@ -1,13 +1,1 @@
-from bonn de juergen schietke subject chars of big fonts are shown partially hi all, i wrote a small application which uses pixmaps copied into a window
-to show some drawings. this works perfectly for all kind of objects
-expect large fonts. what happens on the screen is that the right
-half of the font is not shown. the way i create these things is
-quite simple; some aggregated code: xfillrectangle(disp, pixs, anycolor, 0, 0, width, height);
-xdraw[line|rect|string](...);
-xcopyarea(disp, pixs, win, 0, 0, width, height, 0, 0); i am using a rs6k 340 with bos 3.2. the question is: is this a bug in the aix x-server (may be some ptfs), or did i do something wrong within my code?? sorry for the cross-posting, but i really do not know what kind of
-error it is. juergen schietke
-research insitute for discrete mathematics
-university of bonn
-nassestr. 2
-5300 bonn 1 (germany) tel: +49 0228 738786
-e-mail: -bonn.de
+From Juergen Schietke Subject chars of big fonts are shown partially Hi all, I wrote a small application which uses pixmaps copied into a window to show some drawings This works perfectly for all kind of objects expect large fonts What happens on the screen is that the right half of the font is not shown The way I create these things is quite simple some aggregated code XFillRectangle Disp, Pixs, AnyColor, , , Width, Height XDraw Line Rect String XCopyArea Disp, Pixs, Win, , , Width, Height, , I am using a RS K with BOS The question is is this a bug in the AIX X server may be some PTFs , or did I do something wrong within my code Sorry for the cross posting, but I really do not know what kind of error it is Juergen Schietke Research Insitute for Discrete Mathematics University of Bonn Nassestr Bonn Germany Tel E Mail

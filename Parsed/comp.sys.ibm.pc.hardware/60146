@@ -1,10 +1,1 @@
-from grubb subject re why vesa local bus guy dawson writes how about an vlb ethernet card? move the data into the card at
->130 odd mb/s and then wait for it to tickle onto the net at
->just over 1mb/s.
-how about 250mb/s for 64-bit vlb or 350mb/s for quickring {apple's
-implimentation of vlb (byte 10/92:132)} quickring is interesting in that
-it allows interleaving with other card so that the 350mb/s can be divided among many cards at the same time {nubus 90 and mca are about the only card interfaces able to do anything with that kind of speed and even nubus 90
-ditzes around at ~30mb/s with a burst mode: 80mb/s.
-"mca {also called micro channel} ibm's 16 and 32-bit bus; "allows use of more than one cpu in a computer" (dct) and anything can talk to anything, >>as fast as the two components involved can handle it.<< never took off because it was incompatible with isa and eisa. planned to be bus interface of ibm powerpc 601 (carl jabido). ida can't handle vlb speed never mind quickrings's speed so it is out.
-eisa pokes along at nubus mac ii speeds {~15mb/s burst mode: 33mb/s} so vlb and quickring are slowed down by it.
-pci is a competing interface that is still in development.
+From GRUBB Subject Re Why VESA Local Bus Guy Dawson writes How about an VLB ethernet card Move the data into the card at odd MB s and then wait for it to tickle onto the net at just over Mb s How about MB s for bit VLB or MB s for QuickRing Apple's implimentation of VLB Byte QuickRing is interesting in that it allows interleaving with other card so that the MB s can be divided among many cards at the same time NuBus and MCA are about the only card interfaces able to DO anything with that kind of speed and even NuBus ditzes around at MB s with a burst mode MB s MCA Also called Micro Channel IBM's and bit bus allows use of more than one CPU in a computer DCT and anything can talk to anything, as fast as the two components involved can handle it Never took off because it was incompatible with ISA and EISA Planned to be bus interface of IBM PowerPC Carl Jabido IDA can't handle VLB speed never mind QuickRings's speed so it is out EISA pokes along at NuBus Mac II speeds MB s burst mode MB s so VLB and QuickRing are slowed down by it PCI is a competing interface that is still in development

@@ -1,9 +1,1 @@
-from stuart denman subject re d files what are they doug parsons writes i was chaining around in the anonymous ftp world looking for 3d studio
->meshes and other interesting graphical stuff for the program, and found
->a few files with the extension 3d2. my 3ds v2.01 doesn't know this type
->of file, so what are they? they are 3d object files for cad 3d 2.0, a program written by tom hudson
-for the atari st computers. don't know much more about them except that
-they are stored with the points first, then the surfaces are next, and are
-made by listing 3 point numbers that make up the triangle surface. then
-there's a header that describes coloring, lighting, etc. don't know much
-more than this, hope this helps. stuart denman
+From Stuart Denman Subject Re D files what are they Doug Parsons writes I was chaining around in the anonymous ftp world looking for D Studio meshes and other interesting graphical stuff for the program, and found a few files with the extension D My DS v doesn't know this type of file, so what are they They are D object files for CAD D , a program written by Tom Hudson for the Atari ST computers Don't know much more about them except that they are stored with the points first, then the surfaces are next, and are made by listing point numbers that make up the triangle surface Then there's a header that describes coloring, lighting, etc Don't know much more than this, hope this helps Stuart Denman

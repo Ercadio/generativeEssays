@@ -1,16 +1,1 @@
-from timothy e neto subject re x server multi screen rainer hochreiter writes hi xperts, some simple questions for you: >i've seen a lot of different terms, which seem to mean the same thing.
->who can give an exact definition what these terms mean: >	-) multi-screen
->	-) multi-headed
->	-) multi-display
->	-) x-server zaphod mode >is there a limit how many screens/displays a single server can handle
->(in an articel a read something about an upper limit of 12) ? >how is the capability called, if i want to move the cursor from one
->screen/display to another. >any hints welcome. >thanks, rainer.
->-- >rainer hochreiter | telephone: +43 (1) 89100 / 3961
->elin-energieanwendung gesmbh | telefax : +43 (1) 89100 / 3387
->penzingerstr. 76 |
->a-1141 wien, austria/europe | e-mail : as to how many clients may be display on a server, i believe the limit
-would be how much memory is available to your server or allocated by the
-server. -- indecision is the key to | timothy e. neto (206) 655-5190 1 000
-flexibility, & you can't | of b & t's gadget & widget works 1 0. .0
-e-mail god. | flight systems lab, boeing comm. aircraft 1 0 _ 0
-my ideas not boeing's    | internet:     1   000
+From Timothy E Neto Subject Re X server multi screen Rainer Hochreiter writes Hi Xperts, some simple questions for you I've seen a lot of different terms, which seem to mean the same thing Who can give an exact definition what these terms mean multi screen multi headed multi display X Server zaphod mode Is there a limit how many screens displays a single server can handle in an articel a read something about an upper limit of How is the capability called, if I want to move the cursor from one screen display to another Any hints welcome Thanks, rainer Rainer Hochreiter Telephone ELIN Energieanwendung GesmbH Telefax Penzingerstr A Wien, Austria Europe E mail As to how many clients may be display on a server, I believe the limit would be how much memory is available to your server or allocated by the server Indecision is the key to Timothy E Neto flexibility, you can't Of B T's Gadget Widget Works E Mail God Flight Systems Lab, Boeing Comm Aircraft My ideas not Boeing's Internet

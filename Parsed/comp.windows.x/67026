@@ -1,10 +1,1 @@
-from ian j hogg subject re how to put rpc in hp x motif environment in article nui chan) writes:
->
->has anybody implements an rpc server in the hp xwindows? in sun xview, there
->is a notify_enable_rpc_svc() call that automatically executes the rpc processes
->when it detects an incoming request. i wonder if there is a similar function in
->hp x/motif that perform the same function.
-> i've been using the xrpc package for about a year now. i believe i got it from
-export. --
-===============================================================================
-ian hogg (612) 424-6332
+From Ian J Hogg Subject Re how to put RPC in HP X motif environment In article A Nui Chan writes has anybody implements an RPC server in the HP Xwindows In SUN Xview, there is a notify enable rpc svc call that automatically executes the rpc processes when it detects an incoming request I wonder if there is a similar function in HP X motif that perform the same function I've been using the xrpc package for about a year now I believe I got it from export Ian Hogg

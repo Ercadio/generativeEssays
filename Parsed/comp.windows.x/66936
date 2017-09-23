@@ -1,18 +1,1 @@
-from doug acker subject re problem with libxmu on sunos and gcc in article qmt i , doug acker) writes:
-|> i am using x11r5patch23 with the r5-sunos5 patch posted on export.
-|> i did optionally apply the patch.olit.
-|>
-|> libxmu compiles fine .. when i try to use it with clients (i.e. bmtoa and
-|> twm), i get errors ... i can not figure out what is wrong:
-|>
-|> gcc -fpcc-struct-return -o twm gram.o lex.o deftwmrc.o add_window.o gc.o list.o twm.o parse.o menus.o events.o resize.o util.o version.o iconmgr.o cursor.o icons.o -o2 -r/usr/wgep/x11r5.sos5/lib${ld_run_path+\:$ld_run_path} -l../.././lib/xmu -lxmu -l.|> ./.././lib/xt -l../.././extensions/lib -l../.././lib/x -l../.././extensions/lib -lxext -l../.././extensions/lib -lxext -l../.././lib/x -lx11 -l/usr/wgep/x11r5.sos5/lib -lsocket -lnsl
-|> ld: warning: file ../.././extensions/lib/libxext.so: attempted multiple inclusion of file libxext.so
-|> undefined first referenced
-|> symbol in file
-|> xtwindowofobject ../.././lib/xmu/libxmu.so
-|> ld: fatal: symbol referencing errors. no output written to twm
-|> *** error code 1 the problem was that sunpost411ld was not defined. douglas l.acker western geophysical exploration products
-____ ____ ____ a division of western atlas international inc.
-\ \ / /\ / /\ a litton / dresser company \ \/ /  \ /   /  \        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  \  /   / \  /   /\   \       internet  :  
-   \/___/   \/___/  \___\      voice     :  (713) 964-6128
+From Doug Acker Subject Re Problem with libXmu on SUNOS and gcc In article qmt i , Doug Acker writes I am using X R patch with the R SUNOS patch posted on export I did optionally apply the patch olit libXmu compiles fine when I try to use it with clients i e bmtoa and twm , I get errors I can not figure out what is wrong gcc fpcc struct return o twm gram o lex o deftwmrc o add window o gc o list o twm o parse o menus o events o resize o util o version o iconmgr o cursor o icons o O R usr wgep X R sos lib LD RUN PATH LD RUN PATH L lib Xmu lXmu L lib Xt L extensions lib L lib X L extensions lib lXext L extensions lib lXext L lib X lX L usr wgep X R sos lib lsocket lnsl ld warning file extensions lib libXext so attempted multiple inclusion of file libXext so Undefined first referenced symbol in file XtWindowOfObject lib Xmu libXmu so ld fatal Symbol referencing errors No output written to twm Error code The problem was that SunPost Ld was not defined Douglas L Acker Western Geophysical Exploration Products a division of Western Atlas International Inc A Litton Dresser Company Internet Voice

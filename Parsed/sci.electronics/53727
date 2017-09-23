@@ -1,15 +1,1 @@
-from conrad winchester subject re motorola xc rc and rc in article , stich, christian e.) writes:
--| i just installed a motorola xc68882rc50 fpu in an amiga a2630 board (25 mhz
--| 68030 + 68882 with capability to clock the fpu separately). previously
--| a mc68882rc25 was installed and everything was working perfectly. now the
--| systems displays a yellow screen (indicating a exception) when it check for
--| the presence/type of fpu. when i reinstall an mc68882rc25 the system works
--| fine, but with the xc68882 even at 25 mhz it does not work. the designer
--| of the board mentioned that putting a pullup resistor on data_strobe (470 ohm)
--| might help, but that didn't change anything. does anybody have some
--| suggestions what i could do? does this look like a cpu-fpu communications
--| problem or is the particular chip dead (it is a pull, not new)?
--| moreover, the place i bought it from is sending me an xc68882rc33. i thought
--| that the 68882rc33 were labeled mc not xc (for not finalized mask design). -| are there any mc68882rc33?
--| -| thanks
--| christian -| have you changed the crystal that clocks for the fpu. if you haven't then it won't work. conrad
+From Conrad Winchester Subject Re Motorola XC RC and RC In article APR , Stich, Christian E writes I just installed a Motorola XC RC FPU in an Amiga A board MHz with capability to clock the FPU separately Previously a MC RC was installed and everything was working perfectly Now the systems displays a yellow screen indicating a exception when it check for the presence type of FPU When I reinstall an MC RC the system works fine, but with the XC even at MHz it does not work The designer of the board mentioned that putting a pullup resistor on data strobe Ohm might help, but that didn't change anything Does anybody have some suggestions what I could do Does this look like a CPU FPU communications problem or is the particular chip dead it is a pull, not new Moreover, the place I bought it from is sending me an XC RC I thought that the RC were labeled MC not XC for not finalized mask design Are there any MC RC Thanks Christian Have you changed the crystal that clocks for the FPU If you haven't then it won't work Conrad

@@ -1,10 +1,1 @@
-from noah price subject re quadra scsi problems in article , tim smith wrote > > attention: mac quadra owners: many storage industry experts have
-> > concluded that mac quadras suffer from timing irregularities deviating
-> > from the standard scsi specification. this results in silent corruption
-> > of data when used with some devices, including ultra-modern devices.
-> > although i will not name the devices, since it is not their fault... that's fine, but would you name the "industy experts" so i can try to track
-this down? > this doesn't sound right to me. don't quadras use the 53c96? if so, the
-> mac has nothing to do with the scsi timing. that's all handled by the
-> chip. yup. that's why i'm kinda curious... most scsi problems i've encountered
-are due to cabling. noah ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ macintosh hardware design
-...!{sun,decwrl}!apple!noah (not the opinions of) apple computer, inc.
+From Noah Price Subject Re Quadra SCSI Problems In article qm hvINN , Tim Smith wrote ATTENTION Mac Quadra owners Many storage industry experts have concluded that Mac Quadras suffer from timing irregularities deviating from the standard SCSI specification This results in silent corruption of data when used with some devices, including ultra modern devices Although I will not name the devices, since it is not their fault That's fine, but would you name the industy experts so I can try to track this down This doesn't sound right to me Don't Quadras use the C If so, the Mac has nothing to do with the SCSI timing That's all handled by the chip Yup That's why I'm kinda curious most SCSI problems I've encountered are due to cabling noah Macintosh Hardware Design sun,decwrl apple noah not the opinions of Apple Computer, Inc

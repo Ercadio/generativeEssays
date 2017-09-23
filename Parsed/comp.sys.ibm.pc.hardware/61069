@@ -1,10 +1,1 @@
-from mark ashley subject re dx isa,vlb xor dx eisa advice wanted in article <> (ross mitchell) writes:
->>i have a choice now between basically the above system but with a
->>486dx2-66 with isa and vlb, or, a 486dx-50 with eisa and no vlb (and thus
->>the non-local bus version of the ati card). which is better, keeping in mind
->>that i'm primarily interested in the last two tasks? micronics & ami came out with eisa/vlb motherboards.
-byte mag tests indicate that vlb is faster for video
-but eisa is faster for disk ops. so i'll wait for
-gw2k to hopefully start using the micronics board. -- -------------------------------------------------------------------------
-mark ashley |disclaimer: my opinions. not harris' |
-the lost los angelino |
+From Mark Ashley Subject Re DX ISA,VLB xor DX EISA Advice wanted In article A Ross Mitchell writes I have a choice now between basically the above system but with a DX with ISA and VLB, or, a DX with EISA and no VLB and thus the non local bus version of the ATI card Which is better, keeping in mind that I'm primarily interested in the last two tasks Micronics AMI came out with EISA VLB motherboards Byte Mag tests indicate that VLB is faster for video but EISA is faster for disk ops So I'll wait for GW K to hopefully start using the Micronics board Mark Ashley DISCLAIMER My opinions Not Harris' The Lost Los Angelino

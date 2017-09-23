@@ -1,9 +1,1 @@
-from stan burton subject long distance ir detection i would like to be able to detect the angular position low accuracy) of an
-ir emitting source at a distance of about 100 meters (more is better) in
-daylight. the ir source could be emitting a signature; i'm leaning toward
-30 khz square wave with 50% duty cycle. i am considering the use of a quadrant detector from centronic inc. to give
-information to a pan/tilt head to point the sensor and thus determine the
-angles. for the source i am considering wazing the heck out of an ir led(s),
-possibly an optek op290 or motorola mled81. wazing would mean at least 1 amp
-current pulses. at this current the duty cycle of the led drops to 10% and i
-would need to cycle five of them in turn to get the 50% required. has anyone done something like this? stan burton (dnd/crad/dres/dtd/mss/agcg) (403) 544-4737 dre suffield, box 4000, medicine hat, ab, canada, t1a 8k6
+From Stan Burton Subject Long distance IR detection I would like to be able to detect the angular position low accuracy of an IR emitting source at a distance of about meters more is better in daylight The IR source could be emitting a signature I'm leaning toward KHz square wave with duty cycle I am considering the use of a quadrant detector from Centronic Inc to give information to a pan tilt head to point the sensor and thus determine the angles For the source I am considering wazing the heck out of an IR LED s , possibly an Optek OP or Motorola MLED Wazing would mean at least Amp current pulses At this current the duty cycle of the LED drops to and I would need to cycle five of them in turn to get the required Has anyone done something like this Stan Burton DND CRAD DRES DTD MSS AGCG DRE Suffield, Box , Medicine Hat, AB, Canada, T A K

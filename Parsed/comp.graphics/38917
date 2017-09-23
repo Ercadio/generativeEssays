@@ -1,10 +1,1 @@
-from wes barris subject re wanted bit viewer in article , gilles deniaud writes > hello,
-|> |> thanks to the people who helped me with the problem of
-|> displaying 24 bit images. all the viewers like xli,
-|> xloadimage and display are converting the 24 bit images
-|> to 8 bit before display them on the screen.
-|> |> what i really want is a viewer with make use of the 24 bit
-|> frame/screen buffer (in our case, the parallax one). both xli and xloadimage will display in 24 bit color if a 24 bit visual
-is available. check the output of xdpyinfo to see if one is. ===============================================================================
-wes barris ph: (612) 626-8090
-minnesota supercomputer center, inc. email:
+From Wes Barris Subject Re WANTED bit viewer In article , Gilles Deniaud writes Hello, Thanks to the people who helped me with the problem of displaying bit images All the viewers like xli, xloadimage and display are converting the bit images to bit before display them on the screen What I really want is a viewer with make use of the bit frame screen buffer in our case, the Parallax one Both xli and xloadimage will display in bit color if a bit visual is available Check the output of xdpyinfo to see if one is Wes Barris PH Minnesota Supercomputer Center, Inc Email

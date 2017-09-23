@@ -1,7 +1,1 @@
-from matthew zenkar subject re cview answers ray knight wrote bryan k williams writes >re: majority of users not readding from floppy.
-:>well, how about those of us who have 1400-picture cd-roms and would like to use
-:>cview because it is fast and it works well, but can't because the moron lacked
-:>the foresight to create the temp file in the program's path, not the current
-:>didrectory? : actually the most flexible way to create temp files is to check for a temp or
-: tmp environment variable and create the files on the drive and directory pointedto by the variable. this is pretty much a standard for dos, windows and os/2
-: applications. unfortunately, cview does not pay attention to the temp environment variable. matthew zenkar
+From Matthew Zenkar Subject Re CView answers Ray Knight wrote bryan k williams writes re majority of users not readding from floppy Well, how about those of us who have picture CD ROMS and would like to use CVIEW because it is fast and it works well, but can't because the moron lacked the foresight to create the temp file in the program's path, not the current didrectory Actually the most flexible way to create temp files is to check for a TEMP or TMP environment variable and create the files on the drive and directory pointedto by the variable This is pretty much a standard for DOS, Windows and OS applications Unfortunately, cview does not pay attention to the temp environment variable Matthew Zenkar

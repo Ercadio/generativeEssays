@@ -1,3 +1,1 @@
-from walt daniels subject x, shared libraries, and replacing modules in them i know nothing about sun's but replacing pieces of libraries, shared or not, is straight forward on rs/6000's (all releases). extract the
-appropriate pierce with ar; rebind the .o; and replace with ar.
-see info for details.
+From COM Walt Daniels Subject X, shared libraries, and replacing modules in them I know nothing about Sun's but replacing pieces of libraries, shared or not, is straight forward on RS 's all releases Extract the appropriate pierce with ar rebind the o and replace with ar See Info for details

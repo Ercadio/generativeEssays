@@ -1,5 +1,1 @@
-from steve steve brinich subject s , s second question why why is such a strange procedure used, and not >a real rng ? this turns those s1,s2 in a kind of bottleneck for system- >security. the only theory that makes any sense is that s1 and s2 are either the
-same for all chips, or vary among very few possibilities, so that anyone
-trying to break the encryption by brute force need only plow through the
-possible serial numbers (2^30, about one billion), multiplied by the number
-of different s1, s2 combinations.
+From Steve Brinich Subject S , S Second question Why Why is such a strange procedure used, and not a real RNG This turns those S ,S in a kind of bottleneck for system security The only theory that makes any sense is that S and S are either the same for all chips, or vary among very few possibilities, so that anyone trying to break the encryption by brute force need only plow through the possible serial numbers , about one billion , multiplied by the number of different S , S combinations

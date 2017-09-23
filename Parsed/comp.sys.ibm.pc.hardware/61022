@@ -1,8 +1,1 @@
-from sean gordon subject help, i need a mac se modem port to pc way serial port cable i'm trying to connect a mac se modem port to a pc 25 way serial port,
-can someone provide me with a wiring diagram for a null modem lead for
-this setup. please use email since my news feed is a bit quirky. thanks in advance sean gordon
---------------------------------------------------------------------------------
-|#include <stdio.h>
-ncr (e&m) ltd. |long a=10000,b,c=2800,d,e,f[2801],g;main(){for(;b-c;)
-tel (0382) 592586 |f[b++]=a/5;for(;d=0,g=c*2;c-=14,printf("%.4d",e+d/a),
-fax (0382) 622243 |e=d%a)for(b=c;d+=f[b]*a,f[b]=d%--g,d/=g--,--b;d*=b);}
+From seang ddbeezer Dundee NCR COM Sean Gordon Subject Help, I need a Mac SE modem port to PC way serial port cable I'm trying to connect a Mac SE modem port to a PC way serial port, can someone provide me with a wiring diagram for a null modem lead for this setup Please use Email since my news feed is a bit quirky Thanks in advance Sean Gordon Sean Gordon Dundee NCR COM include stdio h NCR E M Ltd long a ,b,c ,d,e,f ,g main for b c Tel f b a for d ,g c c ,printf d ,e d a , Fax e d a for b c d f b a,f b d g,d g , b d b

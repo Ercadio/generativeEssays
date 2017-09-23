@@ -1,11 +1,1 @@
-from john whitmore subject re suggestions on audio relays in article billy quinn writes >i built a little project using the radio shack 5vdc relays to switch
->audio. i got pretty bad 'clicks' when the thing switched. >	is there a good relay/relay circuit that i can use for switching
->audio, so that there will be *no* noise of any kind on the audio lines. with relays alone, you will always get a transient when
-you abruptly turn on or off any channel. if you don't want to hear
-the transient, use some other device (a photoresistor-output optoisolator
-is the usual sort of thing) to gently mute the signal, then switch,
-then remove the power from the lamp in the optoisolator. it used to be standard practice to employ photoresistors
-in switching audio, because the photoresistor time delay (a few
-thousandths of a second) kept any noise in the digital side (which
-drives the lamp) from contaminating the audio. and, the devices
-are cheaper than relays. john whitmore
+From John Whitmore Subject Re Suggestions on Audio relays In article C qsBF IEK ms uky edu Billy Quinn writes I built a little project using the radio shack vdc relays to switch audio I got pretty bad 'clicks' when the thing switched Is there a good relay relay circuit that I can use for switching audio, so that there will be NO noise of any kind on the audio lines With relays alone, you will always get a transient when you abruptly turn ON or OFF any channel If you don't want to hear the transient, use some other device a photoresistor output optoisolator is the usual sort of thing to gently MUTE the signal, then switch, THEN remove the power from the lamp in the optoisolator It used to be standard practice to employ photoresistors in switching audio, because the photoresistor time delay a few thousandths of a second kept any noise in the digital side which drives the lamp from contaminating the audio And, the devices are cheaper than relays John Whitmore

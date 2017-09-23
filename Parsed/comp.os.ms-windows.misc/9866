@@ -1,9 +1,1 @@
-from robert k nichols subject re simple windows question in article diamond writes when running dos .0 under windows 3.0, i lose the ability to do a
->print-screen.
->i have no problem with this when i'm running dos not under windows.
-... open up the .pif file with the pif editor, click on the "advanced" button,
-and then reserve the prtsc key for the application. any keys that you
-select in this section will be passed along to the application rather than
-being processed by windows. --
-bob nichols
-at&t bell laboratories
+From robert k nichols Subject Re Simple Windows question In article A DIAMOND writes When running DOS under Windows , I lose the ability to do a print screen I have no problem with this when I'm running DOS not under Windows Open up the PIF file with the PIF Editor, click on the Advanced button, and then reserve the PrtSc key for the application Any keys that you select in this section will be passed along to the application rather than being processed by Windows Bob Nichols AT T Bell Laboratories

@@ -1,10 +1,1 @@
-from ian j hogg subject re how do i find my appcontext in article qvatv todd greene writes:
->
->
->is there an xt call to give me my application context?
->i am fixing up an x/motif program, and am trying to use xtappaddtimeout,
->whose first argument is the app_context. what call can i use
->to give me this value?
-> you can get the applicationcontext associated with a widget by calling xtwidgettoapplicationcontext. --
-===============================================================================
-ian hogg (612) 424-6332
+From Ian J Hogg Subject Re How do I find my AppContext In article qvatv Todd Greene writes Is there an Xt call to give me my application context I am fixing up an X Motif program, and am trying to use XtAppAddTimeOut, whose first argument is the app context What call can I use to give me this value You can get the ApplicationContext associated with a widget by calling XtWidgetToApplicationContext Ian Hogg

@@ -1,10 +1,1 @@
-from allan schwartz subject re making an internal hard disk into an external its not a difficult operation the cables and such are standard,
->except for scsi id. scsi id is usually three jumper pads-- labelled
->a0-a2 on quantums. i am trying to put a 40mb drive from my lc into a case. it is a conner
-cp3040a. i can't figure out which jumpers are the scsi id jumpers.
-is anyone familiar with this drive? at the end of the drive (oposite the 50 pin pibbon connector), there
-are eleven pins which look like this: o o o o o o 1 o o o o o 2 l5 cr12 c37 where the "o" are pins, and the "l5 cr12 c37" represent some of the
-silk screen notation near these pins. elsewhere on the board there are four jumper pads marked e1,e2,e3,e4
-on the silk screen. does anyone know where the scsi id a0,a1,a2 pins are, and where the
-drive activity light led should be plugged into? -allan
--- allan m. schwartz +1 408 492-0900
+From ams Auspex COM Allan Schwartz Subject Re Making an internal hard disk into an external Its not a difficult operation the cables and such are standard, except for SCSI ID SCSI ID is usually three jumper pads labelled A A on Quantums I am trying to put a MB drive from my LC into a case It is a Conner CP A I can't figure out which jumpers are the SCSI ID jumpers Is anyone familiar with this drive At the end of the drive oposite the pin pibbon connector , there are eleven pins which look like this o o o o o o o o o o o L CR C where the o are pins, and the L CR C represent some of the silk screen notation near these pins Elsewhere on the board there are four jumper pads marked E ,E ,E ,E on the silk screen Does anyone know where the SCSI ID A ,A ,A pins are, and where the drive activity light LED should be plugged into allan Allan M Schwartz

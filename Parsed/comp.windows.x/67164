@@ -1,16 +1,1 @@
-from g lee owen subject re wanted info on dedicated x server kernel for sun series if anyone has any information about the existence or location of a
-> dedicated x server kernel for the sun3, please send email. i am
-> trying to put some neglected sun3s to good use but they don't have
-> enough memory for sunos 4.1.1. thanks in advance for any help. there is a free program called 'xkernel' which does just that.
-it is by seth robertson (). it takes a sun 3 and
-boots a limited kernel which allows you to run x. we converted 4
-machines over this semester and the speedup is enormously appreciable
--- i find them faster than an ncd 15inch black&white xterminal that we
-are playing with, and a bigger screen to boot! as a matter of fact,
-the department just bought some old sun3s at an auction to convert! } xkernel is available for anonymous ftp from ftp.ctr.columbia.edu
-} [128.59.64.40] in /xkernel/xkernel.shar (/xkernel is a symlink to the
-} latest version of xkernel) note that the compiled version which is available is for the
-sun 3/50, but compiling to work for a sun 3/1xx should be quite easy. i am not connected with xkernel except as a satisfied
-installer and user 8). i may be able to answer questions; feel free
-to email me. greg owen { , }
-systems programmer and ta, tufts university computer science dept. 230- all transfers are disclaimed by my host name and boss's address. 230- if you don't like this policy, disconnect now!
+From G Lee Owen Subject Re WANTED Info on Dedicated X Server Kernel for Sun Series If anyone has any information about the existence or location of a dedicated X server kernel for the Sun , please send email I am trying to put some neglected Sun s to good use but they don't have enough memory for SunOS Thanks in advance for any help There is a free program called 'xkernel' which does just that It is by Seth Robertson It takes a sun and boots a limited kernel which allows you to run X We converted machines over this semester and the speedup is enormously appreciable I find them faster than an NCD inch black white XTerminal that we are playing with, and a bigger screen to boot As a matter of fact, the department just bought some old sun s at an auction to convert Xkernel is available for anonymous ftp from ftp ctr columbia edu in Xkernel Xkernel shar Xkernel is a symlink to the latest version of Xkernel Note that the compiled version which is available is for the sun , but compiling to work for a sun xx should be quite easy I am not connected with xkernel except as a satisfied installer and user I may be able to answer questions feel free to email me Greg Owen , Systems Programmer and TA, Tufts University Computer Science Dept All transfers are disclaimed by my host name and boss's address If you don't like this policy, disconnect now

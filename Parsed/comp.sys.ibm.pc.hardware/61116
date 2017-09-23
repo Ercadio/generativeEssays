@@ -1,14 +1,1 @@
-from dieter fritzsche subject re vl bus hdd fdd controller or ide hdd fdd controller in beng hang tay writes:
->hi,
->	i am buying a quantum lps240at 245 mb hardisk and is deciding a
->	hdd/fdd controller. is 32-bit vl-bus hdd/fdd controller faster >	than 16 bit ide hdd/fdd controller card? i hear that
->	the vl bus controller is slower than a ide controller?
->	which one is true? the vl-ide adapter can be much faster then the normal ide, it depends on the
-drive you use and the board you use. i am using a noname vl-ide i/o contr.
-it is tested under coretest with 2.000 kb/s using a cheap seagate 3196 and nearly
-4000 kb/s using a wd-caviar 2340, you have figure out the jumper setting on the
-controller to get reliable diskaccess, fastest setting gets 4600 kb/s under coretest
-but does not work reliable. you have to shadow the adapter bios to get the fast
-speed. i haven´t used a vl-ide-cache controller yet, but it might speed up twice. dieter -- dieter fritzsche maehlsweg 32 ,d-2300 kiel 17, germany master of the wom
-tel .: +49 431 362705 (voice)
-fax\box: +49 431 361437 zyxel-v.fast-waffle/fax compuserve 100060,654
+From Dieter Fritzsche Subject Re VL bus HDD FDD controller or IDE HDD FDD controller In Beng Hang TAY writes Hi, I am buying a Quantum LPS AT MB hardisk and is deciding a HDD FDD controller Is bit VL bus HDD FDD controller faster than bit IDE HDD FDD controller card I hear that the VL bus controller is SLOWER than a IDE controller Which one is true The VL IDE Adapter can be much faster then the normal IDE, it depends on the drive you use and the board you use I am using a NoName VL IDE I O Contr it is tested under coretest with kb s using a cheap Seagate and nearly kb s using a WD Caviar , you have figure out the jumper setting on the controller to get reliable diskaccess, fastest setting gets kb s under Coretest but does not work reliable You have to shadow the adapter BIOS to get the fast speed I haven t used a VL IDE Cache controller yet, but it might speed up twice dieter Dieter Fritzsche Maehlsweg ,D Kiel , Germany Master of the WOM Tel Voice FAX BOX ZyXEL V fast Waffle FAX compuserve ,

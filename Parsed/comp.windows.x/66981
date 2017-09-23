@@ -1,6 +1,1 @@
-from huub bakker subject waiting for a specific event callback hello world, i want to write my xt application code like this do_some_work(); /* now i need some user input */ xmcreatedialog(); wait_for_user_input(input); if (input == "ok") { more_work(); } else { other_work(); }
-} so "more_work() and other_work()" are not in callback functions but the
-application simply waits for the user to answer the question. how can i code this in my xt/motif-application? thanks very much in advance. greetings, huub. -- cwi, p.o. box 4079 huub bakker ()
-1009 ab amsterdam
-the netherlands
-tel. 31 20 5924080
+From Huub Bakker Subject waiting for a specific event callback Hello world, I want to write my Xt application code like this do some work now I need some user input XmCreateDialog wait for user input input if input OK more work else other work So more work and other work are not in callback functions but the application simply waits for the user to answer the question How can I code this in my Xt Motif application Thanks very much in advance Greetings, Huub CWI, P O Box Huub Bakker AB Amsterdam The Netherlands Tel

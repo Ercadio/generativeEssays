@@ -1,4 +1,1 @@
-from aachen de christian franke subject info about fast centronics, ecp, epp hello, in the edn magazine i found a note about the new c t 82c735
-i/o controller. it support several parallel port protocols,
-including fast centronics microsoft enhanced capabilities protocol (ecp) enhanced parallel port (epp)
-the last two handle data rates up to 2mbytes/sec. is there any specification about these protocols available? regards, christian franke aachen university of technology informatik i ahornstrasse 55 w-5100 aachen germany tel.: +49.241.80-21111 e-mail: -aachen.de
+From Christian Franke Subject Info about Fast Centronics, ECP, EPP Hello, in the EDN magazine I found a note about the new C T C I O Controller It support several parallel port protocols, including Fast Centronics Microsoft Enhanced Capabilities Protocol ECP Enhanced Parallel Port EPP The last two handle data rates up to Mbytes sec Is there any specification about these protocols available Regards, Christian Franke Aachen University of Technology Informatik I Ahornstrasse W Aachen Germany Tel E Mail

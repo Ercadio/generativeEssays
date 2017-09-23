@@ -1,5 +1,1 @@
-from michael fulbright subject re analog switches balanced demodulators kenny adams writes hi, instead of using a +15vdc supply for the 4066 try using a +7 and -7
->volt supply. i have some commercial audio equipment that uses this approach
->for ground referenced audio. they use the -7 volt supply as the logic
->ground. in this case would the switch control voltages be -7v to turn the switch
-off and >0v to turn the switch on? michael fulbright
+From Michael Fulbright Subject Re Analog switches Balanced Demodulators Kenny Adams writes hi, instead of using a vdc supply for the try using a and volt supply i have some commercial audio equipment that uses this approach for ground referenced audio they use the volt supply as the logic ground In this case would the switch control voltages be V to turn the switch off and V to turn the switch on michael fulbright

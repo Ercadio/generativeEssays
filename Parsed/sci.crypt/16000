@@ -1,13 +1,1 @@
-from jeff hupp subject re clipper and conference calls in article , wm michael feeley writes >> just curious, how would the clipper chip system handle
->> conference calls?
->
->it's not clipper, it's any encryption system. i've seen a number of
->designs; they generally involve a multi-line cleartext bridge.
-> a 'multi-line cleartext bridge?" ^^^^^^^^^ and just were would you put that bridge? if it isn't at one of
-the receiptants location, forget encryption at all. you have blown any
-security you thought you might have had. _____________________________________________________________________
-\jeff hupp |internet: \
-|9797 medowglen, apt. 1807 |ad: contract programming, novell |
-|houston, texas 77042 | network design and support. |
-|voice: (713) 780 - 9419 |"the best govenment doesn't" -- me. |
-\_____________________________________________________________________\
+From Jeff Hupp Subject Re Clipper and conference calls In article , Wm Michael Feeley writes Just curious, how would the Clipper Chip system handle conference calls It's not Clipper, it's any encryption system I've seen a number of designs they generally involve a multi line cleartext bridge A 'multi line cleartext bridge And just were would you put that bridge If it isn't at one of the receiptants location, forget encryption at all You have blown any security you thought you might have had Jeff Hupp Internet Medowglen, Apt Ad Contract Programming, Novell Houston, Texas Network Design and Support Voice The best govenment doesn't me

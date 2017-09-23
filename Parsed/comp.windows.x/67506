@@ -1,6 +1,1 @@
-from gina bull subject need patches to use dev cgtwelve the good news is we just got two sparc 's the bad news is
-that /dev/cgtwelve0 is apparently not supported in x11r4 or
-x11r5. does anyone know of a patch (and how i can obtain it)
-to either x version that will enable us to use x11 on our
-sparc10's? adthanksvance
-gina
+From Virginia EDU Gina Bull Subject Need patches to use dev cgtwelve The good news is we just got two Sparc 's The bad news is that dev cgtwelve is apparently not supported in X R or X R Does anyone know of a patch and how I can obtain it to either X version that will enable us to use X on our Sparc 's adTHANKSvance Gina

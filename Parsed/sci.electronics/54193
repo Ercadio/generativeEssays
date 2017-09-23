@@ -1,17 +1,1 @@
-from oscar r mitchell subject development tools for c in article james gustave writes:
->
->could someone point me toward a source (ftp/bbs/whatever) for development
->tools for the 8051 microprocessor. i specifically am looking for a macintosh
->cross-assembler/disassembler. also, is there a mailing-list dedicated to
->discussing the 8051? thanks.
->
->-- >________________________________________________________________________________
->james speth email for pgp compatible public-key i have the same question for any tools for the 6502 derivative processor
-the 65c816 processor (designed by western design center). thanks,
-oscar.
-<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><> oscar r. mitchell ibm advanced workstations and systems division risc system/6000(tm) - future systems hardware architecture and design group mail stop: zip 9461 11400 burnet road austin, texas 78758 usa phone: (512)823-0000 ibm tieline: 678-8513 usa "fax": (512)838-8561 ibm vnet: oscar at ausvm6 ibm internet: usa internet: #include <standard.disclaimer> /* i do not speak for ibm, only for myself */
-<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
--- <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
- ibm corporation - advanced workstations and systems division
- risc system/6000(tm) - future systems hardware architecture and design group
-                  usa internet:
+From Oscar R Mitchell Subject Development tools for C In article ree INNdmp darkstar UCSC EDU James Gustave writes Could someone point me toward a source FTP BBS whatever for development tools for the microprocessor I specifically am looking for a Macintosh cross assembler disassembler Also, is there a mailing list dedicated to discussing the Thanks james speth email for pgp compatible public key I have the same question for any tools for the derivative processor the C processor designed by Western Design Center Thanks, Oscar Oscar R Mitchell IBM Advanced Workstations and Systems Division RISC System tm Future Systems Hardware Architecture and Design Group Mail Stop ZIP Burnet Road Austin, Texas USA Phone IBM Tieline USA FAX IBM VNet OSCAR at AUSVM IBM InterNet USA InterNet include standard disclaimer I DO NOT speak for IBM, only for MYSELF IBM Corporation Advanced Workstations and Systems Division RISC System tm Future Systems Hardware Architecture and Design Group USA InterNet

@@ -1,10 +1,1 @@
-from subject more adaptec b problems okay, here is my configuration gateway 433c micronics isa
-12mb ram wd212mb ide hd ( drive c: )
-st3144a 125mb ide hd ( drive d: )
-adaptec scsi 1542b controller, with scsi bios enabled
-seagate st296n 80mb scsi drive alrighty, when i boot up i get the adaptec bios message, but it says
-something like: "drive c: installed"
-"drive d: installed"
-"adaptec scsi bios not installed!" and i can't get to the seagate drive. i go into phoenixbios setup, remove the entry for drive d:, and boom, i can
-access the seagate. is there a way to get two ide drives and the seagate
-at the same time? i have aspi4dos.sys, but it just hangs the system. brian
+From Subject More Adaptec B problems Okay, here is my configuration Gateway C Micronics ISA MB RAM WD MB IDE HD drive C ST A MB IDE HD drive D Adaptec SCSI B controller, with SCSI BIOS enabled Seagate ST N MB SCSI drive Alrighty, when I boot up I get the Adaptec BIOS message, but it says something like Drive C installed Drive D installed ADaptec SCSI BIOS not installed And I can't get to the Seagate drive I go into PhoenixBIOS setup, remove the entry for drive D , and BOOM, I can access the Seagate Is there a way to get two IDE drives and the Seagate at the same time I have ASPI DOS SYS, but it just hangs the system Brian

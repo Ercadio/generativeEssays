@@ -1,15 +1,1 @@
-from allen mulvey, suny, oswego, ny subject re memory slot problem in article qiijs , ralph valentino writes > i finally decided to upgrade my 486-33 eisa's memory from 8 meg to 16
-> meg - two months after the parts warranty ran out on the (anigma)
-> motherboard - two months too late. it seems there's a problem with
-> one or both of the two 1m/2mx36bit sim slots in bank b. on boot i get
-> a pattern test failure at address 0xa00000 and the system deconfigures
-> the top 6 meg. the sims are good, i tried rotating all of them into
-> bank a. on one of the configurations, however, the pattern test
-... deletions...
-> failed at 0x800000. in all tests, the pattern that appeared was the same as the pattern if no sim was in place. this leads me to believe
-> the one or two of the connector address pins are at fault and, with a
-> lot of luck, might be patchable. > > -ralph
-> ===============
-> ralph valentino () ()
-> hardware engineer, worcester polytechnic institute
-> center for high performance computing, marlborough ma many motherboards have jumpers to enable/disable the memory banks. did you check that out? allen mulvey
+From Allen Mulvey, SUNY, Oswego, NY Subject Re Memory Slot Problem In article qiijs t bigboote WPI EDU , ralf wpi WPI EDU Ralph Valentino writes I finally decided to upgrade my EISA's memory from Meg to Meg two months after the parts warranty ran out on the Anigma motherboard two months too late It seems there's a problem with one or both of the two M Mx bit sim slots in bank B On boot I get a pattern test failure at address xa and the system deconfigures the top Meg The sims are good, I tried rotating all of them into bank A On one of the configurations, however, the pattern test deletions failed at x In all tests, the pattern that appeared was the same as the pattern if no sim was in place This leads me to believe the one or two of the connector address pins are at fault and, with a lot of luck, might be patchable Ralph Ralph Valentino Hardware Engineer, Worcester Polytechnic Institute Center for High Performance Computing, Marlborough MA Many motherboards have jumpers to enable disable the memory banks Did you check that out Allen mulvey

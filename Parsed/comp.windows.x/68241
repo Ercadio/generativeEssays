@@ -1,7 +1,1 @@
-from park jang ho subject x r on ibm rs how are you, everybody i installed x r5 on our ibm rs6000 workstation. os version is aix 3.2.3.
-there was no problem in installation.
-but there was a problem in invoking 'xinit'.
-when i invoke 'xinit', there is a error message as follows: giving up.
-xinit: unable to connect to x server
-xinit: no such process (errno 3): server error. i'm a navice. so i don't know the reason why i get this message.
-please help me. i am waiting for your help. thanks for reading this mail. -park jang ho ()
+From Park Jang Ho Subject X R on IBM RS How are you, Everybody I installed X R on our IBM RS workstation OS version is AIX There was no problem in installation But there was a problem in invoking 'xinit' When I invoke 'xinit', there is a error message as follows giving up xinit unable to connect to X server xinit No such process errno Server error I'm a navice So I don't know the reason why I get this message Please help me I am waiting for your help Thanks for reading this mail Park Jang Ho

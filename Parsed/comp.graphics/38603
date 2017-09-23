@@ -1,9 +1,1 @@
-from martin preston subject re tiff philosophical significance of in allen b writes >i've got the 6.0 spec (obviously since i quoted it in my last posting). >my gripe about tiff is that it's far too complicated and nearly
->infinitely easier to write than to read,... why not use the pd c library for reading/writing tiff files? it took me a
-good 20 minutes to start using them in your own app. martin --
----------------------------------------------------------------------------
-|martin preston, () | computer graphics |
-|computer graphics unit, manchester computing centre, | is just |
-|university of manchester, | a load of balls. |
-|manchester, u.k., m13 9pl phone : 061 275 6095 | |
----------------------------------------------------------------------------
+From Martin Preston Subject Re TIFF philosophical significance of In C sCGu LL mentor cc purdue edu Allen B writes I've got the spec obviously since I quoted it in my last posting My gripe about TIFF is that it's far too complicated and nearly infinitely easier to write than to read, Why not use the PD C library for reading writing TIFF files It took me a good minutes to start using them in your own app Martin Martin Preston, Computer Graphics Computer Graphics Unit, Manchester Computing Centre, is just University of Manchester, a load of balls Manchester, U K , M PL Phone

@@ -1,7 +1,1 @@
-from mike smith subject dll's and registerclass createwindow hi all, i have a dll in which i register a class and create a window of that
-class type. both calls require a module instance handle, hinstance. petzold's 3.1 book says that it is best to use the module instance
-handle of the calling program, not the module instance handle of the
-dll (page 934). i have two questions: 1) is there a way to find out the module instance handle of a module? 2) what are the possible problems with using the instance handle of the dll? thanks in advance,
-mike
---
------------------------------------------------------------------------ mike smith e-mail: bull hn information systems inc. phone: (508) 294-2049 300 concord road ma30 - 815a fax: (508) 294-3807 billerica, ma 01821 usa -----------------------------------------------------------------------
+From Mike Smith Subject DLL's and RegisterClass CreateWindow Hi all, I have a DLL in which I Register a class and create a window of that class type Both calls require a module instance handle, hInstance Petzold's book says that it is best to use the module instance handle of the calling program, not the module instance handle of the DLL page I have two questions Is there a way to find out the module instance handle of a module What are the possible problems with using the instance handle of the DLL Thanks in advance, Mike Mike Smith e mail M S Bull HN Information Systems Inc phone Concord Road MA A fax Billerica, MA USA

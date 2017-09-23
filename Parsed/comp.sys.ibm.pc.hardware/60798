@@ -1,16 +1,1 @@
-from michael gerhards subject re modems and uarts ryan jeffrey baucom wrote what is a 6550 uart? i don't know the exact meaning of uart, but i think it is something like
-universal arithmetic receiver transmitter. normally, the older boards have
-a 8250 or 16450 uart on board. those chips generate an irq for every char
-they received. the 16550 uart has an internal 16 byte buffer, so - with the
-right software installed - it generates an irq every 16 chars. > 2) what does it do for high-speed modems?
-> 3) is it necessary for 14.4k or higher throughput? if you ran dos, you don't need a 16550, because dos runs only one task at a
-time and the whole cpu-power could be used for the transfer. but if you are
-running a multitasking os such as os/2, unix, etc. ( windows ? :-) ), the
-cpu cannot work the whole time with one task. the result are lost characters or broken transmissions because of timeouts. > 4) is it only for internal modems? no. the only diffrence is that internal modems have the uart on board,
-whereas external modems are connected to the computer over a serial port
-which has the uart on board. > if you have any experience with 9600 or higher speed modems, please
-> let me know what you think. also, any particular brand name reccomended,
-> or will a cheapo clone do just a well? i use a zyxel1496b with a 16550uart under coherent 4.0. i'm very satisfied
-with it but i think that nearly everyone is satisfied with his own modem. michael
---
-* * michael gerhards * preussenstrasse 59 * * germany 4040 neuss * voice: 49 2131 82238 *
+From michael jester GUN de Michael Gerhards Subject Re Modems and UARTs RYAN JEFFREY BAUCOM wrote What is a UART I don't know the exact meaning of UART, but I think it is something like Universal Arithmetic Receiver Transmitter Normally, the older boards have a or UART on board Those chips generate an IRQ for every char they received The UART has an internal byte buffer, so with the right software installed it generates an IRQ every chars What does it do for high speed modems Is it necessary for k or higher throughput If you ran dos, you don't need a , because dos runs only ONE task at a time and the whole cpu power could be used for the transfer But if you are running a multitasking OS such as OS , Unix, etc windows , the cpu cannot work the whole time with one task The result are lost characters or broken transmissions because of timeouts Is it only for internal modems NO The only diffrence is that internal modems have the UART on board, whereas external modems are connected to the computer over a serial port which has the UART on board If you have any experience with or higher speed modems, please let me know what you think Also, any particular brand name reccomended, or will a cheapo clone do just a well I use a Zyxel B with a UART under COHERENT I'm very satisfied with it but I think that nearly everyone is satisfied with his own modem Michael Michael Gerhards Preussenstrasse Germany Neuss Voice

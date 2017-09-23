@@ -1,6 +1,1 @@
-from tschannen frederic subject help eisa board configuration problems i just bought a new amiecu eisa motherboard and an adaptec a fast-scsi controller. i wanted to install the aha-1742a and did as written in the
-amiecu manual. but the cfg-utility told me to get a newer version of the adaptec configuration overlay file named 'adp0000.ovr', because the old one is not compatible to my motherboard.
-the adaptec driver utility is version 3.0. can you help me ? please do so. -- ________________________________________________________________________________
-name : frederic tschannen adress : university of fribourg / / / / /--- iiuf, misericorde / / / / / ch - 1700 fribourg / / / / /-- switzerland                        /  /  /__/  /
-e-mail : 
-________________________________________________________________________________
+From Tschannen Frederic Subject HELP EISA board configuration problems I just bought a new AMIECU EISA motherboard and an Adaptec A fast SCSI controller I wanted to install the AHA A and did as written in the AMIECU manual But the CFG utility told me to get a newer version of the Adaptec configuration overlay file named 'adp ovr', because the old one is not compatible to my motherboard The adaptec driver utility is version CAN YOU HELP ME PLEASE DO SO Name Frederic Tschannen Adress University of Fribourg IIUF, MISERICORDE CH FRIBOURG Switzerland E Mail

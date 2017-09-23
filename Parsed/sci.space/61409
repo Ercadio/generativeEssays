@@ -1,12 +1,1 @@
-from patrick c mock subject re gamma ray bursters where are they in article , kevin w plaxco) writes:
-> in article <> (david ward) writes:
-> > but i believe that there is a fundamental difference here. the other x
-> three instruments are focusing instruments, that, more or less, form
-> an image, so positional errors are limited by craft attitude and the > resolving power of the optics. batse is an altogether different
-> beast, effectively just 8 coincidence counters, one on each corner of > the craft. positional information is triangulated from the > differential signal arrival times at each of the detectors. this is not quite right. the differential arrival time techinique
-requires interplanetary baselines to get good positions. the
-differential arrival at the eight detectors differ by 10's of nanoseconds.
-this is smaller than batse's microsecond timing capabilities.
-batse, ulysses, and mars obsverver are used for this technique. each batse detector does not have a full sky field of view.
-the sensitivity of each detector decreases with increasing angle of incidence. the burst position on the sky is determined by
-comparing the count rates in different detectors. pat
+From Patrick C Mock Subject Re Gamma Ray Bursters Where are they In article rmh eINN , Kevin W Plaxco writes In article APR David Ward writes But I believe that there is a fundamental difference here The other x three instruments are focusing instruments, that, more or less, form an image, so positional errors are limited by craft attitude and the resolving power of the optics BATSE is an altogether different beast, effectively just coincidence counters, one on each corner of the craft Positional information is triangulated from the differential signal arrival times at each of the detectors This is not quite right The differential arrival time techinique requires interplanetary baselines to get good positions The differential arrival at the eight detectors differ by 's of nanoseconds This is smaller than BATSE's microsecond timing capabilities BATSE, Ulysses, and Mars Obsverver are used for this technique Each BATSE detector does not have a full sky field of view The sensitivity of each detector decreases with increasing angle of incidence The burst position on the sky is determined by comparing the count rates in different detectors Pat

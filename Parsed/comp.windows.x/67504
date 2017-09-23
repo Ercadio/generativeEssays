@@ -1,10 +1,1 @@
-from bonn de juergen schietke subject extension to damaged chars of big fonts sorry about the garbage code, the following is used of course xsetforeground(disp, pixgc, backgroundcolor);
-xfillrectangle(disp, pixs, pixgc, 0, 0, scr_width, scr_height);
-xsetforeground(disp, pixgc, foregroundcolor);
-xdraw[line|string|rectangle](disp, pixs, pixgc, ...);
-xcopyarea(disp, pixs, win, pixgc, 0, 0, win_width, win_height, 0, 0); juergen schietke
-research insitute for discrete mathematics
-university of bonn
-nassestr. 2
-5300 bonn 1 tel: (+49) 0228 738786
-e-mail: -bonn.de
+From Juergen Schietke Subject extension to damaged chars of big fonts Sorry about the garbage code, the following is used of course XSetForeground Disp, PixGC, BackgroundColor XFillRectangle Disp, Pixs, PixGC, , , Scr width, Scr height XSetForeground Disp, PixGC, ForegroundColor XDraw Line String Rectangle Disp, Pixs, PixGC, XCopyArea Disp, Pixs, Win, PixGC, , , Win width, Win height, , Juergen Schietke Research Insitute for Discrete Mathematics University of Bonn Nassestr Bonn Tel E Mail

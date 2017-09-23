@@ -1,9 +1,1 @@
-from grubb subject re scsi and ide what's the difference writes in article writes >stupid question from a new ibm pc user:
->>
->>i'm going to be selling my mac and getting a gateway 2000. >*retching noises* talk about "out of the frying pan and into the fire" :)
-what cpu does this use? i need the info fro my thesis. >>are scsi drives faster than ide?
->i'm pretty sure scsi is faster. along with a lot better compatability.
-half right.
-scsi-1 is slower than ide {5mb/s vs 8.3mb/s maximum.}
-scsi-2 {8-bit} has a faster burst rate than ide {quarda}
-scsi-2 {16 and 32-bit} are much faster than ide {cyclone in june}
+From GRUBB Subject Re SCSI and IDE What's the difference writes In article A writes Stupid question from a new IBM PC user I'm going to be selling my Mac and getting a Gateway retching noises Talk about out of the frying pan and into the fire What CPU does this use I need the info fro my Thesis Are SCSI drives faster than IDE I'm pretty sure SCSI is faster Along with a lot better compatability Half right SCSI is SLOWER than IDE MB s vs MB s maximum SCSI bit has a faster BURST rate than IDE Quarda SCSI and BIT are MUCH faster than IDE Cyclone in June

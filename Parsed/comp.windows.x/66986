@@ -1,11 +1,1 @@
-from ian dickinson subject re svr x binary dists was re rfd to create comp unix sys univel in article <rick.734610425@digibd> (rick richardson) writes:
->the other scary thing is that i ship libxcl.so with the 6 functions
->in it; how many other libxcl.so type libraries will be shipped by
->other vendors? should i trademark the name libxcl.a? what if
->some clown uses that name and only puts 4 of the troublesome
->functions in it? does usl svr4 support ld_run_path a la solaris 2?
-or an equivalent? if so, you can put the library in a package specific lib directory,
-compile the app with ld_run_path defined, and all should work. besides, i'd say name it libpackagexcl.a if possible. cheers,
--- \/ato - ian dickinson - nic handle: id17 this article is dedicated to ...!uknet!warwick!vato those who disapprove but
-/i=i/s=dickinson/ou=csv/o=warwick/prmd=uk.ac/admd= /c=gb/ continue to
-@c=gb@o=university of warwick@ou=computing services@cn=ian dickinson read
+From Ian Dickinson Subject Re SVR x binary dists was Re RFD to create comp unix sys univel In article rick digibd Rick Richardson writes The other scary thing is that I ship libxcl so with the functions in it how many other libxcl so type libraries will be shipped by other vendors Should I trademark the name libxcl a What if some clown uses that name and only puts of the troublesome functions in it Does USL SVR support LD RUN PATH a la Solaris Or an equivalent If so, you can put the library in a package specific lib directory, compile the app with LD RUN PATH defined, and all should work Besides, I'd say name it libPACKAGExcl a if possible Cheers, ato Ian Dickinson NIC handle ID This article is dedicated to uknet warwick vato those who disapprove but I I S Dickinson OU CSV O Warwick PRMD UK AC ADMD C GB continue to c GB o University of Warwick ou Computing Services cn Ian Dickinson read

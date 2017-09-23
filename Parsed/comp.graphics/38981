@@ -1,3 +1,1 @@
-from rick turner subject re raw gif you can use pbm's 'rawtopgm' to convert three raw r, g, b files to pgm format. then you can use pgm3toppm to convert the pgm files to a composite ppm file,
-and feed this to cjpeg for compression. slow, and circuitous, but it will
-work. rick
+From Rick Turner Subject Re raw gif You can use PBM's 'rawtopgm' to convert three raw r, g, b files to pgm format Then you can use pgm toppm to convert the pgm files to a composite ppm file, and feed this to cjpeg for compression Slow, and circuitous, but it will work Rick

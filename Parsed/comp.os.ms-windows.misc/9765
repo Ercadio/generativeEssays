@@ -1,18 +1,1 @@
-from tony debari subject re filemanager strange sizes in summary line in nicholas masika writes i have just noticed my filemanager doing something strange recently.
->usually, the line at the bottom of the filemanager (the status bar, i
->guess) displays the total disk space and the total number of bytes for
->the current selection. if i select a whole bunch of files, i will get
->an exact byte count. >recently, i notice it incorrectly displays this count; it's truncating!
->if i select a file that is, say, 532 bytes, it correctly displays '532 bytes'.
->if i select select a file that is 23,482 bytes, it displays '23 bytes', >not 23 kbytes, just 23 bytes! if i select 893,352 it will report only
->893 bytes in the selection. if i select over a meg worth of files, say
->3,356,345 it reports 3 bytes! it's as if it's got a problem with displaying
->more than 3 characters! >my system: 486dx/33, 8m memory, stacker 3.0, dos 5, win 3.1. i've run
->the latest virus scanners (scan102, f-prot) and they didn't report anything.
->could i have unknowingly altered something that controls the formatting
->of the status bar in the filemanger? it sounds like something/one may have set the 1000's separator to "." in
-contol panel (under international). this makes 23,482 look like 23.482
-and file manager is chopping off what it thinks is the decimal part of
-the file size. 3,356,345 becomes 3.356.345, and again, file manager is
-confused by the decimal points where there should be commas, chopping
-off everything to the right of the first period. -- tony debari fqdn: ci$: 73117,452 uucp: ...!uunet!ssc60!tonyd *p*: ghrw14b a.k.a. skip bowler, captain of usenet fantasy bowling league team 9.
+From Tony DeBari Subject Re FileManager strange sizes in summary line In A Nicholas Masika writes I have just noticed my FileManager doing something strange recently Usually, the line at the bottom of the FileManager the status bar, I guess displays the total disk space and the total number of bytes for the current selection If I select a whole bunch of files, I will get an exact byte count Recently, I notice it incorrectly displays this count it's truncating If I select a file that is, say, bytes, it correctly displays ' bytes' If I select select a file that is , bytes, it displays ' bytes', not Kbytes, just bytes If I select , it will report only bytes in the selection If I select over a Meg worth of files, say , , it reports bytes It's as if it's got a problem with displaying more than characters My system DX , M memory, Stacker , DOS , Win I've run the latest virus scanners scan , f prot and they didn't report anything Could I have unknowingly altered something that controls the formatting of the status bar in the FileManger It sounds like something one may have set the 's separator to in Contol Panel under International This makes , look like and File Manager is chopping off what it thinks is the decimal part of the file size , , becomes , and again, File Manager is confused by the decimal points where there should be commas, chopping off everything to the right of the first period Tony DeBari FQDN CI , UUCP uunet ssc tonyd P GHRW B a k a Skip Bowler, captain of USENET Fantasy Bowling League Team

@@ -1,9 +1,1 @@
-from steve sherwood x subject re virtual reality for x on the cheap has anyone got multiverse to work ? i have built it on 486 svr4, mips svr4s and sun sparcstation. there seems to be many bugs in it. the 'dogfight' and 'dactyl' simply do nothing
-(after fixing a bug where a variable is defined twice in two different modules - one needed
-setting to static - else the client core-dumped) steve
--- extn 5543, , !uunet!mfocus!sts
-+-----------------------------------+------------------------+ micro focus
-| just like pariah, i have no name, | rm -rf * | 26 west street
-| living in a blaze of obscurity, | "rum ruff splat" | newbury
-| need courage to survive the day. | | berkshire
-+-----------------------------------+------------------------+ england (a)bort (r)etry (i)nfluence with large hammer
+From Steve Sherwood x Subject Re Virtual Reality for X on the CHEAP Has anyone got multiverse to work I have built it on svr , mips svr s and Sun SparcStation There seems to be many bugs in it The 'dogfight' and 'dactyl' simply do nothing After fixing a bug where a variable is defined twice in two different modules One needed setting to static else the client core dumped Steve Extn , , uunet mfocus sts Micro Focus Just like Pariah, I have no name, rm rf West Street Living in a blaze of obscurity, rum ruff splat Newbury Need courage to survive the day Berkshire England A bort R etry I nfluence with large hammer

@@ -1,11 +1,1 @@
-from tomi h engdahl subject re flash leds with sound in article there's a seeker born every minute ) writes: > would it be better to use a circuit based on the volume of the beeps
->on the cassette, or better for the leds to respond to a tone of a certain
->frequency? is there any easy way to do either of these? i'm looking for >the simplest circuit possible. i guess what i'm asking for is some sort of
->color organ, but not quite. let me trt to explain again... look for information about 567 tone decoder chip. it is an easy to use
-chip for detecting sound of certain frequency. you need only one
-567 and some other componets for each led you want to control.
-the chip can take the voltage levels, which the casette gives.
-radio shack archer semiconductor reference guide gives good information
-how to use that chip. it should be simplest way to go. the chip costs
-something like 1-2 $.
--- ! lowery's law: ! "if it jams - force it. if it breaks, ! it needed replacing anyway." * this text is provided "as is" without any express or implied warranty *
+From Tomi H Engdahl Subject Re flash LEDs with sound In article AA There's a seeker born every minute writes Would it be better to use a circuit based on the volume of the beeps on the cassette, or better for the leds to respond to a tone of a certain frequency Is there any easy way to do either of these I'm looking for the simplest circuit possible I guess what I'm asking for is some sort of color organ, but not quite Let me trt to explain again Look for information about tone decoder chip It is an easy to use chip for detecting sound of certain frequency You need only one and some other componets for each led you want to control The chip can take the voltage levels, which the casette gives Radio Shack Archer Semiconductor Reference Guide gives good information how to use that chip It should be simplest way to go The chip costs something like Tomi E LOWERY'S LAW If it jams force it If it breaks, it needed replacing anyway This text is provided as is without any express or implied warranty

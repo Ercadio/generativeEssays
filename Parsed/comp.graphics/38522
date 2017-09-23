@@ -1,11 +1,1 @@
-from tristan tarrant subject paradise vga i have a paradise svga with mb, the c chip d the docs say that
-i can display the following modes : 640x480x32k colours and 800x600x32k cols
-if i have the ramdac hicolor chip. i have checked the board and i do have
-such a chip. now, the problem is that i can't get this mode to work !
-graphics workshop 6.1 claims that it can display 24 bit images dithered
-down to 15 bit colour with my board, but it doesn't work. i have tried
-writing some assembler code to get the modes working and i have found out
-that each pixel is addressed by a word ( 16 bit ), but only the lower 8 bits
-are considered ( this happens in 800x600 mode, the 640x480 mode refuses to
-work i.e. remains in text mode ).
-could someone please help me. tristan
+From Tristan Tarrant Subject Paradise VGA I have a Paradise SVGA with Mb, the c chip D The docs say that I can display the following modes x x k colours and x x k cols if I have the RAMDAC HiColor Chip I have checked the board and I do have such a chip Now, the problem is that I can't get this mode to work Graphics Workshop claims that it can display bit images dithered down to bit colour with my board, but it doesn't work I have tried writing some assembler code to get the modes working and I have found out that each pixel is addressed by a word bit , but only the lower bits are considered this happens in x mode, the x mode refuses to work i e remains in text mode Could someone please help me Tristan

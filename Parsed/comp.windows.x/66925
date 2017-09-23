@@ -1,3 +1,1 @@
-from nils engstrom subject help event propagation the following problem is really bugging me, and i would appreciate any help i create two windows: w1 (child to root) with event_mask = buttonpressmask|keypressmask;
-w2 (child to w1) with do_not_propagate_mask = buttonpressmask|keypressmask; keypress events in w2 are discarded, but buttonpress events fall through
-to w1, with subwindow set to w2. fyi, i'm using xnews/olvwm. am i doing something fundamentally wrong here? n
+From Nils Engstrom Subject Help Event propagation The following problem is really bugging me, and I would appreciate any help I create two windows w child to root with event mask ButtonPressMask KeyPressMask w child to w with do not propagate mask ButtonPressMask KeyPressMask Keypress events in w are discarded, but ButtonPress events fall through to w , with subwindow set to w FYI, I'm using xnews olvwm Am I doing something fundamentally wrong here n

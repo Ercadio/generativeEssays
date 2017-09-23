@@ -1,4 +1,1 @@
-from der mouse subject re xwindows always opaque distribution comp please don't misuse newsgroup hierarchy names as distributions in article <hess.734959172@swt1>, -hamburg.de (hauke hess) writes: > i wonder if it is possible for a parent window to paint over the area
-> of its childs. yes, but it's not an attribute of the window; it's an attribute of the
-gc used to do the drawing. set the subwindow-mode to includeinferiors
-rather than the default clipbychildren. der mouse
+From der Mouse Subject Re XWindows always opaque Distribution comp Please don't misuse newsgroup hierarchy names as distributions In article hess swt , Hauke Hess writes I wonder if it is possible for a parent window to paint over the area of its childs Yes, but it's not an attribute of the window it's an attribute of the GC used to do the drawing Set the subwindow mode to IncludeInferiors rather than the default ClipByChildren der Mouse

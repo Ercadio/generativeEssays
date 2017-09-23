@@ -1,11 +1,1 @@
-from mbheprg problem with inews gateway file raju gurung subject re converting contents of x window to color postscript jeff haferman wrote > can somebody point me to source code for dumping the contents of
-> an x-window into a color postscript file? i have written
-> an app which brings up an x-window, and i want (at the click
-> of the mouse) to dump the window into a postscript file. > thanks. > jeff haferman internet: > department of mechanical engineering dod 0186 bmwmoa 44469 ama 460140
-> the university of iowa
-> iowa city, ia 52242 '76 r90s i use xwd and xwd2ps. to do it from within a program i use
-xwd -id xxxxx where xxxxx is the window id obtained from xtwindow(widget).
---
------------------------------------------------------------------------
-| raju gurung, i.t. 109, i.t. building, dept. of electrical eng., | | university of manchester, oxford rd, manchester, u.k. |
------------------------------------------------------------------------
+From mbheprg PROBLEM WITH INEWS GATEWAY FILE Raju Gurung Subject Re Converting contents of X window to color postscript Jeff Haferman wrote Can somebody point me to source code for dumping the contents of an X window into a color postscript file I have written an app which brings up an X window, and I want at the click of the mouse to dump the window into a postscript file Thanks Jeff Haferman internet Department of Mechanical Engineering DoD BMWMOA AMA The University of Iowa Iowa City, IA ' R S I use xwd and xwd ps To do it from within a program I use xwd id xxxxx where xxxxx is the window id obtained from XtWindow widget Raju Gurung, I T , I T Building, Dept of Electrical Eng , University of Manchester, Oxford Rd, Manchester, U K

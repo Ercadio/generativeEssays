@@ -1,12 +1,1 @@
-from michael gerhards subject re com ports modem mouse conflict really phil hunt wrote i'm kind of new at the pc stuff. my machine has 4 serial ports. com 1 and3
-> and 2 &4 share same irqs. you mean i can't plug a mouse into com1 and a modem
-> into com3 and expect both to work? no, but some os's ( coherent , etc ) are able to drive one of the ports in
-polled mode without using the irq. in your example, after accessing the
-modem, the mouse won't work until you reboot, because the irq is used by
-the modem. > if answer is no, should i change irq's for com ports to be different? and,
-> does it really matter which irq i set the ports too? yes, you can change the irq's for com3/4, but it depends on your other
-hardware. com1 uses irq4, com2 irq3. if you have only one printerport ( irq7 ), you can change com3 to irq5 ( normally 2nd printer ). for com4,
-you can assign irq2, if its free. as far as i know, no other irq can be
-used until your i/o-card is 16bit and caould access irq's > 8. michael
---
-* * michael gerhards * preussenstrasse 59 * * germany 4040 neuss * voice: 49 2131 82238 *
+From michael jester GUN de Michael Gerhards Subject Re com ports modem mouse conflict REALLY Phil Hunt phil howtek MV COM wrote I'm kind of new at the pc stuff My machine has serial ports Com and and share same IRQs You mean I can't plug a mouse into Com and a modem into com and expect both to work No, but some OS's COHERENT , etc are able to drive one of the ports in polled mode without using the IRQ In your example, after accessing the modem, the mouse won't work until you reboot, because the IRQ is used by the modem If Answer is NO, should I change IRQ's for com ports to be different And, does it really matter which IRQ I set the ports too Yes, you can change the IRQ's for com , but it depends on your other hardware com uses IRQ , com IRQ If you have only one printerport IRQ , you can change com to IRQ normally nd printer For com , you can assign IRQ , if its free As far as I know, no other IRQ can be used until your I O card is bit and caould access IRQ's Michael Michael Gerhards Preussenstrasse Germany Neuss Voice

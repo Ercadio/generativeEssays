@@ -1,2 +1,1 @@
-from main de ruediger merz subject re preventing user from hitting ctrl alt bksp to exit x hi, hello, i am admin for an rs/6000 running aix 3.2, x11r5, motif, and xdt3.
-> i want to prevent the user from hitting cntl-alt-bkspc to exit x. try dontzap in /usr/lib/x11/xconfig cu styx ----- ** free software association of germany ** great software should be free software phone: 069 - 6312083 data: 069 - 6312934
+From Ruediger Merz Subject Re preventing user from hitting CTRL ALT BKSP to exit X hi, Hello, I am admin for an RS running AIX , X R , Motif, and xdt I want to prevent the user from hitting CNTL ALT BKSPC to exit X try DontZap in usr lib X Xconfig cu styx Free Software Association of Germany Great software should be free software Phone Data

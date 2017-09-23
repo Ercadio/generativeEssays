@@ -1,8 +1,1 @@
-from kevin boyce subject re using setwutime with a pb in article andrew e page, writes >one way to tell is to
->go and open the powerbook control panel(7.1). there is a setting
->there that allows you to set the time to wake up the mac. if it
->is present when you open the control panel, then you can assume that
->setwutime will work. gee, nice of them to tell us. like, how about a gestalt response bit for
-the
-gestaltpowermanagerattributesfoodspreadproduct selector? well, at least
-now i know why it doesn't work (i assume; i 'm using a pb 145). -kevin "argle bargle morble whoosh? " --moxie (or was it pepsi?)
+From Kevin Boyce Subject Re Using SetWUTime with a PB In article C s u L Andrew E Page, writes One way to tell is to go and open the PowerBook control panel There is a setting there that allows you to set the time to wake up the Mac If it is present when you open the control panel, then you can assume that SetWUTime will work Gee, nice of them to tell us Like, how about a Gestalt response bit for the GestaltPowerManagerAttributesFoodSpreadProduct selector Well, at least now I know why it doesn't work I assume I 'm using a PB Kevin Argle Bargle Morble whoosh Moxie or was it Pepsi

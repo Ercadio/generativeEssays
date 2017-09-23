@@ -1,12 +1,1 @@
-from russ sharp subject character missing in ttf word c doesn't show the period centred character to indicate spaces if i use the ttfonts from coreldraw. our editors need to
-be able to see how many spaces are in text but the character displayed is a large hollow box. they overlap each other and
-characters on each side, which is useless. i believe the character used by w4w is the period-centred (0183).
-this character shows up with the windows charmap display as the
-hollow box which tends to confirm this. i have edited the corel
-font with fontmonger and changing the font graphics for the 0183
-character makes no difference to the font output in charmap or w4w.
-altering the paragraph (0182) or cedilla (0184) does alter their font
-graphics displayed however!! is the w4w character used to indicate spaces the period-centred
-character? has anyone been able to get this character displayed
-from a coreldraw ttf? -- ____ russ sharp ph (052)27 1141 fax (052)27 2015 \ /
-deakin university, school of engineering & technology, geelong, australia \/
+From russ deakin OZ AU Russ Sharp Subject Character missing in TTF Word c doesn't show the period centred character to indicate spaces if I use the TTFonts from CorelDraw Our editors need to be able to see how many spaces are in text but the character displayed is a large hollow box They overlap each other and characters on each side, which is useless I believe the character used by W W is the period centred This character shows up with the windows Charmap display as the hollow box which tends to confirm this I have edited the corel font with Fontmonger and changing the font graphics for the character makes no difference to the font output in Charmap or W W Altering the paragraph or cedilla does alter their font graphics displayed however Is the W W character used to indicate spaces the period centred character Has anyone been able to get this character displayed from a CorelDraw TTF Russ Sharp ph fax Deakin University, School of Engineering Technology, Geelong, Australia

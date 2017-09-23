@@ -18,8 +18,7 @@
 
 
 
-from os import listdir
-from os.path import isfile, join, isdir
+import os
 import re
 import sys
 
@@ -27,8 +26,8 @@ import sys
 class DataCleaner:
 
     ONLY_WORDS_SPACES = [
-        [re.compile("[a-z,0-9,_,.]+@[a-z,0-9,_,.]+\.[a-z]+",flags=re.UNICODE), ""], # Remove emails
-        [re.compile("[^a-z,']",re.UNICODE), " "],                                   # Remove non letters
+        [re.compile("[a-z,0-9,_,.,-]+@[a-z,0-9,_,.,-]+\.[a-z]+",flags=re.UNICODE), ""], # Remove emails
+        [re.compile("[^a-z,A-Z']",re.UNICODE), " "],                                   # Remove non letters
         [re.compile("\s{2,}",re.UNICODE), " "]                                      # Remove extra whitespace
     ]
 
@@ -36,37 +35,38 @@ class DataCleaner:
     def parse_txt_from_prog(txt, program):
         words = txt
         for step in program:
-            # words = step[0].sub(words,step[1], words)
+            words = step[0].sub(step[1], words)
         words = words.strip()
         return words
 
     @staticmethod
     def search_rfile(path):
         result = []
-        for fna in listdir(path):
-            fna = join(path, fna)
-            if isdir(fna):
-                result.extend(search_rfile(fna))
-            elif isfile(fna):
+        for fna in os.listdir(path):
+            fna = os.path.join(path, fna)
+            if os.path.isdir(fna):
+                result.extend(DataCleaner.search_rfile(fna))
+            elif os.path.isfile(fna):
                 result.append(fna)
         return result
 
     @staticmethod
     def copy_dir_structure(path, destination):
-        for fna in listdir(path):
-            if isdir(join(path, fna)):
+        for fna in os.listdir(path):
+            if isdir(os.path.join(path, fna)):
                 if not os.path.exists(join(destination, fna)):
                     os.makedirs(join(destination, fna))
-                copyDirStructure(join(path, fna),join(destination, fna))
+                DataCleaner.copy_dir_structure(os.path.join(path, fna),os.path.join(destination, fna))
 
     # Parses all the files inside a give path according to a given program, moves them to destination folder
     @staticmethod
     def parse_all_from_dir_to(path, destination, program):
-        unparsed_textfiles = search_rfile(path)
-        copyDirStructure(path,destination)
+        unparsed_textfiles = DataCleaner.search_rfile(path)
         for fname in unparsed_textfiles:
-            txt = open(fname, mode="r").read()
-            txt = program(txt)
+            with open(fname) as file:
+                txt = file.read()
+            txt = DataCleaner.parse_txt_from_prog(txt,program)
             open(fname.replace(path, destination), mode="w+").write(txt)
             print("Parsed {}\n".format(fname))
-print(DataCleaner.parse_txt_from_prog("Hi testing\n this123", DataCleaner.ONLY_WORDS_SPACES))
+
+DataCleaner.parse_all_from_dir_to("../Unparsed","../Parsed", DataCleaner.ONLY_WORDS_SPACES)

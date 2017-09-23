@@ -1,6 +1,1 @@
-from jon herlocker subject how to access bit color on cg we have a sun and we have just acquired a cg8 frame buffer card. the cg8 is supposed to support both a 24-bit color visual and a monochrome visual.
-the default visual for the xnews server is the monochrome, and we are unable to change it to
-the 24-bit visual. we have tried using xgetvisualinfo to get a visual of depth 24, but had no
-success. xdpyinfo gives no information about a 24-bit deep visual, only monochrome. there are two possible solutions: if someone has patches for x11r5 xsun server, could they forward them to us? otherwise, could someone instruct us how to access the 24-bit color in openwindows?
--- jon herlocker email: lewis & clark college
-portland, or 97219
+From Jon Herlocker Subject How to access bit color on cg We have a Sun and we have just acquired a cg frame buffer card The cg is supposed to support both a bit color visual and a monochrome visual The default visual for the xnews server is the monochrome, and we are unable to change it to the bit visual We have tried using XGetVisualInfo to get a visual of depth , but had no success xdpyinfo gives no information about a bit deep visual, only monochrome There are two possible solutions If someone has patches for X R Xsun server, could they forward them to us Otherwise, could someone instruct us how to access the bit color in openwindows Jon Herlocker email Lewis Clark College Portland, OR

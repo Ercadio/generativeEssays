@@ -1,4 +1,1 @@
-from ted hoang subject wcl hi, i have a problem when compiled wcl in sco odt 2.0: cc -c -ox -i.. -i/usr/include xt4getresl.c
-xt4getresl.c
-xt4getresl.c(47) : error c2065: '_xtconstraintbit' : undefined
-*** error code 1 although i follow the instructions in file readme_build to build wcl in sco platform, this problem didn't resolve. so i have some questions related to this matter: 1. does _xtconstraintbit exist in sco odt 2.0? ( does _xtconstraintbit use in x11r3 & x11r4? and what release does sco odt 2.0 use, x11r3 or x11r4?) 2. if not, does someone know how to work around?
+From Ted Hoang Subject Wcl Hi, I have a problem when compiled Wcl in SCO ODT cc c Ox I I usr include Xt GetResL c Xt GetResL c Xt GetResL c error C ' XtConstraintBit' undefined Error code Although I follow the instructions in file README BUILD to build Wcl in SCO platform, this problem didn't resolve So I have some questions related to this matter Does XtConstraintBit exist in SCO ODT Does XtConstraintBit use in X R X R And What release does SCO ODT use, X R or X R If not, Does someone know how to work around

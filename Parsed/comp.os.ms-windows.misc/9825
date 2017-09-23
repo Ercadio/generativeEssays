@@ -1,6 +1,1 @@
-from jeroen gremmen subject re dos vfintd and windows sys ini peter p lei wrote : : does anyone know what the vfintd.386 device is used for in windows 3.1?
-: it's under the [386enh] section as
-: device=c:\dos\vfintd.386
-: i know norton desktop for windows includes this file and its help file mentioned something about floppy-disk access. jeroen -- ========================================================================
-j.c.a. gremmen email: gildelaan 34 phone: 04255-3411 (no modem or fax pleez!)
-5081 ph hilvarenbeek
+From Jeroen Gremmen Subject Re DOS vfintd and Windows sys ini Peter P Lei wrote Does anyone know what the vfintd device is used for in windows It's under the enh section as device c dos vfintd I know Norton Desktop for Windows includes this file and its help file mentioned something about floppy disk access Jeroen J C A Gremmen Email Gildelaan Phone No modem or fax pleez PH Hilvarenbeek

@@ -1,11 +1,1 @@
-from john nagle subject re point in polygon routine needed andrew lewis tepper at andrew cmu edu writes i don't know if this routine is "standard", i just came up with it recently:
->for a polygon of points p1...pn, and a point p, make a table as follows:
->t(1)= angle from p1 to p to p2
->t(2)= angle from p2 to p to p3
->...
->t(n)= angle from pn to p to p1
->express all angles as: -pi < angle < pi.
->add all entries in the table. if the sum = 0, the point is outside. if
->the sum is +/- pi, the point is inside. if the point is +/- xpi, you
->have a strange polygon. if any angle was = +/-pi, the point is on the
->border. i think it's known, but it's neat. can it be extended to 3d? john nagle
+From John Nagle Subject Re Point in Polygon routine needed Andrew Lewis Tepper at andrew cmu edu writes I don't know if this routine is standard , I just came up with it recently For a polygon of points p pn, and a point P, make a table as follows T angle from p to P to p T angle from p to P to p T n angle from pn to P to p express all angles as PI angle PI Add all entries in the table If the sum , the point is outside If the sum is PI, the point is inside If the point is xPI, you have a strange polygon If ANY angle was PI, the point is on the border I think it's known, but it's neat Can it be extended to D John Nagle

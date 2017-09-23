@@ -1,7 +1,1 @@
-from passau de christian rank subject xsun not running on sparcclassic i've installed x r with patches for solaris on our sparcstation lx /
-sparcclassic pool. on the lx, x11r5 runs fine, but on the classics,
-after giving the command startx, xsun prints the following messages: warning: cg3_mmap: can't map dummy space! mapping cg3c: no such device or address
-and exits. does anybody know how to fix this problem? thanks in advance. ---
-christian rank
-lehrstuhl fuer wirtschaftsinformatik * universitaet passau *
-innstr. 29 * d-8390 passau
+From Christian Rank Subject Xsun not running on SPARCclassic I've installed X R with patches for Solaris on our SPARCstation LX SPARCclassic pool On the LX, X R runs fine, but on the classics, after giving the command startx, Xsun prints the following messages WARNING cg mmap can't map dummy space Mapping cg c No such device or address and exits Does anybody know how to fix this problem Thanks in advance Christian Rank Lehrstuhl fuer Wirtschaftsinformatik Universitaet Passau Innstr D Passau

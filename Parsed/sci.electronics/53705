@@ -1,11 +1,1 @@
-from bryan ryan subject re rams roms with ale latches for 's steve pope writes >in article <> (j. pethybridge) writes:
->>	hello again,
->> i asked this a year ago, but i am still looking.
->> i am getting sick of having to use a hc373 >jeff, just use the damned 373. sure, there are oddball
->latched memory chips, but do you really want to use them? >sorry if i'm pedantic but: design your circuit using
->reasonably available parts, and move on to more important
->problems. we're looking at a series of chips by wsi, the psd3xx series. they have
-_mega_ address decoding logic on them, various rom sizes (upto 1mbit),
-various ram sizes (upto 16 k), and 19 i/o ports which can be chip select
-lines, i/o or the buffered address lines. cute chip, 44 pin plcc package. second sourcing may be a problem though :-( bryan ryan, vk3tkx
-melbourne, australia
+From Bryan Ryan Subject Re RAMs ROMs with ALE latches for 's Steve Pope writes In article qg sINN j pethybridge writes Hello again, I asked this a year ago, but i am still looking I am getting sick of having to use a HC Jeff, just use the damned Sure, there are oddball latched memory chips, but do you really want to use them Sorry if I'm pedantic but design your circuit using reasonably available parts, and move on to more important problems We're looking at a series of chips by WSI, the PSD xx series They have mega address decoding logic on them, various ROM sizes upto Mbit , various RAM sizes upto K , and I O ports which can be chip select lines, I O or the buffered address lines Cute chip, pin PLCC package Second sourcing may be a problem though Bryan Ryan, VK TKX Melbourne, Australia

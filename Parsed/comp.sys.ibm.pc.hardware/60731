@@ -1,8 +1,1 @@
-from richard krehbiel subject re vl bus hdd fdd controller or ide hdd fdd controller in article beng hang tay) writes: > hi,
-> i am buying a quantum lps240at 245 mb hardisk and is deciding a
-> hdd/fdd controller. is 32-bit vl-bus hdd/fdd controller faster > than 16 bit ide hdd/fdd controller card? no, vl-bus ide is no faster than isa ide. the ide interface is
-fundamentally nothing more than an extension of the isa bus, and if
-you hook it to vl-bus it'll work as fast as the slower of the two,
-meaning isa speed. > i hear that
-> the vl bus controller is slower than a ide controller? on the other hand, i wouldn't expect it to be *slower*...
--- richard krehbiel os/2 2.0 will do for me until amigados for the 386 comes along...
+From Richard Krehbiel Subject Re VL bus HDD FDD controller or IDE HDD FDD controller In article Beng Hang TAY writes Hi, I am buying a Quantum LPS AT MB hardisk and is deciding a HDD FDD controller Is bit VL bus HDD FDD controller faster than bit IDE HDD FDD controller card No, VL bus IDE is no faster than ISA IDE The IDE interface is fundamentally nothing more than an extension of the ISA bus, and if you hook it to VL bus it'll work as fast as the slower of the two, meaning ISA speed I hear that the VL bus controller is SLOWER than a IDE controller On the other hand, I wouldn't expect it to be slower Richard Krehbiel OS will do for me until AmigaDOS for the comes along

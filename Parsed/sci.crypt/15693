@@ -1,8 +1,1 @@
-from d j bernstein subject re off the shelf cheap des keyseach machine in article steven bellovin writes:
-> and key size is one of the things that can be
-> verified externally. gee. say they feed the 80-bit key through snefru-8 and take the first 60
-bits of the result, then use those 60 bits as the real key. how do you
-figure out that each key is one of 2^20 ``equal'' keys? you can try a
-birthday attack, but if the key can be changed only once a second then
-you will need several lifetimes to get reliable statistics. somehow i
-don't think you could catch the nsa at this sort of skulduggery. ---dan
+From D J Bernstein Subject Re Off the shelf cheap DES keyseach machine In article A Steven Bellovin writes And key size is one of the things that can be verified externally Gee Say they feed the bit key through Snefru and take the first bits of the result, then use those bits as the real key How do you figure out that each key is one of equal'' keys You can try a birthday attack, but if the key can be changed only once a second then you will need several lifetimes to get reliable statistics Somehow I don't think you could catch the NSA at this sort of skulduggery Dan

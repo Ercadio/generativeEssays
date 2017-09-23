@@ -1,10 +1,1 @@
-from david crooke subject bitplaned non chunky pixel cfb is there a pd version of cfb, or other pd server stuff, which has a colour frame
-buffer implementation which works in bitplaned mode, i.e. where the screen
-memory is grouped so that "bit 0 of every pixel is here, bit 1 is there, etc." the only such beast i know if at the moment is the gfxbase server for the
-commodore amiga, and it is commercial. i don't know if they wrote their own cfb,
-but i suspect they did. please respond by email, as i don't read this group. many thanks
-dave
--- david crooke, department of computer science, university of edinburgh
-janet : internet : ip talk dcc@129.215.160.2
-work: jcmb rm 3310, king's bldgs, w mains rd., edinburgh eh9 3jz. 031 650 6013
-home: 2fl, 39 woodburn terr, m'side, edinburgh eh10 4st. tel: 031 452 9067
+From David Crooke Subject Bitplaned non chunky pixel cfb Is there a PD version of cfb, or other PD server stuff, which has a colour frame buffer implementation which works in bitplaned mode, i e where the screen memory is grouped so that bit of every pixel is here, bit is there, etc The only such beast I know if at the moment is the GfxBase server for the Commodore Amiga, and it is commercial I don't know if they wrote their own cfb, but I suspect they did Please respond by email, as I don't read this group Many thanks Dave David Crooke, Department of Computer Science, University of Edinburgh Janet Internet IP talk dcc Work JCMB Rm , King's Bldgs, W Mains Rd , Edinburgh EH JZ Home FL, Woodburn Terr, M'side, Edinburgh EH ST Tel

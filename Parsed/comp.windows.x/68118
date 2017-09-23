@@ -1,17 +1,1 @@
-from jim wight subject re button popup menus with athena widgets ok, i'm being driven batty trying to create popup-menus (ie. button3 press, and a menu
->appears). i would really like to use the standard athena
->classes to achieve this goal, but for my best attempts
->i cannot get the menus to come up without using a menubutton
->as the parent of the widget tree. i know this should be
->possible to to with an xtpopupspringloaded() and a
->little twiddling, but something is escaping me. read the documentation for the simplemenu (4.2.3 positioning the simplemenu).
-the reference is to the r5 documentation. i had not done this before but in less than 10 mins i knocked up the following
-wcl application that does what you want using a command widget. even if you are
-not familiar with wcl the example is so simple it should be pretty obvious what
-is going on. the crucial thing is the use of the xawpositionsimplemenu and
-menupopup actions. ari.wcchildren: app *app.wccreate: command
-*app.wcpopups: menu
-*app.translations:	#override \n\ <btn3down>: xawpositionsimplemenu(menu) menupopup(menu) *menu.wccreate: simplemenu
-*menu.wcchildren:	one, two, three *one.wccreate: smebsb *two.wccreate: smebsb *three.wccreate:	smebsb jim
---- department of computing science, university of newcastle, tel: +44 91 222 8238
-newcastle upon tyne, ne1 7ru, united kingdom. fax: +44 91 222 8232
+From J K W UK Jim Wight Subject Re Button popup menus with Athena widgets Ok, I'm being driven batty Trying to create popup menus ie button press, and a menu appears I would really like to use the standard Athena classes to achieve this goal, but for my best attempts I cannot get the menus to come up without using a MenuButton as the parent of the widget tree I know this should be possible to to with an XtPopupSpringLoaded and a little twiddling, but something is escaping me Read the documentation for the SimpleMenu Positioning the SimpleMenu The reference is to the R documentation I had not done this before but in less than mins I knocked up the following Wcl application that does what you want using a Command widget Even if you are not familiar with Wcl the example is so simple it should be pretty obvious what is going on The crucial thing is the use of the XawPositionSimpleMenu and MenuPopup actions Ari wcChildren app app wcCreate Command app wcPopups menu app translations override n Btn Down XawPositionSimpleMenu menu MenuPopup menu menu wcCreate SimpleMenu menu wcChildren one, two, three one wcCreate SmeBSB two wcCreate SmeBSB three wcCreate SmeBSB Jim J K W Department of Computing Science, University of Newcastle, Tel Newcastle upon Tyne, NE RU, United Kingdom Fax

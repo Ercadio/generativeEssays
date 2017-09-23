@@ -1,10 +1,1 @@
-from markku savela subject raster and text widgets view only , xew version version of xew widgets is available at export.lcs.mit.edu: contrib/xew-1.3.tar.z export.lcs.mit.edu: contrib/xew-1.3.readme for better details, check the readme. (for extensive details, you have
-to with xew-1.1.ps.z, still haven't had time to update this one). no new functionality has been added since 1.2 version. raster widget
-handles now expose events slightly more intelligently than before
-(really had to do this when i added a simple program that uses x11r5
-athena porthole and panner widgets). the program demo/viewer.c is
-very simple demonstration of panner/porthole usage (copied
-from'editres' actually :-)
---
-markku savela (), technical research centre of finland
-telecommunications laboratory, otakaari 7 b, sf-02150 espoo, finland
+From Markku S Markku Savela Subject Raster and Text Widgets View only , Xew version Version of Xew widgets is available at export lcs mit edu contrib Xew tar Z export lcs mit edu contrib Xew README For better details, check the README For extensive details, you have to with Xew ps Z, still haven't had time to update this one No new functionality has been added since version Raster widget handles now expose events slightly more intelligently than before really had to do this when I added a simple program that uses X R Athena Porthole and Panner widgets The program demo viewer c is very simple demonstration of panner porthole usage copied from'editres' actually Markku Savela , Technical Research Centre of Finland Telecommunications Laboratory, Otakaari B, SF ESPOO, Finland

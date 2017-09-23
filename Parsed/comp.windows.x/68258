@@ -1,6 +1,1 @@
-from karlsruhe de m 'fvd' weber subject q whats vendorshellwidgetclass we tried to compile an old x r motif program with x115 and a newer
-version of motif. but we newer succeed. any ideas? cc -o xtrack.new main.o libxtrack.a ../xutils/libxutils.a ../pmshort/libpmshort.a ../matrix/libmatrix.a otte/lib_otte.a verb/lib_verb.a /tools/newmotif/lib/libmrm.a /tools/newmotif/lib/libxm.a -l/tools/x11r5/lib -lxaw -lxmu -lxt -lx11 -ll -lm -lxext cxm.a -lxaw -lxmu -lxt -lx11 -ll -lm -lxext -l/usr/cc/sun4/ -lc
-ld: /tools/x11r5/lib/libxaw.sa.5.0(sharedlib.o): _vendorshellwidgetclass: multiply defined
-*** error code 2
-make: fatal error: command failed for target `xtrack' thanks fvd.
--- fvd, markus weber -karlsruhe.de sometimes there's nothing to feel.
+From M 'FvD' Weber Subject Q Whats vendorShellWidgetClass We tried to compile an old X R Motif program with X and a newer Version of Motif But we newer succeed Any ideas CC o xtrack new main o libxtrack a xutils libxutils a pmshort libpmshort a matrix libmatrix a otte lib otte a verb lib verb a tools newmotif lib libMrm a tools newmotif lib libXm a L tools X R lib lXaw lXmu lXt lX lL lm lXext cXm a lXaw lXmu lXt lX lL lm lXext L usr CC sun lC ld tools X R lib libXaw sa sharedlib o vendorShellWidgetClass multiply defined Error code make Fatal error Command failed for target xtrack' Thanks FvD FvD, Markus Weber Sometimes there's nothing to feel

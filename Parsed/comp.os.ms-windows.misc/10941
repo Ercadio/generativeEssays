@@ -1,12 +1,1 @@
-from brian d reed subject terminal woes i have a vlb machine, with a wang 4 fax/modem.
-when using the windows terminal application, the only way
-i can get it to 'see' the modem is to change it to com2,
-then go back and change it to com4. then it works fine.
-(i have it set to com4 as the port to use) i don't have
-anything plugged into com2, and i've looked over the manual
-for all it's worth, but what am i missing? the modem is jumpered for com4/irq3, which i understand means i can't
-use the second serial port and the modem at the same time,
-but i'm not using the second serial port anyway.
-also, when using procomm + for dos, it always sees the modem
-and dials, but doesn't always connect me when the other end
-answers. don't know if that helps any. thanks, brian d. reed
+From brian d reed Subject Terminal woes I have a VLB machine, with a Wang fax modem When using the windows terminal application, the only way I can get it to 'see' the modem is to change it to COM , then go back and change it to COM Then it works fine I have it set to COM as the port to use I don't have anything plugged into COM , and I've looked over the manual for all it's worth, but what am I missing The modem is jumpered for COM IRQ , which I understand means I can't use the second serial port and the modem at the same time, but I'm not using the second serial port anyway Also, when using Procomm for DOS, it always sees the modem and dials, but doesn't always connect me when the other end answers Don't know if that helps any Thanks, Brian D Reed

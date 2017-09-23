@@ -1,11 +1,1 @@
-from liz camarra subject re zeos vesa video changes specs in article superuser writes > ncr stealth 24 vlb viper vlb
->64ox480 colors 16,256 16,256,32k,64k,16.7m 16,256,32k,64k,16.7m *
-[stuff deleted]
->video ram 1m 1m 1m
->max ram addressable
-> by vid processor 3m 2m 2m ^^ just a note, even though the 805 can address 2 megs of dram, the
-stealth 24 vlb can only handle 1 meg, unless diamond has a newer
-design (or some special deal with zeos). +----------------------------------------------------------------+
-stephen lau, elec. engineering, univ. of hawaii
-*using a friend's account while waiting for my new grad. account*
-+ death to fm synthesis! go gus! +
+From Liz Camarra Subject Re ZEOS VESA Video Changes Specs In article A Superuser writes NCR Stealth VLB Viper VLB Ox Colors , , , K, K, M , , K, K, M stuff deleted Video RAM M M M Max RAM addressable by Vid Processor M M M Just a note, even though the can address megs of dram, the Stealth VLB can only handle meg, unless Diamond has a newer design or some special deal with Zeos Stephen Lau, Elec Engineering, Univ of Hawaii Using a friend's account while waiting for my new grad account Death to FM synthesis Go Gus

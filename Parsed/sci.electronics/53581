@@ -1,6 +1,1 @@
-from tomi h engdahl subject re telephone on hook off hok ok circuit in article ptolq peter t.) writes: >since an on-hook line is aprox 48-50v, and off-hook it usually drops below 10v.
->how about an led in series with a zener say around 30v.
->on-hook = led on
->off-hook = led off.
->would this work? if anyone tries/tried it, please let me know. not recommended. your circuit would take too much current, when
-telephone is on-hook. telephone company does not like it. -- ! lowery's law: ! "if it jams - force it. if it breaks, ! it needed replacing anyway." * this text is provided "as is" without any express or implied warranty *
+From Tomi H Engdahl Subject Re Telephone on hook off hok ok circuit In article ptolq Peter T writes Since an on hook line is aprox V, and off hook it usually drops below V How about an LED in series with a zener say around V On hook LED on Off hook LED off Would this work If anyone tries tried it, please let me know Not recommended Your circuit would take too much current, when telephone is on hook Telephone company does not like it Tomi E LOWERY'S LAW If it jams force it If it breaks, it needed replacing anyway This text is provided as is without any express or implied warranty

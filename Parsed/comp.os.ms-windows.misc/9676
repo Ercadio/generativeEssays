@@ -1,6 +1,1 @@
-from subject re utility for updating win ini and system ini in article svein pedersen writes i nead a utility for updating (deleting, adding, changing) *.ini files for windows. >
->do i find it on any ftp host?
->
->svein
-> in windows 3.0 there is a built-in called sysedit.exe that is just what you
-need. windows 3.1 i don't know......
+From A D B Subject Re Utility for updating Win ini and system ini In article A sp odin NoSubdomain NoDomain Svein Pedersen writes I nead a utility for updating deleting, adding, changing ini files for Windows Do I find it on any FTP host Svein In Windows there is a built in called sysedit exe that is just what you need Windows I don't know

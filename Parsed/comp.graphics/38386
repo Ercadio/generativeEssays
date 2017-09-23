@@ -1,11 +1,1 @@
-from berlin de stefan hartmann behse subject genoa graphics board drivers ftp site hi, well i have opened up a ftp site for getting the latest software drivers
-for genoa graphics cards. here is how to access it: ftp 192.109.42.11
-login:ftp
-password:ftp
-cd pub/genoa
-ls -l
-binary
-prompt
-hash (now if you wanna have the latest drivers for the 7900 board) cd 7000series
-mget * quit this is the sequence to get the drivers. if you have any further question, please email me. best regards, stefan hartmann
-email to: -berlin.de
+From Stefan Hartmann Behse Subject Genoa graphics board Drivers FTP site Hi, well I have opened up a FTP site for getting the latest software drivers for Genoa graphics cards Here is how to access it ftp login ftp password ftp cd pub genoa ls l binary prompt hash now if you wanna have the latest drivers for the board cd series mget quit This is the sequence to get the drivers If you have any further question, please email me Best regards, Stefan Hartmann email to

@@ -1,8 +1,1 @@
-from anant kartik mithal subject re 'info' menu choice in file manager in article shiva shenoy writes in <> (charles r. emmons) writes:
->>[description of file manager info menu option.
->edit the winfile.ini file. if there is a section [addons] in it, great! else, >add the following two lines. if the [addons] section exists, then just add >the second line. >[addons]
->info=filesize.dll note that the filesize .dll is a part of the windows resource kit. if
-you install it (and you can download it from cica), it will make the
-appropriate changes itself. kartik -- if you quote my article remember to trim it down to the essentials.
-anant kartik mithal, network manager, ph.d. student (503)346-3989
-comp. science, u of oregon, eugene, or 97403 (503)346-5373 (fax)
+From Anant Kartik Mithal Subject Re 'Info' menu choice in File Manager In article Shiva Shenoy writes In M Charles R Emmons writes Description of file manager Info menu option Edit the winfile ini file If there is a section AddOns in it, great Else, add the following two lines If the AddOns section exists, then just add the second line Addons INfo filesize dll Note that the filesize dll is a part of the Windows Resource Kit If you install it and you can download it from Cica , it will make the appropriate changes itself kartik If you quote my article remember to trim it down to the essentials Anant Kartik Mithal, Network Manager, Ph D Student Comp Science, U of Oregon, Eugene, OR fax

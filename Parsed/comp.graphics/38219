@@ -1,7 +1,1 @@
-from michael c lewis subject re delaunay triangulation in article zhenghao yeh writes does anybody know what delaunay triangulation is?
->is there any reference to it? >is it useful for creating 3-d objects? if yes, what's the advantage? it is used to create a tin (triangulated irregular network), which is
-basically a bunch of triangles which form a surface over a group of
-points. what is special about it is that the triangles formed are the most equalateral possible. check out "proceedings of autocarto n" where
-n is 8..10. sorry, i don't have a specific reference describing the
-process.
--michael
+From Michael C Lewis Subject Re Delaunay Triangulation In article lsk v INN zhenghao yeh writes Does anybody know what Delaunay Triangulation is Is there any reference to it Is it useful for creating D objects If yes, what's the advantage It is used to create a TIN triangulated irregular network , which is basically a bunch of triangles which form a surface over a group of points What is special about it is that the triangles formed are the most equalateral possible Check out Proceedings of AutoCarto N where N is Sorry, I don't have a specific reference describing the process Michael

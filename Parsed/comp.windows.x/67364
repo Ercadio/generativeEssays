@@ -1,4 +1,1 @@
-from gordon watson subject how can get a pixel value from a drawable how can get a pixel value from a drawable, without having to copy it to the client
-as an ximage and use xgetpixel ?? - i want to select pixels from an animating
-window on the server, without having to copy the whole lot back to my client.
-(x11r5). any pointers appreciated, gordon. ===================================================================== gordon c. watson, _------_ { { } meteorology department, edinburgh university, (__________) scotland. / / / / janet - internet - =====================================================================
+From Gordon Watson Subject How can get a pixel value from a Drawable How can get a pixel value from a Drawable, without having to copy it to the client as an XImage and use XGetPixel I want to select pixels from an animating window on the server, without having to copy the whole lot back to my client X R Any pointers appreciated, Gordon Gordon C Watson, Meteorology Department, Edinburgh University, Scotland JANET G C W INTERNET

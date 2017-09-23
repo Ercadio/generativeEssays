@@ -1,3 +1,1 @@
-from jack strangio subject svr xclients won't work under svr repost when i changed from svr to svr 2 on my intel box i discovered that
-some of my svr4 xclients such as xload, etc would no longer work. they bomb out with the message: error: can't open display unix:0.0 is this because they can't find the correct shared libraries, they need
-to be recompiled, or have i not used the correct options? both systems use x11r5. thanks. jack.
+From Jack Strangio Subject SVR xclients won't work under SVR repost When I changed from SVR to SVR on my Intel box I discovered that some of my SVR xclients such as xload, etc would no longer work They bomb out with the message error can't open display unix Is this because they can't find the correct shared libraries, they need to be recompiled, or have I not used the correct options Both systems use X R Thanks Jack

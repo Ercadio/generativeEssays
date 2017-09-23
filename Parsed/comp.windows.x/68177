@@ -1,15 +1,1 @@
-from carl schmidtmann subject re any way to stop and application from re titling in article , mike hoswell) writes:
-|> |> i'm quite familiar with a variety of window title *setting* methods.
-|> |> my question is... is there any way (via resources, etc) to stop an
-|> application's ability to re-name it's own name / iconname properties?
-|> sorry, that's a feature. the icccm specifies how the app should set its title, so the wm is obliged to do it. if this bothers you, complain to the app writer. |> ...who cares if it's not 'nice' to the application -
-|> |> i want control! ;-)
-|> write your own wm that doesn't support the icccm. or write an program that you give a window id and a title. the your program can set the windows title for the app and then if the app changes it, your program switches it back again. |> -mike
-|> |> -- |> mike hoswell - | never stop! / toasted - bagels |
-|> climate and global dynamics | disclaimer: i represent myself only |
-|> ncar, po box 3000, boulder co, 80307 +----------------+--------------------+
-|> ...so i've got that going for me --- which is nice. | think clearly. | -- 
-_______________________________________________________________________________
-carl schmidtmann                                  faultline software group, inc
-(408) 736-9655                                    867 karo court  
-  ...!{apple|decwrl}!gigo!cws    sunnyvale, ca 94086-8146
+From cws Faultline Com Carl Schmidtmann Subject Re Any way to STOP and application from re titling In article M , Mike Hoswell writes I'm quite familiar with a variety of window title setting methods My question is Is there any way via Resources, etc to stop an application's ability to re name it's own Name IconName properties Sorry, that's a feature The ICCCM specifies how the app should set its title, so the wm is obliged to do it If this bothers you, complain to the app writer who cares if it's not 'nice' to the application I WANT CONTROL Write your own wm that doesn't support the ICCCM Or write an program that you give a window ID and a title The your program can set the windows title for the app and then if the app changes it, your program switches it back again Mike Mike Hoswell Never Stop toasted Bagels Climate and Global Dynamics Disclaimer I represent myself only NCAR, PO Box , Boulder CO, So I've got that going for me Which is nice Think Clearly Carl Schmidtmann Faultline Software Group, Inc Karo Court cws Faultline Com apple decwrl gigo cws Sunnyvale, CA

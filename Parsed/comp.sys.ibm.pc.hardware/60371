@@ -1,15 +1,1 @@
-from juha matti liukkonen subject re please help identify this old com ethernet card mike simon writes in article <>, (seng-poh lee, speedy) writes:
->|> i have an old 3com ethernet card (pc at bus) that came out of a apollo
->|> workstation. i'm trying to identify it in order to use it on a pc.
->|> >|> the assembly number is 4008-00 rev 2 and it is a 16 bit card, circa
->|> 1985. it has an aui port as well as a bnc coax connection. it has
->|> selectable address for the bios, io, dma, and irq locations via berg
->|> jumpers. it also appears to have a intel 80186 processor on board,
->|> presumably for buffering. >|> >|> the ethernet chip appears to be an intel 82586, a 48 pin dip package. is
->|> this chip an equivalent to the 8390 used in some cards? there is also
->|> a 68 pin plcc chip, called a link+ i got two very similar sounding boards for dirt cheap, too. their assy
-numbers were not 4000-series, but your description fits otherwise. they
-are 3com 3c505's aka etherlink plus cards. check out ftp.3com.com, there
-are drivers and diagnostic programs for just about any and all 3com
-cards. i concluded that my card was the 505 after i ran their diagnostic
-program for 3c505 succesfully ("..passes with flying colours") :) anybody know of packet drivers for these cards under os/2..? -- juha liukkonen, aka university of helsinki, dept. of lost souls "trust me, i know what i'm doing." - sledge hammer
+From jliukkon klaava Helsinki FI Juha Matti Liukkonen Subject Re Please help identify this old Com Ethernet card Mike Simon writes In article qhvunINN , Seng Poh Lee, Speedy writes I have an old Com ethernet card PC AT Bus that came out of a Apollo workstation I'm trying to identify it in order to use it on a PC The Assembly number is REV and it is a bit card, circa It has an AUI port as well as a BNC coax connection It has selectable address for the BIOS, IO, DMA, and IRQ locations via berg jumpers It also appears to have a Intel processor on board, presumably for buffering The ethernet chip appears to be an Intel , a pin DIP package Is this chip an equivalent to the used in some cards There is also a pin PLCC chip, called a LINK I got two very similar sounding boards for dirt cheap, too Their Assy numbers were not series, but your description fits otherwise They are Com C 's aka Etherlink Plus cards Check out ftp com com, there are drivers and diagnostic programs for just about any and all Com cards I concluded that my card was the after I ran their diagnostic program for C succesfully passes with flying colours Anybody know of packet drivers for these cards under OS Juha Liukkonen, aka University of Helsinki, Dept of Lost Souls Trust me, I know what I'm doing Sledge Hammer

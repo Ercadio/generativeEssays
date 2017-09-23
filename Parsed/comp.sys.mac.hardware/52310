@@ -1,12 +1,1 @@
-from nicholas y pang subject re svga monitors and centris the real story in article ofpiuyk wc , am o+@andrew.cmu.edu
-(alexander samuel mcdiarmid) writes:
-|> having been discusse essentially adnausium the answer is yes. |> at
-|> least for the 600x400 configuration. you can get an adaptor called
-|> mac
-|> vga -q from james engineering (510) 525 7350 and this will let you
-|> display 600x400 and 800x600 if the monitor is capable. i think the
-|> 800x600 requires 56khz horizontal sync. i use this on my sony 1604.
-|> |> (gives a slightly wider screen than the 832x624 adaptor. i am using a nec 4fg with my centris 610. the cable adapter was provided by
-nec (you have to call to get this free adapter). i am also sharing it with my
-486 (using a switch box and extra cables). my questions: how do you tell if it is 600x400 or 800x600 that was displayed? or how do you change the mode(resolution)? is there sw for this or something i have to do with the hw? i am assuming i am getting 800x600 since i have 1m vram and the 4fg can display
-1028x768(?) with my 486. -- nicholas pang amdahl corporation
+From Nicholas Y Pang Subject Re SVGA Monitors and Centris the real story In article ofpiuYK WC A AW , am o andrew cmu edu Alexander Samuel McDiarmid writes having been discusse essentially adnausium the answer is yes at least for the x configuration you can get an adaptor called Mac VGA Q from James engineering and this will let you display x and x if the monitor is capable I think the x requires Khz horizontal sync I use this on my sony gives a slightly wider screen than the x adaptor I am using a NEC FG with my Centris The cable adapter was provided by NEC you have to call to get this free adapter I am also sharing it with my using a switch box and extra cables My questions How do you tell if it is x or x that was displayed Or how do you change the mode resolution Is there SW for this or something I have to do with the HW I am assuming I am getting x since I have M VRAM and the FG can display x with my Nicholas Pang Amdahl Corporation

@@ -1,16 +1,1 @@
-from xiangxin shen subject re what is at bus clk speed in article wei shi hwu writes:
->robert desonia (-arbor.mi.us) wrote:
->
->: s >there is one param in the bios setup that says at bus clk. i have
->: s >it set to the default of 4, but was able to get it to work with 3.
->: s >the si at 3 was 142.something. i didnt want to mess anything up
->: s >so i set it back to 4. also, the pc didnt boot with it set at 2.
->: s >
->: s >what exactlt dows this do, and should i leave it at 4?
->
->i think it's impossible to let at-bus operated too much more than
->8mhz. i have a c & t neat 286-20 mother board, and i set the at-bus
->clock to 10 mhz, but the hd stopped when it boot. so it's correct
->that clk/n means how many wait states.
->
-> sm. i think it all depends on your motherboard and the cards you have in your system. your hd stopped boot probably because your hd controller can't handle the faster bus speed. i have a 486-33dx, i set my bus divider to clk/2.5, that is close to 13mhz. i can gain singificant performace increase on my video card and harddisk transfer rate when i boost the bus speed. and my system work flawlessly under this setting. and you know what, when i go to clk/2(17mhz bus), my hd refuse to boot. just my 2 cent. jim
+From xiangxin shen Subject Re What is AT BUS CLK Speed In article A Wei Shi Hwu writes Robert Desonia wrote S There is one param in the bios setup that says AT BUS CLK I have S it set to the default of , but was able to get it to work with S The SI at was something I didnt want to mess anything up S so I set it back to Also, the PC didnt boot with it set at S S What exactlt dows this do, and should I leave it at I think it's impossible to let AT Bus operated too much more than MHz I have a C T Neat mother board, And I set the AT BUS clock to MHz, but the HD stopped when it boot So it's correct that CLK n means how many wait states Sm I think it all depends on your motherboard and the cards you have in your system Your HD stopped boot probably because your HD controller can't handle the faster BUS speed I have a DX, I set my bus divider to CLK , that is close to MHz I can gain singificant performace increase on my Video card and harddisk transfer rate when I boost the bus speed And my system work flawlessly under this setting And you know what, when I go to CLK MHz BUS , my HD refuse to boot Just my cent Jim

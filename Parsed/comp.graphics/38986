@@ -1,13 +1,1 @@
-from jean liddle subject re help need bits viewer in article u graeme gill writes >in article <>, (gilles deniaud) writ
-es:
->> hi,
->>
->> i'm looking for a program which is able to display 24 bits
->> images. we are using a sun sparc equipped with parallax
->> graphics board running x11.
->
-> xli, xloadimage or imagemagick - export.lcs.mit.edu [18.24.0.12] /contrib
-> xv 3.0 (shareware) supports 24-bit displays, and has lots of other
-improvements over earlier versions. definitely worth checking out
-(also at export) jean.
--- jean liddle computer science, illinois state university e-mail: --------------------------------------------
+From Jean Liddle Subject Re HELP Need bits viewer In article A u Graeme Gill writes In article , Gilles Deniaud writ es Hi, I'm looking for a program which is able to display bits images We are using a Sun Sparc equipped with Parallax graphics board running X xli, xloadimage or ImageMagick export lcs mit edu contrib xv shareware supports bit displays, and has lots of other improvements over earlier versions Definitely worth checking out also at export Jean Jean Liddle Computer Science, Illinois State University e mail

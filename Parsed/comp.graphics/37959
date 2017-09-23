@@ -1,10 +1,1 @@
-from geoff thomas subject re help colors display in c you'll probably have to set the palette up before you try drawing
-in the new colours. use the bios interrupt calls to set the r g & b values (in the range
-from 0-63 for most cards) for a particular palette colour (in the
-range from 0-255 for 256 colour modes). then you should be able to draw pixels in those palette values and
-the result should be ok. you might have to do a bit of colourmap compressing if you have
-more than 256 unique rgb triplets, for a 256 colour mode. geoff thomas computer science dept.
-university of canterbury
-private bag +-------+
-christchurch | oook! |
-new zealand +-------+
+From Geoff Thomas Subject Re Help colors display in C You'll probably have to set the palette up before you try drawing in the new colours Use the bios interrupt calls to set the r g b values in the range from for most cards for a particular palette colour in the range from for colour modes Then you should be able to draw pixels in those palette values and the result should be ok You might have to do a bit of colourmap compressing if you have more than unique rgb triplets, for a colour mode Geoff Thomas Computer Science Dept University of Canterbury Private Bag Christchurch Oook New Zealand

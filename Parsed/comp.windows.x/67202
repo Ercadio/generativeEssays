@@ -1,8 +1,1 @@
-from david e wexelblat subject re dell eisa video cards this belongs in comp windows x i unix - i've redirected followups] in article <> (larry snyder) writes:
-> does xfree86 support any eisa video cards under dell 2.2?
-> -- > larry snyder > i know for a fact that the eisa version of the orchid prodesigner iis
-works. however, an eisa svga card is likely a waste of money. when xfree86 2.0 comes out, with support for accelerated chipsets, isa,
-eisa, and vlb will all be supported. the more important question is "what chipsets are supported?". the bus
-is basically irrelevent as a compatibility issue. --
-david wexelblat <> (908) 957-5871 fax: (908) 957-5627
-at&t bell laboratories, 200 laurel ave - 3f-428, middletown, nj 07748 xfree86 requests should be addressed to <> "love is like oxygen. you get too much, you get too high. not enough and you're gonna die." -- sweet, love is like oxygen
+From david e wexelblat Subject Re Dell EISA Video Cards This belongs in comp windows x i unix I've redirected followups In article C ssHu CBI gator rn com Larry Snyder writes Does XFree support any EISA video cards under Dell Larry Snyder I know for a fact that the EISA version of the Orchid ProDesigner IIS works However, an EISA SVGA card is likely a waste of money When XFree comes out, with support for accelerated chipsets, ISA, EISA, and VLB will all be supported The more important question is what chipsets are supported The bus is basically irrelevent as a compatibility issue David Wexelblat Fax AT T Bell Laboratories, Laurel Ave F , Middletown, NJ XFree requests should be addressed to Love is like oxygen You get too much, you get too high Not enough and you're gonna die Sweet, Love Is Like Oxygen

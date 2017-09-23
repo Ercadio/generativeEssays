@@ -1,10 +1,1 @@
-from jon pastor subject re no bit box on gateway i got this from gw from x-mailer: america online mailer
-to: subject: re: 32-bit disk access
-date: mon, 29 mar 93 14:26:45 est
-message-id: <>
-status: ro jon - to get 32bit access in windows all you have to do is edit the system.ini...
-look under the 386enhanced section and add this line to it
-"32bitdiskaccess=on"... this will give you the 32bitdiskaccess that you
-need... thanks :) regards,
-scot oehlerking (g2kscooter)
-gateway 2000
+From Jon Pastor Subject Re No bit box on Gateway I got this from GW From X Mailer America Online Mailer To Subject Re bit disk access Date Mon, Mar EST Message Id Status RO Jon To get bit access in windows all you have to do is edit the system ini Look under the Enhanced section and add this line to it bitdiskaccess on This will give you the bitdiskaccess that you need Thanks Regards, Scot Oehlerking G kScooter Gateway

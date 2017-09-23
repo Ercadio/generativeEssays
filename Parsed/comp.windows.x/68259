@@ -1,17 +1,1 @@
-from subbarao chitturi subject starting x windows as soon as i am logged into linux, i type xinit setting tcp so linger : protocol not available
-no siocgifconf
-xfree86 version 1.2/x window system
-(protocol version 11, revision 0, vendor release 5000)
-configured drivers: vga256(256 colout svga): et4000, et 3000, pvga1, gvga, ati, tvga8900c, tgva9000 (using vt number 7)
-mouse : type : mouse systems, device : /dev/mouse, baudrate:1200
-font path set to "usr/lib/x11/fonts/type1, /usr/lib/x11/fonts/75 dpi/, /usr/lib/x11/fonts/speedo, /usr/lib/x11/fonts/bitstream1/, /usr/lib/x11/fonts/misc.
-vga 256 : et4000 ( mem : ok numclocks : 16 )
-vga 256 : clocks : 25.2 28.3 47.8 41.2 25.4 0.0 47.6 0.0
-vga 256 : clocks : 0.0 0.0 0.0 0.0 0.0 0.0 0.0 41.3
-vga 256 : too little memory for virtual resolution 1024 1204 *** a configured device found, but display modes could not be resolved. *** fatal server error:
-no screens found
-giving up.
-xinit : interrupted system call(errno 4) : unable to connect to x server
-xinit : no such process(errno 3) : server error. =========================================================================== why am i getting these messages when i type in xinit?
-is there a configuration file for x-windows(like config.sys for msdos)?
-how do i start the x session( from shell )? ______________________________________________________ subbarao chitturi
+From Subbarao Chitturi Subject Starting X windows As soon as I am logged into Linux, I type xinit Setting TCP SO LINGER Protocol not available no SIOCGIFCONF XFree Version X Window System protocol Version , revision , vendor release configured drivers VGA colout SVGA et , et , PVGA , gvga, ati, tvga c, tgva using VT number Mouse type Mouse Systems, device dev mouse, baudrate Font Path set to usr lib X fonts Type , usr lib X fonts dpi , usr lib X fonts Speedo, usr lib X fonts Bitstream , usr lib X fonts misc VGA et mem OK numclocks VGA Clocks VGA Clocks Vga Too little memory for virtual resolution A configured device found, but display modes could not be resolved Fatal server error no screens found giving up xinit Interrupted system call errno Unable to connect to X server xinit No such process errno Server error Why am I getting these messages when I type in xinit Is there a configuration file for X Windows like config sys for MSDOS How do I start the X session from shell Subbarao Chitturi

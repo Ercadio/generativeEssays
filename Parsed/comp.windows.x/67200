@@ -1,12 +1,1 @@
-from dan s reznik subject text field in dialog widget doesn't get focus i am using the glx widget athena widgets on a mixed model
-application, under 4dwm, but when the dialog gets popped up, its
-text entry field does not have focus. aimilar code works perfectly if
-i use "pure x" (no mixed-model). here is the relevant portion of
-the code. { int n; arg wargs[16]; widget button, popupshell, dialog; /* initialize toplevel here */ . . . n = 0; xtsetarg(wargs[n], xtnlabel, "foo"); n++; button = xtcreatemanagedwidget("foobtn", commandwidgetclass, toplevel, wargs, n); popupshell = xtcreatepopupshell("pupshell", overrideshellwidgetclass, button, null, 0); xtaddcallback(popupshell, xtncallback, mypopup, (xtpointer)popupshell); n = 0; xtsetarg(wargs[n], xtnvalue, ""); n++; dialog = xtcreatemanagedwidget("thedialog", dialogwidgetclass, popupshell, wargs, n); . . .
-} void mypopup(w, popup_shell, call_data)
-widget w;
-widget popup_shell;
-xtpointer call_data;
-{ xtpopup(popup_shell, xtgrabexclusive);
-} --- a way i found to give focus to the text field is to move the
-application window around a little bit and place it right behind the popup. any pointers would be greatly appreciated.
+From Dan S Reznik Subject Text field in dialog widget doesn't get focus I am using the GLX widget athena widgets on a mixed model application, under Dwm, but when the dialog gets popped up, its text entry field does not have focus Aimilar code works perfectly if I use pure X no mixed model HEre is the relevant portion of the code int n Arg wargs Widget Button, PopUpShell, Dialog initialize TopLevel here n XtSetArg wargs n , XtNlabel, Foo n Button XtCreateManagedWidget FooBtn , commandWidgetClass, TopLevel, wargs, n PopUpShell XtCreatePopupShell PupShell , overrideShellWidgetClass, Button, NULL, XtAddCallback PopUpShell, XtNcallback, MyPopUp, XtPointer PopUpShell n XtSetArg wargs n , XtNvalue, n Dialog XtCreateManagedWidget TheDialog , dialogWidgetClass, PopUpShell, wargs, n void MyPopUp w, popup shell, call data Widget w Widget popup shell XtPointer call data XtPopup popup shell, XtGrabExclusive A way I found to give focus to the text field is to move the application window around a little bit and place it right behind the popup Any pointers would be greatly appreciated

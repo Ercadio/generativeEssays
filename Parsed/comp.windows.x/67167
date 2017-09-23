@@ -1,6 +1,1 @@
-from kurt swanson subject what determines the default x font i'm running x under openwindows normal x programs not having a font specified always show up in the same font - until i change the
-fontpath, and restart windows - then a new default font is used until
-the next change. i can't seem to figure out how it chooses. is there
-some way to set this? possibly something in .xdefaults??? please reply in direct email - i summarize.
--- kurt swanson, dept. of computer science,
-lunds universitet.
+From Kurt Swanson Subject What determines the default X font I'm running X under openwindows Normal X programs not having a font specified always show up in the same font until I change the fontpath, and restart windows then a new default font is used until the next change I can't seem to figure out how it chooses Is there some way to set this Possibly something in Xdefaults Please reply in direct email I summarize Kurt Swanson, Dept of Computer Science, Lunds universitet Kurt S

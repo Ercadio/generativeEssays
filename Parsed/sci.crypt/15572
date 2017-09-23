@@ -1,6 +1,1 @@
-from ozan s yigit subject re list of large integer arithmetic packages mark riordan writes a list of large integer arithmetic packages elided] i thought i would note that except lenstra's packages, none of the
-large-integer packages are in the public domain. as an alternative,
-a straightforward *pd* implementation of knuth's algorithms may be
-found as a part of uof arizona's icon distribution. oz
----
-with diligence, it is possible to make | electric: anything run slowly. --tom duff | ph:[416] 736 2100 x 33976
+From Ozan S Yigit Subject Re List of large integer arithmetic packages Mark Riordan writes a list of large integer arithmetic packages elided I thought I would note that except Lenstra's packages, none of the large integer packages are in the public domain As an alternative, a straightforward PD implementation of Knuth's algorithms may be found as a part of Uof Arizona's ICON distribution oz With diligence, it is possible to make electric anything run slowly Tom Duff ph x

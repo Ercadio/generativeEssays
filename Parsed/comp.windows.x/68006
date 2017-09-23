@@ -1,5 +1,1 @@
-from lei shao subject error building x r xdm hi, there, i'm trying to build x r mit core distribution on a sparcstation running
-sunos 4.1.1. the only thing i change is the projectroot in site.def. when the
-"make world" process goes to "cc -o xdm ...", i get the following error: ld: undefined symbol __c0095a2a
-*** error code 2 and the process continues to finish. does anybody know what's wrong? thanx for
-any info. lei shao
+From Lei Shao Subject Error building X R xdm Hi, there, I'm trying to build X R mit core distribution on a SparcStation running SunOS The only thing I change is the ProjectRoot in site def When the make World process goes to cc o xdm , I get the following error ld Undefined symbol C A A Error code And the process continues to finish Does anybody know what's wrong Thanx for any info Lei Shao

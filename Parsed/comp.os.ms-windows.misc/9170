@@ -1,14 +1,1 @@
-from gregory c franklin subject re mouse on com om or com in windows in article (robert isbell) writes:
-> (joseph paparella) writes:
->
->>i am having a problem configuring the mouse in windows to use com3
->>with irq5.
->
->>com1 and com2 are being used to support two 24 hour bbs lines, there you go. com1 and com3 use the same irq, therefore you can't use
-a mouse on com3 and a modem on com1, or vice versa. it's a limitation
-of dos. and in fact windows will not see a mouse on anything other than com1
-or com2. accept this fact, and either get a bus mouse, or get a new
-computer. >i would also like to know if it is possible to use the mouse on ports other
->than com1 or com2. no. the advice above applies....
---
-greg franklin
+From Gregory C Franklin Subject Re Mouse on Com OM or COM in Windows In article C v p JyF bcstec ca boeing com Robert Isbell writes Joseph Paparella writes I am having a problem configuring the mouse in windows to use COM with IRQ COM and COM are being used to support two hour bbs lines, There you go COM and COM use the same IRQ, therefore you can't use a mouse on COM and a modem on COM , or vice versa It's a limitation of DOS And in fact Windows will not see a mouse on anything other than COM or COM Accept this fact, and either get a bus mouse, or get a new computer I would also like to know if it is possible to use the mouse on ports other than COM or COM No The advice above applies Greg Franklin

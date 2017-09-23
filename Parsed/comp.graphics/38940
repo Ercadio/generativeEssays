@@ -1,11 +1,1 @@
-from dresden de andre beck subject re ntsc data to rgb for video capture usually, you apply r] [ 1 0 1.402 ][y]
-[g] = [ 1 -0.34414 -0.71414 ][u]
-[b] [ 1 1.772 0 ][v] after unlevelshifting u and v (subtracting 128 from them). this matrix multiplication may give results out of rgb space, so you
-have to clamp the resulting bytes to [0..255].
-the conversion should be done with arbitrary big integers, not floats :) this applies to yuv data whereas ntsc may have yiq where a 33 degree
-rotation to u/v is buid in. --
-+-o-+--------------------------------------------------------------+-o-+
-| o | \\\- brain inside -/// | o |
-| o | ^^^^^^^^^^^^^^^ | o |
-| o | andre' beck (abpsoft) mehl: -dresden.de | o |
-+-o-+--------------------------------------------------------------+-o-+
+From Andre Beck Subject Re NTSC data to RGB For Video Capture Usually, you apply R Y G U B V after unlevelshifting U and V subtracting from them This matrix multiplication may give results out of RGB space, so you have to clamp the resulting bytes to The conversion should be done with arbitrary big integers, not floats This applies to YUV data whereas NTSC may have YIQ where a degree rotation to U V is buid in o o o Brain Inside o o o o Andre' Beck ABPSoft mehl Andre Beck IRS Inf TU Dresden de o o o

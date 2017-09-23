@@ -1,17 +1,1 @@
-from scott wood subject western digital hd info needed i was recently loaned an older dec at work, and i have the option
-of adding an additional western digital hard-drive to the machine. the
-existing drive is currently a western digital as well, and is working fine,
-but i do not have any documentation available for configuring the master/slave
-relationship necessary for a c: d: drive setup. the first drive is currently formatted to tandy dos v3.3 but i am eventually
-going to upgrade both to ms dos v 5.0 the drives themselves are both model number wd95044-a circa 5-07-1991
-they are 782 cyl 4 head drives. a note to add is that there is no exact
-configuration for these in my current bios, but it seems to work at a
-setting 17 (977 cyl 5 head, 300 write_pre, 977 landing zone).
-there are three pairs of jumper pins on the back that i presume are
-for setting up the master/slave. originally, the drive in the machine
-had none. currently, i was suggested to try the far right (looking at the
-back) for master and the middle jumper for the slave. when booted, the reinitialize seems to puke accessing the d: drive. it does
-flicker about three times on the second drive, but then gives the error. hopefully the problem is as simple as the drive not being formatted, but not
-being a person who has ever had to actual format and unformatted drive, i
-would not even know how to do that. any and all help on this is great fully appreciated. if not, a number
-for western digital might just do as good! swood -- hunting over in michigan? don't despair - no closed season on: opossum, porcupine, weasel, red squirrel, skunk, starlings, feral pigeons, english sparrows, ground squirrel & woodchuck anyway trout season opens the last saturday this month.
+From Scott Wood Subject Western Digital HD info needed I was recently loaned an older Dec at work, and I have the option of adding an additional Western Digital Hard drive to the machine The existing drive is currently a Western Digital as well, and is working fine, but I do not have any documentation available for configuring the master slave relationship necessary for a c d drive setup The first drive is currently formatted to Tandy Dos v but I am eventually going to upgrade both to MS Dos v The drives themselves are both model number WD A circa They are cyl head drives A note to add is that there is no exact configuration for these in my current bios, but it seems to work at a setting cyl head, write pre, landing zone There are three pairs of jumper pins on the back that I presume are for setting up the master slave Originally, the drive in the machine had none Currently, I was suggested to try the far right looking at the back for master and the middle jumper for the slave When booted, the reinitialize seems to puke accessing the d drive It does flicker about three times on the second drive, but then gives the error Hopefully the problem is as simple as the drive not being formatted, but not being a person who has ever had to actual format and unformatted drive, I would not even know how to do that Any and all help on this is great fully appreciated If not, a number for Western Digital might just do as good swood Hunting over in Michigan Don't Despair NO CLOSED SEASON ON opossum, porcupine, weasel, red squirrel, skunk, starlings, feral pigeons, English sparrows, ground squirrel woodchuck Anyway trout season opens the last Saturday this month

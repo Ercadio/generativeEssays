@@ -1,9 +1,1 @@
-from jeffrey s weber subject xview, sun xgl, performance problem i've written an application for sparcstation gx , under openwindows 0. the application uses xview stuff to create my window, and the sun xgl
-graphics library for rendering into the canvas. the application does real-time 2-d animation, but it does not update the
-the display fast enough.
-i'm using notify_set_itimer (xview call) to periodically kick off my
-update routine, and it's not happening fast enough. i want it to
-update 25 times / second. it's only doing about 11. also, it appears to
-be compute bound, because if i run anything else while my appplication is
-up, the update rate slows down even more. any ideas ?
-thanks.
+From Jeffrey S Weber Subject XView, SUN XGL, performance problem I've written an application for SparcStation GX , under OpenWindows The application uses XView stuff to create my window, and the SUN XGL graphics library for rendering into the Canvas The application does real time D animation, but it does not update the the display fast enough I'm using notify set itimer XView call to periodically kick off my update routine, and it's not happening fast enough I want it to update times second It's only doing about Also, it appears to be compute bound, because if I run anything else while my appplication is up, the update rate slows down even more Any ideas Thanks

@@ -1,7 +1,1 @@
-from nils engstrom subject re compiling on sun in article yfo wilson swee ws n andrew.cmu.edu> writes:
->_sin
->_cos
->_pow
->_floor link with '-lm' (math library). >_get_wmshellwidgetclass
->_get_applicationshellwidgetclass this is a bug in sun's shared libraries. linking with
-'-assert nodefinitions' should do the trick. n
+From Nils Engstrom Subject Re compiling on sun In article Yfo qfe WB QzZ EZ andrew cmu edu Wilson Swee ws n andrew cmu edu writes sin cos pow floor Link with ' lm' math library get wmShellWidgetClass get applicationShellWidgetClass This is a bug in Sun's shared libraries Linking with ' assert nodefinitions' should do the trick n

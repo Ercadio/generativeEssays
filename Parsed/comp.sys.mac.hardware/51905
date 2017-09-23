@@ -1,10 +1,1 @@
-from maarten carels subject re simm vs dram arthur greene writes can anyone tell me what the difference is between a 256k dram chip and a
->256k simm? i need the former (i think) to add memory to my laserwriter
->ls. someone is offering to sell me 256k simms he removed from an se, but
->i have a feeling this may not be the correct form of memory. the sockets
->in the laserwriter look like they want the spidery-shaped chips (there
->are 4 sockets, each with, as i recall, 20 pins, arranged in two rows of 10).
->believe it or not, i've never actually seen a simm. help appreciated.
-a simm is a small pcb with dram chips soldered on. --maarten
--- in real life:	maarten carels computer science department university of amsterdam
-email:
+From Maarten Carels Subject Re SIMM vs DRAM Arthur G Arthur Greene writes Can anyone tell me what the difference is between a K DRAM chip and a K SIMM I need the former I think to add memory to my Laserwriter LS Someone is offering to sell me K SIMMS he removed from an SE, but I have a feeling this may not be the correct form of memory The sockets in the Laserwriter look like they want the spidery shaped chips there are sockets, each with, as I recall, pins, arranged in two rows of Believe it or not, I've never actually seen a SIMM Help appreciated A SIMM is a small PCB with DRAM chips soldered on maarten In real life Maarten Carels Computer Science Department University of Amsterdam email

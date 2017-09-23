@@ -1,5 +1,1 @@
-from richard krehbiel subject re ide vs scsi in article qm c mark ashley writes > first off, with all these huge software packages and files that
-> they produce, ide may no longer be sufficient for me (510 mb limit). i've seen a listing of a seagate 1g ide hard drive. > second, (rumor is) microsoft recognizes the the importance of scsi
-> and will support it soon. i'm just not sure if it's on dos, win, or nt. windows nt already supports scsi, a variety of adapters, for disk,
-tape, and cd-rom. so does os/2 2.0.
--- richard krehbiel os/2 2.0 will do for me until amigados for the 386 comes along...
+From Richard Krehbiel Subject Re IDE vs SCSI In article qm c Mark Ashley writes First off, with all these huge software packages and files that they produce, IDE may no longer be sufficient for me Mb limit I've seen a listing of a Seagate G IDE hard drive Second, rumor is Microsoft recognizes the the importance of SCSI and will support it soon I'm just not sure if it's on DOS, Win, or NT Windows NT already supports SCSI, a variety of adapters, for disk, tape, and CD ROM So does OS Richard Krehbiel OS will do for me until AmigaDOS for the comes along

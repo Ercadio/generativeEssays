@@ -1,4 +1,1 @@
-from pramod mahadev subject problem with r release ld unidentified external symbol get wmshellwidgetclass get applicationshellwidgetclass i use -lxaw -lxmu -lxext -lx11 -lxt not in this order but in a proper order i am wondering if there has to be some changes in my link libraries or should
-i include some more libraries. any help in this matter will be very useful and highly appreciated thanks
-pramod
-.
+From Pramod Mahadev Subject Problem with R release ld Unidentified external symbol get wmShellWidgetclass get applicationshellwidgetclass I use lXaw lXmu lXext lX lXt not in this order but in a proper order I am wondering if there has to be some changes in my link libraries or should i include some more libraries ANy help in this matter will be very useful and highly appreciated Thanks Pramod

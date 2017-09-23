@@ -1,8 +1,1 @@
-from richard spanbauer subject re luser in article seema varma writes hi, i am looking for a very high speed >d/a converter (at least 8bits and 150mhz) for
->a research application. a paper in the january
->issue of ieee solid-state circuits mentions a >gaas, 1ghz, 8bit dac - anyone know where i can find
->such a thing? even a somewhat slower si dac would
->do.
->	needless to say, i have looked in all the
->conventional places (vitesse, motorola, national,
->etc. etc.). any pointers would be appreciated. think video. brooktree sells a whole line of dacs that can be used, normally for graphics applications, in either 50 or 75 ohm systems. for example, the bt468 can be had in speeds up to about 200 mhz, bt492 to 360 mhz, and 400 mhz with the bt109. >--- seema varma rick spanbauer, suny/stony brook
+From Richard Spanbauer Subject Re Luser In article A Seema Varma writes Hi, I am looking for a very high speed D A converter at least bits and MHz for a research application A paper in the January issue of IEEE Solid State Circuits mentions a GaAs, GHz, bit DAC anyone know where I can find such a thing Even a somewhat slower Si DAC would do Needless to say, I have looked in all the conventional places Vitesse, Motorola, National, etc etc Any pointers would be appreciated Think video Brooktree sells a whole line of DACs that can be used, normally for graphics applications, in either or ohm systems For example, the BT can be had in speeds up to about mHz, BT to mHz, and mHz with the BT Seema Varma Rick Spanbauer, SUNY Stony Brook

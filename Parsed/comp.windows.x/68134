@@ -1,16 +1,1 @@
-from kelly murray subject re looking for x windows on a pc in article , graeme gill writes > in article <>, (amancio hasty jr) writes:
-|> |> > >>>*but* your performance will suck lemons running an xserver on a clone.
-|> > |> > i have a clone almost with no name generating 91k xstones on a 486/33mhz
-|> > system.
-|> > |> > |> > >>>i can get 15" tektronix xp11 terminals for under $900, and the performance
-|> > >>>is over 80000 xstones.....
-|> > |> > >you will not come even close to the performance of an xp10 series, plus you |> > >
-|> > excuse me, but with a 486/50 256k cache, s3 928 isa card, 8mb xs3 (x11r5) running 386bsd you can get 100k+ xstones at 1024x768 65mhz which i doubt |> |> this is hardly apples to apples. try running the benchmark over a
-|> network to the clone and, and if you're still getting 100k xstones
-|> then you've got a good machine. x terminals aren't just a server you know.....
-|> |> graeme gill. i would further add that a 486/50,s3/928,8mb,15",200mbdisk is going to cost
-/way/ more than $900, probably $3,000. color makes it not apples/apples too.
-xterminals provide better price/performance than pcs. you can make a pc
-much cheaper, and perform much worse, and you can make pc's perform great, and
-cost more. you pay extra for the additional functinality and expandability
-of a pc. for home user, that extra functionality is worth the added cost. -kelly murray
+From Kelly Murray Subject Re Looking for X windows on a PC In article M , Graeme Gill writes In article hastyC zGqC F , Amancio Hasty Jr writes BUT your performance WILL suck lemons running an Xserver on a clone I have a clone almost with no name generating k xstones on a Mhz system I can get Tektronix XP terminals for under , and the performance is over Xstones You will not come even CLOSE to the performance of an XP series, plus you Excuse me, but with a k cache, S ISA card, Mb XS X R running bsd you can get k xstones at x Mhz which I doubt This is hardly apples to apples Try running the benchmark over a network to the clone and, and if you're still getting K Xstones then you've got a good machine X terminals aren't just a server you know Graeme Gill I would further add that a ,S , mb, , mbDISK is going to cost WAY more than , probably , Color makes it not apples apples too Xterminals provide better price performance than PCs You can make a PC much cheaper, and perform much worse, and you can make PC's perform great, and cost more You pay extra for the additional functinality and expandability of a PC For home user, that extra functionality is worth the added cost Kelly Murray

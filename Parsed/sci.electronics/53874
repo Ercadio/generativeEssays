@@ -1,10 +1,1 @@
-from gerrit heitsch subject re what's a good ic for rs ttl signals in article , frank holden ka3uww writes: > >i'm looking for an ic that will convert rs232 voltage levels to ttl voltage > >levels. something relatively inexpensive would be nice, too. anyone have
-> >a suggestion?? thanks.
-> > well it looks as if digi-key sells a chip with the number icl232 that does what
-> you want. they are selling it for about $3.50... are you sure that he needs a two way converter? if he wants only
-rs232->ttl i would suggest the mc1489, its very cheap (0.80 dm in
-germany). this chip needs only +5v. the mc1488 ttl->rs232-converter
-uses +12v and -12v. btw... the max232 and compatibles seem to be expensive in the usa...
-i paid 2.95 dm for a its80272 (made by harris), its absolutely
-compatible with the max232 or the icl232. gerrit -- gerrit heitsch moenchweg 16 7038 holzgerlingen germany logical adresses: uucp: fido: (2:2407/106.9)
-if we will ever be visited by aliens, it will be very hard to explain, why a lifeform, that is intelligent enough to build atomic weapons can be stupid enough to do it. (taken from geo special about space, page 88-91)
+From Gerrit Heitsch Subject Re What's a good IC for RS TTL signals In article C , Frank Holden KA UWW writes I'm looking for an IC that will convert RS voltage levels to TTL voltage levels Something relatively inexpensive would be nice, too Anyone have a suggestion Thanks Well it looks as if Digi Key sells a chip with the number ICL that does what you want They are selling it for about Are you sure that he needs a two way converter If he wants only RS TTL I would suggest the MC , its very cheap DM in Germany This chip needs only V The MC TTL RS Converter uses V and V BTW The MAX and compatibles seem to be expensive in the USA I paid DM for a ITS made by Harris , its absolutely compatible with the MAX or the ICL Gerrit Gerrit Heitsch Moenchweg Holzgerlingen Germany Logical adresses UUCP FIDO If we will ever be visited by Aliens, it will be very hard to explain, why a lifeform, that is intelligent enough to build atomic weapons can be stupid enough to do it taken from GEO special about space, page

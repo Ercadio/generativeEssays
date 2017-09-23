@@ -1,12 +1,1 @@
-from andreas reto disteli subject s re problems with s initialization as described the manual the following steps must be done for th initialization
-of the s3 card. initdisplay; (*bios-call with ax-reg = 4f02h with bx-reg = 105h for 1024 x 768 x 256 resolution interrupt 10h *)
-unlock register lock 1 (cr38) (* for access to s3 register set *)
-unlock register lock 2 (cr39) (* for access to syst. control and syst. extension register *)
-unlock graphic command group (cr40) (* set bit 0 to 1 in syst. configuration register *)
-unlock advanced display functions (* set bit 0 to 1 in function control register *) after these operations the fifo-stack of the s3 should be empty.
-when we watch the status (graph. proc. status), we always get
-the value 0fh instead of 0h.
-full would mean 0ffh (8 places occupied), empty would mean 0h
-(0 places occupied). it is possible to read this register in two different ways. both times we get different results. our machine is a 486 dx/2 with eisa bus and a s3 86c805 local bus. --> any ideas? andreas disteli
-institut fuer computersysteme, eth zuerich
-email:
+From Andreas Reto Disteli Subject S Re Problems with S initialization As described the manual the following steps must be done for th initialization of the S card InitDisplay BIOS Call with AX Reg F H with BX Reg H for x x resolution Interrupt H Unlock Register Lock CR For access to S Register Set Unlock Register Lock CR For access to Syst Control and Syst Extension Register Unlock Graphic Command Group CR Set Bit to in Syst Configuration Register Unlock Advanced Display Functions Set Bit to in Function Control Register After these operations the FIFO stack of the S should be empty When we watch the status Graph Proc Status , we always get the value FH instead of H Full would mean FFH places occupied , empty would mean H places occupied It is possible to read this register in two different ways Both times we get different results Our machine is a DX with EISA bus and a S C local bus any ideas Andreas Disteli Institut fuer Computersysteme, ETH Zuerich email

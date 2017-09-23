@@ -1,3 +1,1 @@
-from zhenghao yeh subject re rgb hls hsv conversion routines wanted in article , g w bultman writes |> hi,
-|> |> i'm looking for rgb (cube) --> hls (double hexcone) --> hsv (cylinder) |> conversion routines. i have rgb <--> hsv, but miss the hls <--> rgb/hsv.
-|> have you checked foley's book? the solutions are in chapter 13. yeh usc
+From zhenghao yeh Subject Re RGB HLS HSV conversion routines wanted In article AA , G W Bultman writes Hi, I'm looking for RGB cube HLS double hexcone HSV cylinder conversion routines I have RGB HSV, but miss the HLS RGB HSV Have you checked Foley's book The solutions are in chapter Yeh USC

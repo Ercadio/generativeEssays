@@ -1,12 +1,1 @@
-from mark larsen subject re ray tracer for ms dos in article chris herringshaw writes >sorry for the repeat of this request, but does anyone know of a good
->free/shareware program with which i can create ray-traces and save
->them as bit-mapped files? (of course if there is such a thing =)
->
->thanks in advance
->
->daemon there are 2 books published by m&t books that come with c source code on
-floppies. they are: programming in 3 dimensions, 3-d graphics, ray traycing, and animation
-by: christopher d. watkins and larry sharp. photorealism and ray tracing in c
-by: christopher d. watkins, stephen b. coy, and mark finlay. i have the first book and it is a great intro to 3-d, ray tracing and
-animation. most of the programs are on the disk compiled and ready to run. i have only glanced at the second book but it also appears to be good. hope this helps!
-mark larsen --------------------------------------------------------------------------- "this r2 unit has a bad motivator!" - luke, star wars
+From Mark Larsen Subject Re Ray tracer for ms dos In article r cqiINN Chris Herringshaw writes Sorry for the repeat of this request, but does anyone know of a good free shareware program with which I can create ray traces and save them as bit mapped files Of course if there is such a thing Thanks in advance Daemon There are books published by M T BOOKS that come with C source code on floppies They are Programming In Dimensions, D Graphics, Ray Traycing, and Animation by Christopher D Watkins and Larry Sharp Photorealism and Ray Tracing in C by Christopher D Watkins, Stephen B Coy, and Mark Finlay I have the first book and it is a great intro to D, Ray Tracing and Animation Most of the programs are on the disk compiled and ready to run I have only glanced at the second book but it also appears to be good Hope this helps Mark Larsen This R unit has a bad motivator Luke, Star Wars

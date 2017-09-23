@@ -1,6 +1,1 @@
-from steve lamont subject re point within a polygon in article simon crowe writes i am looking for an algorithm to determine if a given point is bound by a >polygon. does anyone have any such code or a reference to book containing
->information on the subject ? see the article "an efficient ray-polygon intersection," p. 390 in
-graphics gems (isbn 0-12-286165-5). the second step, intersecting the
-polygon, does what you want. there is sample code in the book. spl
--- steve lamont, sciviguy -- (619) 534-7968 -- san diego microscopy and imaging resource/uc san diego/la jolla, ca 92093-0608
-"they are not bolsheviks, just bullshitviks." - yevgeny yevtechenko, "again a meeting..."
+From Steve Lamont Subject Re Point within a polygon In article A Simon Crowe writes I am looking for an algorithm to determine if a given point is bound by a polygon Does anyone have any such code or a reference to book containing information on the subject See the article An Efficient Ray Polygon Intersection, p in Graphics Gems ISBN The second step, intersecting the polygon, does what you want There is sample code in the book spl Steve Lamont, SciViGuy San Diego Microscopy and Imaging Resource UC San Diego La Jolla, CA They are not Bolsheviks, just bullshitviks Yevgeny Yevtechenko, Again a meeting

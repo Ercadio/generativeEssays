@@ -1,6 +1,1 @@
-from christopher wood subject re how long do ram simm's last in article noah , noah price writes |> in article <>,
-|> (j.e. king) wrote: |> > doesn't a 1 mb simm have about 1024 * 1024 * 8 moving flip-flops? |> they don't move, to anybody much bigger than an electron :-) dynamic ram is not based on flip-flops; there's basically a single
-transistor and capacitor to store each bit! static ram is based on
-flip-flops, and is much more expensive and much less dense. and
-neither has any parts that "move", if electrons and thermal expansion
-are ignored... |> noah chris -- chris wood bellcore
+From ccw lancelot NoSubdomain NoDomain Christopher Wood Subject Re How long do RAM SIMM's last In article , Noah Price writes In article A , J E King wrote Doesn't a MB SIMM have about moving flip flops They don't move, to anybody much bigger than an electron Dynamic RAM is not based on flip flops there's basically a single transistor and capacitor to store each bit Static RAM is based on flip flops, and is much more expensive and much less dense And neither has any parts that move , if electrons and thermal expansion are ignored noah Chris Chris Wood Bellcore

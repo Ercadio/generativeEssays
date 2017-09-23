@@ -1,6 +1,1 @@
-from chuck strickland subject x r on aix using cc i have gotten x r pl 23 to compile on aix 3.2.2 using cc. but the server will not run. it simplys starts and a couple seconds later exits. no error are displayed. my defines for compile are -dsysv -daixv3 -dsysv_wait -dmalloc_0_returns_null could somewhere share some light, or maybe the ibm.cf file. thanks.
--- *_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
-malcolm c. strickland martin marietta missile systems
-chuck- mail point 170 phone: 407-356-7437 pobox 555837
-fax: 407-356-5482 orlando florida 32855-5837
-*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+From Chuck Strickland Subject X R on aix using cc I have gotten X R pl to compile on AIX using cc but the server will not run it simplys starts and a couple seconds later exits no error are displayed my defines for compile are DSYSV DAIXV DSYSV WAIT DMALLOC RETURNS NULL could somewhere share some light, or maybe the ibm cf file thanks Malcolm C Strickland Martin Marietta Missile Systems mail point Phone pobox Fax orlando florida

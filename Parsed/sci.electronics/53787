@@ -1,13 +1,1 @@
-from aaron lung subject re motorola xc rc and rc in article henry spencer) writes:
->in article <> (stefan berg) writes:
->>... i don't know why my fpu has an xc (my original 33mhz fpu
->>was label mc68882-33), but it seems to work fine on my system...
->>p.s. or does it mean experimental chip instead of motorola chip? .-)
->
->the rule for the designations is that if it says mc, that means it works
->*exactly* the way the datasheet/book specifies. if it says xc, that means
->there is at least one known bug. often these bugs are small and obscure;
->you might never run into them in practice.
-> xc units are often pre-production sample devices. those are normally
-distributed for evaluation as freebies and are not guaranteed to
-meet every spec. >at least motorola admits it, unlike certain other companies... yep, that's for sure...that's one thing i like most about motorola. aaron
+From Aaron Lung Subject Re Motorola XC RC and RC In article C qwv B Henry Spencer writes In article Stefan Berg writes I don't know why my FPU has an XC my original MHz FPU was label MC , but it seems to work fine on my system P S Or does it mean eXperimental Chip instead of Motorola Chip The rule for the designations is that if it says MC, that means it works exactly the way the datasheet book specifies If it says XC, that means there is at least one known bug Often these bugs are small and obscure you might never run into them in practice XC units are often pre production sample devices Those are normally distributed for evaluation as freebies and are not guaranteed to meet every spec At least Motorola admits it, unlike certain other companies Yep, that's for sure that's one thing I like most about Motorola aaron

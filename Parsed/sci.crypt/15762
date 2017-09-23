@@ -1,11 +1,1 @@
-from ron asbestos dippold subject re do we need the clipper for cheap security paul crowley writes >quoting (perry e. metzger) in article <>:
->>whats the difference between a v.32bis modem and a v.32bis modem? >how fast do the fastest modems go?
->how far can voice be compressed?
->i've seen various assertions about this, but anyone with the
->straightforward bits-per-second figures will be my friend forever... how about half a friend? the motorola codex preliminary v.fast modem
-(which you can by right now) does 24.4 kbps (raw) over standard phone
-lines. 28.8 kbps is what is usually claimed for the "final" v.fast,
-but you can't go out and buy that right now, the standard isn't done yet. again, voice can be compressed quite well down to 4000 or 8000 bps
-depending on how good you want it to be, but that requires a dsp or a
-special asic to do in real-time.
--- i think i am! i think i am! - the little engine that philosophized
+From Ron Asbestos Dippold Subject Re Do we need the clipper for cheap security Paul Crowley writes Quoting Perry E Metzger in article A Whats the difference between a V bis modem and a V bis modem How fast do the fastest modems go How far can voice be compressed I've seen various assertions about this, but anyone with the straightforward bits per second figures will be my friend forever How about half a friend The Motorola Codex preliminary V Fast modem which you can by right now does kbps raw over standard phone lines kbps is what is usually claimed for the final v fast, but you can't go out and buy that right now, the standard isn't done yet Again, voice can be compressed quite well down to or bps depending on how good you want it to be, but that requires a DSP or a special ASIC to do in real time I think I am I think I am the little engine that philosophized

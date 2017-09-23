@@ -1,6 +1,1 @@
-from brian c white subject re scsi on dos in article wayne smith writes it was the seagate 296n and the st-02 controller. i found that the
->controller couldn't keep up with a 1:1 interleave, so the best i could do
->with the drive was a 2:1 interleave and a data transfer of about 450 k/sec. according to what others have told me, the st-296n is difficult to run at
-the 1:1 interleave even though seagate claims it. i have a non-pc system
-(don't ask what it is, you probably haven't heard of it) that is built
-around scsi and it can't do 1:1, either. brian ( ) ------------------------------------------------------------------------------- in theory, theory and practice are the same. in practice, they're not.
+From Brian C White Subject Re SCSI on dos In article A Wayne Smith writes It was the Seagate N and the ST controller I found that the controller couldn't keep up with a interleave, so the best I could do with the drive was a interleave and a data transfer of about k sec According to what others have told me, the ST N is difficult to run at the interleave even though Seagate claims it I have a non pc system don't ask what it is, you probably haven't heard of it that is built around SCSI and it can't do , either Brian In theory, theory and practice are the same In practice, they're not

@@ -1,4 +1,1 @@
-from dale adams subject re adding vram to quadra in article w stuart jones) writes:
-> i want to go from 512k to 1m vram on my quadra 800. how many 512k simms > do i
-> need to buy? is the current 512k soldered on the board or do i need to take
-> out the current vram before i add more? you need to add two 256k vram simms; 512k vram simms will not work in any of the quadra or centris machines. there is already 512k of vram soldered to the logic board. you add the two 256k simms to this to give you a total of 1 mb. - dale adams
+From Dale A Dale Adams Subject Re Adding VRAM to Quadra In article W Stuart Jones writes I want to go from K to M VRAM on my Quadra How many K SIMMS do I need to buy Is the current K soldered on the board or do I need to take out the current VRAM before I add more You need to add two K VRAM SIMMs K VRAM SIMMs will not work in any of the Quadra or Centris machines There is already K of VRAM soldered to the logic board You add the two K SIMMs to this to give you a total of MB Dale Adams

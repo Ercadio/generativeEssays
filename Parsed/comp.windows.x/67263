@@ -1,2 +1,1 @@
-from thomas dunbar subject re x toolkits libxaw d, the d athena widget set will greatly improve the sculptured look in linux, with its shared, jump-table libs, you
-don't even have to recompile or relink. you merely have to: ln -sf /lib/libxaw3d.so.3.0 /lib/libxaw.so.3 thomas
+From Thomas Dunbar Subject Re X Toolkits libXaw d, the D Athena widget set will greatly improve the sculptured look In Linux, with its shared, jump table libs, you don't even have to recompile or relink you merely have to ln sf lib libXaw d so lib libXaw so thomas

@@ -1,9 +1,1 @@
-from g t falk subject alt security pgp begin pgp signed message hi all . does anyone know of a unix utility allowing encrypted telnet sessions using
-public-key? i'd like something so that nobody can snoop my password or
-session text while i'm logging in remotely over the network. thanks g. - -------------------------------------------------------------------------
-please report unsigned (hence unauthorised) messages purportedly from me,
-sent after 22/04/93. - ------------------------------------------------------------------------- -----begin pgp signature-----
-version: 2.2 iqbvagubk9zxmtqrcjh0adt3aqfhrwh9hwbpywwr+/o+peoco9glpoz5odkhynw8
-ajiif6tsm+ymqbwmvholm7bub4jpybqanpkmz8tdd4tyuinsx68cvg==
-=gw7z
------end pgp signature-----
+From G T Falk Subject alt security pgp BEGIN PGP SIGNED MESSAGE Hi all Does anyone know of a UNIX utility allowing encrypted telnet sessions using public key I'd like something so that nobody can snoop my password or session text while I'm logging in remotely over the network Thanks g PLEASE REPORT UNSIGNED HENCE UNAUTHORISED MESSAGES PURPORTEDLY FROM ME, SENT AFTER BEGIN PGP SIGNATURE Version iQBVAgUBK ZxMTQRcjh adt AQFHrwH HwBPyWwr O pEocO glPOZ odKHynW AJIiF Tsm YMqBwmVHoLm bUb JPybQanpkmz tdd tYuinSX cVg Gw z END PGP SIGNATURE

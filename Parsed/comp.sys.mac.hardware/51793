@@ -1,13 +1,1 @@
-from cameron lewis subject re video resolution switching in article john shepardson esh john shepardson, writes as the author of "dpi on the fry" i can tell you that there is no way
-for a
->graphics card to know what resolution its connected monitor will actually
->support. that's why we have these silly cables. the cable just
-identifies
->that monitor as supporting a given resolution.
->
->therefore the software will support any multisync monitor. i've heard
-that
->radius has a similar program for the quadra. is this software available either commercially or public domain? if so
-where? cameron lewis email: air operations division (melb.) gbb: +61 3 647 7729
-aeronautical research laboratory - d.s.t.o fax: +61 3 646 3433
-506 lorimer st, fishermens bend, vic., australia, 3207
+From Cameron Lewis Subject Re Video Resolution Switching In article John S John Shepardson, John S writes As the author of DPI on the Fry I can tell you that there is no way for a graphics card to know what resolution its connected monitor will actually support That's why we have these silly cables The cable just identifies that monitor as supporting a given resolution Therefore the software will support any multisync monitor I've heard that radius has a similar program for the quadra Is this software available either commercially or public domain If so where Cameron Lewis email Air Operations Division Melb gbb Aeronautical Research Laboratory D S T O fax Lorimer St, Fishermens Bend, Vic , Australia,

@@ -1,4 +1,1 @@
-from harry j kobetitsch subject xwd i am trying to run xwd on a sun sparcstation ipx with sunos and openwindows 3.0. i am using
-the motif window manager. i have been unsuccessful
-in using xwd under motif. i get the following when
-doing xwd -out xwd.dmp x error of failed request: baddrawable (invalid pixmap or window parameter) major opcode of failed request: 73 (x_getimage) resource id in failed request: 0x500043 serial number of failed request: 213 current serial number in output stream: 213 does anyone have any insight to this ?
+From Harry J Kobetitsch Subject xwd I am trying to run xwd on a Sun SPARCstation IPX with SunOS and Openwindows I am using the Motif window manager I have been unsuccessful in using xwd under Motif I get the following when doing xwd out xwd dmp X Error of failed request BadDrawable invalid Pixmap or Window parameter Major opcode of failed request X GetImage Resource id in failed request x Serial number of failed request Current serial number in output stream Does anyone have any insight to this

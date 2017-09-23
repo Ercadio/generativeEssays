@@ -1,11 +1,1 @@
-from joe morris subject re smartdrv and dblspace in a recent article richard calderon writes i just received a gateway 486/33 with windows and dos 6.0. i ran it a few times
->with no apparent problems. i decided to give double space a try. after >compressing the drive, with no problems, i decided to load windows. it took
->1 minute 45 seconds to load after dblspace, 17 seconds before dblspace. i >tinkered a little with the machine and noticed an error message saying >smartdrive 4.0 cannot work with dblspace. ^^^^^^^^^^^^^^
-not unreasonable, since the smartdrv packaged with dos 6 is version 4.1.
-make sure that all your drivers (himem, emm386, smartdrv) are being
-executed from the dos directory. loss of the cache provided by smartdrv could be your problem; if not,
-i don't know what might cause the startup delay. my testbed for dblspace
-(which has a *very* minimal amount of data on the disk so that i don't
-eat up too much time as i install and uninstall dblspace) boots in about 20 seconds from the "starting ms-dos" herald to the end of the
-autoexec.bat execution. i don't have handy a system with a more
-realistic volume of data to time. joe morris / mitre
+From Joe Morris Subject Re SMARTDRV AND DBLSPACE In a recent article Richard Calderon writes I just received a Gateway with Windows and Dos I ran it a few times with no apparent problems I decided to give double Space a try After compressing the drive, with no problems, I decided to load windows It took minute Seconds to load after dblspace, seconds before dblspace I tinkered a little with the machine and noticed an error message saying Smartdrive cannot work with Dblspace Not unreasonable, since the SMARTDRV packaged with DOS is version Make sure that all your drivers HIMEM, EMM , SMARTDRV are being executed from the DOS directory Loss of the cache provided by SMARTDRV could be your problem if not, I don't know what might cause the startup delay My testbed for DBLSPACE which has a very minimal amount of data on the disk so that I don't eat up too much time as I install and uninstall DBLSPACE boots in about seconds from the Starting MS DOS herald to the end of the AUTOEXEC BAT execution I don't have handy a system with a more realistic volume of data to time Joe Morris MITRE

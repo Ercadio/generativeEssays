@@ -1,13 +1,1 @@
-from marc wandschneider subject re ide vs scsi in article newssoftware grn f .17.92) by mike schwartz & michael b. smith writes:
->in article <> (wayne smith) writes:
->>
->> i won't argue that the scsi standard makes for a good, well implimented
->> data highway, but i still want to know why it intrinsically better
->> (than ide, on an isa bus) when it comes to multi-tasking os's when
->> managing data from a single scsi hard drive.
->
->i have been following this thread and figured i'd throw in my two cents...
->
->the amiga zorro ii bus is comparable with the isa bus (7.16 vs 8.33 mhz). except for the fact that it's superior in just about every way to
-the isa bus. >the amiga has had a pre-emptative multi-tasking os since '85 and can
->operate with 1 mb ram! scsi is used almost exclusively on these systems. except for the new systems that now ship only with ide controllers. toodlepip! marc 'em.
+From Marc WANDSCHNEIDER Subject Re IDE vs SCSI In article X NewsSoftware GRn f by Mike Schwartz Michael B Smith writes In article A Wayne Smith writes I won't argue that the SCSI standard makes for a good, well implimented data highway, but I still want to know why it intrinsically better than IDE, on an ISA bus when it comes to multi tasking OS's when managing data from a single SCSI hard drive I have been following this thread and figured I'd throw in my two cents The Amiga Zorro II bus is comparable with the ISA bus vs MHZ Except for the fact that it's superior in just about every way to the ISA Bus The Amiga has had a pre emptative multi tasking OS since ' and can operate with MB RAM SCSI is used almost exclusively on these systems Except for the new systems that now ship only with IDE controllers ToodlepiP Marc 'em

@@ -1,16 +1,1 @@
-from greg bishop subject re diamond ss x, win , mouse cursor in article don a.b. lindbergh) writes:
->>
->>anybody seen mouse cursor distortion running the diamond 1024x768x256 driver?
->>sorry, don't know the version of the driver (no indication in the menus) but it's a recently
->>delivered gateway system. am going to try the latest drivers from diamond bbs but wondered
->>if anyone else had seen this.
->> >as a followup, this is a co-worker's machine. he has the latest 2.03 drivers.
->it only happens using the 1024x768x256 driver. sometimes it takes a minute
->or so for the cursor to wig out, but it eventually does in this mode. i
->susect something is stepping on memory the video card wants. i excluded
->a000-c7ff in the emm386 line and in system.ini the problem persisted.
->perhaps it is something specific to the gateway machine or it's components.
->it is a 66mhz dx/2 eisa bus with an ultrastore (24xx?) controller. ah well,
->i was hoping this was some kind of 'known problem' or somebody had seen it
->before. perhaps a call to gateway is in order, but i do find folks here
->usually are far more in the know. i use the diamond speedstar 24x in 1024x768x256 mode all of the time. i have not found distortions in the cursor. the cursor is a little jumpy from time to time (due to 32 bit access to the swap file), but it is never distorted. greg bishop. ()
+From Greg Bishop Subject Re Diamond SS X, Win , Mouse cursor In article A Don A B Lindbergh writes Anybody seen mouse cursor distortion running the Diamond x x driver Sorry, don't know the version of the driver no indication in the menus but it's a recently delivered Gateway system Am going to try the latest drivers from Diamond BBS but wondered if anyone else had seen this As a followup, this is a co worker's machine He has the latest drivers It only happens using the x x driver Sometimes it takes a minute or so for the cursor to wig out, but it eventually does in this mode I susect something is stepping on memory the video card wants I excluded a c ff in the EMM line and in system ini The problem persisted Perhaps it is something specific to the Gateway machine or it's components It is a mhz DX Eisa bus with an Ultrastore xx controller Ah well, I was hoping this was some kind of 'known problem' or somebody had seen it before Perhaps a call to Gateway is in order, but I do find folks here usually are far more in the know I use the Diamond SpeedStar X in X X mode all of the time I have NOT found distortions in the cursor The cursor is a little jumpy from time to time due to bit access to the swap file , but it is never distorted Greg Bishop

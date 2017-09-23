@@ -1,13 +1,1 @@
-from arto v viitanen subject re funet fi on apr :01:58 gmt, (perry egelmeers) said:
-perry> nntp-posting-host: wswiop15.win.tue.nl perry> writes: > i saw a posting earlier that refered to funet.fi directory /pub/msdos
->however, when i log on to funet.fi i cant even find the "pub" directory let
->alone the "msdos" directory !!!! can someone tell me what i'm doing wrong?? perry> perhaps you should try nic.funet.fi instead of funet.fi ??!?!? another possibility is, that you did not give your email address as password
-for the anonymous account. if you that, you see following message: 230-
-230-you entered an invalid/inpropable password, and are now accessing
-230-restricted subset of files. please read readme for more information.
-230-we have special access features, see file readme
-230 it was last updated tue apr 13 23:45:09 1993 - 9.4 days ago this can happen, if your terminal emulator does not generate the '@'
-character as you think (it is hard to see, since passwords are not echoed..).
---
-arto v. viitanen internet: university of tampere, x.400: s=av;ou=cs;o=ut;admd=fumail;c=fi
-finland
+From Arto V Viitanen Subject Re FUNET FI On Apr GMT, Perry Egelmeers said Perry NNTP Posting Host wswiop win tue nl Perry artieb vnet IBM COM writes I saw a posting earlier that refered to FUNET FI directory pub msdos however, when I log on to FUNET FI I cant even find the pub directory let alone the msdos directory Can someone tell me what I'm doing wrong Perry Perhaps you should try nic funet fi instead of funet fi Another possibility is, that you did not give your email address as password for the anonymous account If you that, you see following message You entered an invalid inpropable password, and are now accessing restricted subset of files Please read README for more information We have special access features, see file README It was last updated Tue Apr days ago This can happen, if your terminal emulator does not generate the ' ' character as you think it is hard to see, since passwords are not echoed Arto V Viitanen Internet University Of Tampere, X S av OU cs O ut ADMD fumail C fi Finland

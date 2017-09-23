@@ -1,4 +1,1 @@
-from scstech admin subject getting pseudo tty in x motif hi, i am about to write an application in x motif that will require the embedding of a pseudo tty. so, before i re-invent the wheel, has anyone
-written/gotten a motif widget that does the job ? otherwise, i would
-appreciate any pointers to make such a beast. my environment is x11r4/motif 1.1 and x11r5/motif 1.2 (if this helps). thanks in advance. arthur lim
-email :
+From SCSTECH admin Subject Getting Pseudo TTY in X Motif Hi, I am about to write an application in X Motif that will require the embedding of a pseudo tty So, before I re invent the wheel, has anyone written gotten a motif widget that does the job Otherwise, I would appreciate any pointers to make such a beast My environment is X R Motif and X R Motif if this helps Thanks in advance Arthur Lim Email

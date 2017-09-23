@@ -1,5 +1,1 @@
-from robert j c kyanko subject help with world to screen x transfomation matrix i need help in creating my x perspective matrix. i'd like to use this for
-transforming x, y, z, w in some texture mapping code i got from graphics gems
-i. i have many books which talk about this, but none of them in simple plain
-english. if you have graphics gems i, i'm talking about page 678. i'd like to have a perspective matrix that handles different field-of-views
-and aspect of course. thank's for your help. -- yes, of course everything i say is my personal opinion! robert j.c. kyanko ( or )
+From Robert J C Kyanko Subject Help with World to screen x transfomation matrix I need help in creating my x perspective matrix I'd like to use this for transforming x, y, z, w in some texture mapping code I got from Graphics Gems I I have many books which talk about this, but none of them in simple plain english If you have Graphics Gems I, I'm talking about page I'd like to have a perspective matrix that handles different field of views and aspect of course Thank's for your help Yes, of course everything I say is my personal opinion Robert J C Kyanko or rob rjck UUCP

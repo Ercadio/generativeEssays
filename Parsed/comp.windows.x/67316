@@ -1,7 +1,1 @@
-from dresden de andre beck subject re title for xterm yet again, the escape sequences you are speaking about here are non standard and
-dangerous. in fact, an ansi compliant sequence parser hangs on them. why are there such strange esc sequences instead of compatible dsc ? --
-+-o-+--------------------------------------------------------------+-o-+
-| o | \\\- brain inside -/// | o |
-| o | ^^^^^^^^^^^^^^^ | o |
-| o | andre' beck (abpsoft) mehl: -dresden.de | o |
-+-o-+--------------------------------------------------------------+-o-+
+From Andre Beck Subject Re Title for XTerm Yet again, the escape sequences you are speaking about here are non standard and dangerous In fact, an ANSI compliant sequence parser HANGS on them Why are there such strange ESC sequences instead of compatible DSC o o o Brain Inside o o o o Andre' Beck ABPSoft mehl Andre Beck IRS Inf TU Dresden de o o o

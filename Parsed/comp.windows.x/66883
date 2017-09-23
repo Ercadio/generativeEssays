@@ -1,6 +1,1 @@
-from brad daniels subject re iconize a running application in article john dumais writes i've been trying to figure a way to programmatically iconize >an application running under a motif window manager. i have tried
->several approaches includeing sending events to the application's
->border window, but to no avail? anyone done this before? i tend to use xiconifywindow to achieve this effect... have you tried that? - brad
--- brad daniels `	| "if money can't buy happiness, | i guess i'll have to rent it."
-i don't work for neosoft, and	| - weird al yenkovic
-don't speak for my employer.	|
+From daniels NeoSoft com Brad Daniels Subject Re iconize a running application In article C IFJ F John Dumais writes I've been trying to figure a way to programmatically iconize an application running under a Motif window manager I have tried several approaches includeing sending events to the application's border window, but to no avail Anyone done this before I tend to use XIconifyWindow to achieve this effect Have you tried that Brad Brad Daniels If money can't buy happiness, I guess I'll have to rent it I don't work for NeoSoft, and Weird Al Yenkovic don't speak for my employer

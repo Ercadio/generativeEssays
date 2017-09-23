@@ -1,14 +1,1 @@
-from paul martz subject re bit static color will clients like it in article , frederick roeber) writes:
-> i'm writing an x server for some video-generation equipment. the
-> hardware is "truecolor" in yuv space; in x terms it has a 24-bit
-> static color visual. i would really like to have the server just
-> present this static visual, but i'm not sure if this will be > acceptable to "most" x clients. the three problems i see are:
-> > 1) the colormap, though huge, is static.
-> 2) all pixels would be 3 bytes wide.
-> 3) because the hardware actually lives in yuv space, the
-> translation rgb->yuv will introduce some rounding error. we tried to ship an x server once that only supported a 24bit
-truecolor visual. the main problems we encountered were: 1) clients written with logic like the following: if (defaultdepth() != 1) /* assume default depth is 8bit */ these clients need an 8bit deep visual in the root window to run correctly. 2) other clients didn't even bother to do that much, and just outright assumed they had a *dynamic* visual class, with a dynamic colormap. xstorecolors doesn't work on cmaps associated with static or truecolor visual classes, but many clients don't bother to check, they just start throwing xstorecolor calls at you. though both are clearly client error, this is the case with so many
-clients that it's easier for you to expose 8bit pseudocolor as a
-default root window visual, than it ever would be for all these client
-writers to change their clients to do the right thing.
--- -paul evans & sutherland
+From Paul Martz Subject Re bit Static color will clients like it In article A , Frederick Roeber writes I'm writing an X server for some video generation equipment The hardware is truecolor in YUV space in X terms it has a bit static color visual I would really like to have the server just present this static visual, but I'm not sure if this will be acceptable to most X clients The three problems I see are The colormap, though huge, is static All pixels would be bytes wide Because the hardware actually lives in YUV space, the translation RGB YUV will introduce some rounding error We tried to ship an X server once that only supported a bit TrueColor visual The main problems we encountered were Clients written with logic like the following if DefaultDepth Assume default depth is bit These clients need an bit deep visual in the root window to run correctly Other clients didn't even bother to do that much, and just outright assumed they had a dynamic visual class, with a dynamic colormap XStoreColors doesn't work on cmaps associated with Static or TrueColor visual classes, but many clients don't bother to check, they just start throwing XStoreColor calls at you Though both are clearly client error, this is the case with so many clients that it's easier for you to expose bit PseudoColor as a default root window visual, than it ever would be for all these client writers to change their clients to do the right thing paul Evans Sutherland

@@ -1,17 +1,1 @@
-from guy dawson subject re why vesa local bus in article , grego filippo writes:
-> hi fellow netters,
-> > i have a question for you... i am gonna buy a 486dx2-66 mhz
-> with vesa local-bus. is the speed benefit that great ? > would it be wise to spend on a local-bus system (hd controller > and graphic card) for normal use ( i mean i won't use it for a
-> server !!) ?
-> > also, i read an article from someone ( sorry, i can't remember your
-> name ) and he said that even though you have a local-bus hard-disk
-> controller, your performances won't be that much greater because
-> of the disk's throughtput !!! > so what is the use of having a fast bus if the peripherals can't > cope with it ??? something to bear in mind is what the v in vlb stands for! v for video - the origional intention of the bus was to speed up
-the bus so that large memory to memory transfers would be faster.
-this is espically useful in transfering data from main memory to
-video memory. since there are usually 3 vlb slots card makers have been making cards to fit in the other two. how about an vlb ethernet card? move the data into the card at
-130 odd mb/s and then wait for it to tickle onto the net at
-just over 1mb/s. [ do do however free the local bus for other cards ] some times you need fast busses and sometimes you don't! > > thank you ...
-> > > > guy
--- -- -----------------------------------------------------------------------------
-guy dawson - hoskyns group plc. tel hoskyns uk - 71 251 2128 tel ibm austin usa - 512 838 3377
+From Guy Dawson Subject Re Why VESA Local Bus In article A , gregof JSP UMontreal CA Grego Filippo writes Hi fellow netters, I have a question for you I am gonna buy a DX MHz with VESA Local Bus IS the speed benefit that great Would it be wise to spend on a local bus system HD controller and graphic card for normal use I mean I won't use it for a server Also, I read an article from someone sorry, I can't remember your name and he said that even though you have a local bus hard disk controller, your performances won't be that much greater because of the disk's throughtput So what is the use of having a fast bus if the peripherals can't cope with it Something to bear in mind is what the V in VLB stands for V for Video the origional intention of the bus was to speed up the bus so that large memory to memory transfers would be faster This is espically useful in transfering data from main memory to video memory Since there are usually VLB slots card makers have been making cards to fit in the other two How about an VLB ethernet card Move the data into the card at odd MB s and then wait for it to tickle onto the net at just over Mb s Do do however free the local bus for other cards Some times you need fast busses and sometimes you don't Thank you Guy Guy Dawson Hoskyns Group Plc Tel Hoskyns UK Tel IBM Austin USA

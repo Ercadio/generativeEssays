@@ -1,8 +1,1 @@
-from man lung li subject malloc problem how do you solve the problem when the message cannot perform malloc shows for xtcreatemanagedwidget call i have the application written in x11r5 running on decstation using
-athena widgets. as soon as i added codes to do remote procedure call,
-the program refused to work. i also have my program working using
-just xlib calls with rpc. my executable code is about 1.4m and i don't
-have any idea how much memory is the decstation 3100/5100. any help will be appreciated. thanks. -- ----------------------------------------------------------------------
-man l. li ()
-dept. of computer science
-univ. of houston, houston,tx 77204-3475
+From Man Lung Li Subject malloc problem How do you solve the problem when the message Cannot perform malloc shows for XtCreateManagedWidget call I have the application written in X R running on DECstation using Athena widgets As soon as I added codes to do Remote Procedure Call, the program refused to work I also have my program working using just Xlib calls with RPC My executable code is about M and I don't have any idea how much memory is the DECstation Any help will be appreciated Thanks Man L Li Dept of Computer Science Univ of Houston, Houston,TX

@@ -1,6 +1,1 @@
-from robert moskal subject volante warp board i've been troubleshooting the existence of way too many general protection faults on a 6-33, eisa-vlb, system. at this point i think i've narrowed
-the problem down to the video drivers for the volante warp-10 adapter by
-national design, inc. yet somehow i find this hard to believe. does anyone else have any
-experiences with this board. thanx,
-robert moskal
-brooklyn, usa
+From Robert Moskal Subject Volante Warp board I've been troubleshooting the existence of way too many General Protection Faults on a , Eisa VLB, system At this point I think I've narrowed the problem down to the video drivers for the Volante Warp adapter by National Design, INc Yet somehow I find this hard to believe Does anyone else have any experiences with this board Thanx, Robert Moskal Brooklyn, USA

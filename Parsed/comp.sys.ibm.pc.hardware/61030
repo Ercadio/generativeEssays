@@ -1,18 +1,1 @@
-from subject com card shows up as com with com 's address and irq i have an internal modem that i configure as com with irq 3, but
-when i insert that card into my dos 5.02 pc, it shows up
-as com3, with irq3 and com4's address (2e8)! when i get into debug, and dump the data at 40:0, it shows
-the address 2e8 as belonging to com3 - even though the modem
-should be at com4. now, i know the modem is working correctly since i have tested
-it in a different pc - and it shows up correctly as com4, 2e8, irq3. to make it work in the dos 5.02 pc, i have to configure the
-modem as com3, 2e8, irq3---but though i have a comm program that
-allows that, the fax program that came with the modem does not work.
-anyway, i would like the computer to display the modem as it is set,
-as com4...
-i did run a few diagnostic programs, and they did not help at all:
-a few displayed the modem as com4, and others displayed it as
-being com3. i am not using windows, this is just a dos problem...any help
-or pointers appreciated....
-for various reasons, i must have this modem work at com4, thus
-switching com ports is not an answer... (last time i posted this, i did not get any dos specific answer,
-this time i have included all the specific information....please help!) -----
-avinash chopde -- avinash chopde
+From Subject COM card shows up as COM with COM 's address and IRQ I have an internal modem that I configure as COM with IRQ , but when I insert that card into my DOS PC, it shows up as COM , with IRQ and COM 's address E When I get into debug, and dump the data at , it shows the address E as belonging to COM even though the modem should be at COM Now, I know the modem is working correctly since I have tested it in a different PC and it shows up correctly as COM , E , IRQ To make it work in the DOS PC, I have to configure the modem as COM , E , IRQ but though I have a comm program that allows that, the FAX program that came with the modem does not work Anyway, I would like the computer to display the modem as it is set, as COM I did run a few diagnostic programs, and they did not help at all a few displayed the modem as COM , and others displayed it as being COM I am not using Windows, this is just a DOS problem Any help or pointers appreciated For various reasons, I must have this modem work at COM , thus switching COM ports is not an answer Last time I posted this, I did not get any DOS specific answer, this time I have included all the specific information please help Avinash Chopde Avinash Chopde
