@@ -1,0 +1,16 @@
+from brian s ridout subject re virtual reality for x on the cheap in article , steve sherwood (x5543)) writes:
+|> has anyone got multiverse to work ?
+|> |> i have built it on 486 svr4, mips svr4s and sun sparcstation.
+|> |> there seems to be many bugs in it. the 'dogfight' and 'dactyl' simply do nothing
+|> (after fixing a bug where a variable is defined twice in two different modules - one needed
+|> setting to static - else the client core-dumped)
+|> |> steve
+|> -- |> |> extn 5543, , !uunet!mfocus!sts
+|> +-----------------------------------+------------------------+ micro focus
+|> | just like pariah, i have no name, | rm -rf * | 26 west street
+|> | living in a blaze of obscurity, | "rum ruff splat" | newbury
+|> | need courage to survive the day. | | berkshire
+|> +-----------------------------------+------------------------+ england
+|> (a)bort (r)etry (i)nfluence with large hammer
+i built it on a rs6000 (my only motif machine) works fine. i added some objects
+into dogfight so i could get used to flying. this was very easy. all in all cool!. brian

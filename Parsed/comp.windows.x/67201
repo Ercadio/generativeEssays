@@ -1,0 +1,1 @@
+from dan s reznik subject correction on my last posting glx lack of cous on dialog widget on the code i sent, please replace the line: xtaddcallback(popupshell, xtncallback, mypopup, (xtpointer)popupshell); by xtaddcallback(button, xtncallback, mypopup, (xtpointer)popupshell); --- the rest (and my question) remains the same... dan

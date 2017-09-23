@@ -1,0 +1,8 @@
+from dresden de andre beck subject re system file in tmp in article , christopher lusardi writes |> |> what is the directory .x11-unix for in /tmp? when i start
+|> x, it is created by the system. this directory wasn't created |> by root, and it contains an empty file (x0) that is owned by me. |> it's the unix domain socket (local connection) to your xserver.
+try to rm it :) --
++-o-+--------------------------------------------------------------+-o-+
+| o | \\\- brain inside -/// | o |
+| o | ^^^^^^^^^^^^^^^ | o |
+| o | andre' beck (abpsoft) mehl: -dresden.de | o |
++-o-+--------------------------------------------------------------+-o-+

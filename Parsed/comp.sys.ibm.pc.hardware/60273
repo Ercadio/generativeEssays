@@ -1,0 +1,3 @@
+from anssi saari subject re soundblaster irq and port settings in tom huot writes i would also like an explanation of this. if anyone can explain
+>why the sb pro and lpt 1 can share an irq, please do so. i think it's simply because dos doesn't use the irq for anything. os/2 does,
+so with that you can't share the irq. anssi -- anssi saari tampere university of technology finland, europe

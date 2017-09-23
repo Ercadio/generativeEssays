@@ -1,0 +1,4 @@
+from graeme gill subject re help need bits viewer in article , gilles deniaud writes > hi,
+> > i'm looking for a program which is able to display 24 bits
+> images. we are using a sun sparc equipped with parallax
+> graphics board running x11. xli, xloadimage or imagemagick - export.lcs.mit.edu [18.24.0.12] /contrib graeme gill

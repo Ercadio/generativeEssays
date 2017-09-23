@@ -1,0 +1,6 @@
+from subject re changing dpy max request size in article oliver jones writes in article <> (nennelccm nodrog) writes:
+<>
+<>does anyone out there know how to change the maximum request size for
+<>a server <
+<it is ordinarily set to the highest value the underlying os can yes, and you don't want to change this value if you're running image type
+applications. -- _---_ steve / o o \ , | \___/ | just say no to vms!!

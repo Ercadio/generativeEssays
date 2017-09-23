@@ -1,0 +1,457 @@
+from mike levis subject rd cfv and vote ack comp os os programmer porting,setup,multimedia,bugs attention voters * i had a problem with my mailbox on the first day of voting.
+* please check the vote acknowlegement (ack) at the end of this cfv.
+* if your name/address is not there, please send your vote again.
+* (actually, check even if you voted after the first day) introduction: this is the third (and final) call for votes (cfv) for the creation of four os/2 newsgroups and the renaming of one: (a) create comp.os.os2.programmer.porting (unmoderated) (b) renaming of comp.os.os2.programmer to comp.os.os2.programmer.misc (unmoderated) (c) comp.os.os2.setup (unmoderated) (d) comp.os.os2.multimedia (unmoderated) (e) comp.os.os2.bugs (unmoderated) this is the second attempt at creating comp.os.os2.programmer.porting and comp.os.os2.setup, and renaming comp.os.os2.programmer to comp.os.os2.programmer.misc. the first attempt failed in the summer of 1992 (the voting deadline was august 31, 1992). the voting rules
+	state that another attempt for creating newsgroups can be started
+	after a six month waiting period (in this case, it is march 1, 1993).
+	this is the first attempt at creating comp.os.os2.multimedia and
+	comp.os.os2.bugs.
+
+	this document contains:
+	*  the background showing the need for these proposals
+	*  the proposed charters for these proposals
+	*  voting instructions
+	*  a voting ballot
+	*  some example ballots
+	*  the voting rules
+	*  the voting schedule
+	*  the mass acknowledgement
+
+
+background:
+
+	the creation of two, free, 32-bit compilers for os/2 2.x (gcc/2
+	and emx/gcc; read comp.os.os2.programmer for details) has spurred
+	a continuing deluge of software ported from unix platforms, such
+	as emacs, less, awk, grep, sed, xscheme, ispell, flex, yacc, and
+	much more.  borland has released its c/c++ compiler for os/2 2.x,
+	allowing for easier porting of dos and windows software.
+
+	much of the pc hardware and drivers were written for dos, and
+	later, windows.  as more people are discovering os/2 2.x, the
+	number of people asking questions about os/2's compatibility
+	with their hardware increases, as does the questions on the
+	availability of drivers for their hardware, installation
+	procedures, etc.
+
+	multimedia is becoming popular.  os/2 2.0 supports windows
+	multimedia extensions using win-os/2 3.0.  furthermore, ibm is
+	including direct multimedia support in os/2 starting with version
+	2.1 (in addition to using win-os/2 3.1).
+
+	any non-trivial software will have bugs -- os/2 is not exempt,
+	especially since ibm is constantly adding new features to os/2.
+	so far, ibm has issued system patches and corrective service disks
+	(e.g.  the service pak) for free (free from bbss and ftp sites, or
+	for free plus a small media charge for diskettes -- read
+	comp.os.os2.misc for details).
+
+
+proposed charters:
+
+	(a)  create comp.os.os2.programmer.porting (unmoderated)
+
+		it will provide a forum for developers of ported software so
+		as to coordinate efforts, avoid duplication of effort, and
+		spur additional development.  the group will also cover
+		topics such as porting from other platforms (such as dos,
+		windows, unix, etc), toolkits which aid in program
+		portability (including porting tools such as mirrors), and
+		so forth.
+
+	(b)  rename: comp.os.os2.programmer.misc (unmoderated)
+
+		to keep the structure of the os/2 newsgroup heirarchy
+		orthogonal, comp.os.os2.programmer should be renamed to
+		comp.os.os2.programmer.misc.
+
+		comp.os.os2.programmer.misc will still be the newsgroup
+		for os/2 programmers to discuss programming issues and
+		technical aspects of os/2 in an unmoderated setting.
+
+	(c)  create comp.os.os2.setup (unmoderated)
+
+		it will be devoted to os/2 system setup topics, including the
+		availability of device drivers, compatibility information,
+		installation procedures, system requirements, and overall
+		performance optimization.
+
+	(d)  create comp.os.os2.multimedia (unmoderated)
+
+		it will provide a forum for discussion of multi-media issues.
+
+	(e)  create comp.os.os2.bugs (unmoderated)
+
+		it will provide a forum for os/2 system bug reports, bug
+		diagnosis and work arounds, the availability of system
+		patches and corrective service disks, and so forth.
+
+		[note that discussion of bugs in applications belong in other
+		newsgroups, and discussion of bugs in os/2 betas belong in
+		comp.os.os2.beta]
+
+
+how to vote:
+
+	to cast your vote, fill out the ballot below and e-mail it to me.
+	many newsreaders will allow e-mail to be sent by replying to this
+	post.  be sure to send only the ballot, and edit out the rest of
+	this post.
+
+	1)  type in your vote for each proposal:
+
+	    if you favor the charter as proposed, put a "yes" after its name.
+	    if you oppose the charter as proposed, put a "no" after its name.
+	    to abstain, leave a blank after its name.
+
+	2)  type in your last name (i.e. your family name), a comma, and
+	    your first name (i.e. your personal name).
+
+	3)  cut out the ballot,  please do not delete any lines of the
+	    ballot.
+
+	4)  e-mail your ballot to  before 11:59:59 pm
+	    (central time), april 24, 1993.
+
+
+ballot:
+
+----------------cut here----------------cut here----------------cut here----
+
+        (a) comp.os.os2.programmer.porting:
+        (b)    comp.os.os2.programmer.misc:
+        (c)              comp.os.os2.setup:
+        (d)         comp.os.os2.multimedia:
+        (e)               comp.os.os2.bugs:
+
+        (f)       voter's last, first name:
+
+        e-mail ballot to  by april 24
+
+----cut here----------------cut here----------------cut here----------------
+
+
+example ballot #1:
+
+	(a) comp.os.os2.programmer.porting: yes
+	(b)    comp.os.os2.programmer.misc: yes
+	(c)              comp.os.os2.setup: no
+	(d)         comp.os.os2.multimedia:
+	(e)               comp.os.os2.bugs: no
+
+	(f)       voter's last, first name: smith, john
+
+	in this example, john smith favors comp.os.os2.programmer.porting
+	to be created, and comp.os.os2.programmer to be renamed to
+	comp.os.os2.programmer.misc.  he also opposes the creation of
+	comp.os.os2.setup and comp.os.os2.bugs.  he does not have a view
+	on the creation of comp.os.os2.multimedia. 
+
+
+example ballot #2:
+
+	(a) comp.os.os2.programmer.porting: yes
+	(b)    comp.os.os2.programmer.misc: yes
+	(c)              comp.os.os2.setup: yes
+	(d)         comp.os.os2.multimedia: yes
+	(e)               comp.os.os2.bugs: yes
+
+	(f)       voter's last, first name: doe, jane
+
+	in this example, jane doe favors the creation or rename of all
+	the proposals.
+
+
+voting rules:
+
+	* one vote per person.  if you vote more than once, only the most
+	  recent vote will be counted.
+
+	* votes must be mailed to me by the person voting.  proxy voting,
+	  forwarding, posting votes to a newsgroup, etc. will not be counted.
+
+	* do not ask how the votes are going.  the status of the votings
+	  will be revealed only after the poll closes.
+
+	* i will acknowledge votes by mass acknowledgement (ack).  i will
+	  post the ack twice (see schedule below).
+
+	* if you need help for using your editor, using e-mail, how
+	  voting works in general, etc. then ask an expert at your site.
+	  also see the ``how to create a new newsgroup'' article which is
+	  posted to news.answers on a regular basis.
+
+	* if you need any clarifications on voting procedures for this
+	  cfv, send me e-mail at .
+
+	* when the voting period is over (see schedule below), a proposal
+	  passes if both of the following formulas are true:
+	  1)  the number of yes votes exceeds the number of no votes
+	      by at least 100 (i.e. yes >= no + 100, or yes - no >= 100).
+	  2)  the number of yes votes exceeds at least twice the
+	      number of no votes (i.e. yes >= 2 * no, or yes - no >= no).
+	  in other words, a proposal passes if:
+	      yes - no >= max (100, no)
+	  where max() returns the highest number given to it.
+
+
+schedule:
+
+	the voting period started on march 29 when the first cfv was posted
+	by david lawrence (the news.announce.newgroups moderator).
+
+	this third cfv is a repeat of the first cfv, but it also has the
+	mass acknowledgement (ack) of names and e-mail addresses of those who
+	have already voted -- re-send your vote if it is not there.  if you
+	have not voted yet, vote now!
+
+	the voting period will end at 11:59:59 pm (central time), on
+	april 24, 1993.  votes received after that time will not count.
+	the voting results and tally will be posted shortly after that
+	date.
+
+
+mass acknowledgement:
+
+	here is the list of people who have already sent in their ballots
+	as of 12:01 am (central time) on april 15, 1993:
+
+                          
+aiyagari, sanjay          
+alcorn, justin            
+arien, peter              laaaa43%
+asselin, andre            
+aurand, tom               
+baechler, cedric          
+bartlett, warren          
+bates, john               
+beadles, j.               
+beal, kenneth             
+bedersdorfer, jochen      -sb.de
+bell, douglas             
+benningfield, robert      concert.net!aurs01!aurw7a!benningf
+biegel, bryan             
+blackman, ed              
+bodnar, john              
+boisvert, wesley          
+boneham, kevin            
+boresch, stefan           
+boschma, wilfried         
+botha, david              both-
+bowe, nathaniel           
+bowers, neil              
+braun,david               
+bronner, geoffrey         
+brors, dieter             
+brown, bill               
+cambria, michael          
+carlson, bill             
+champion, evan            
+chandonia, john           
+chen, ted                 
+chua, hak                 c164-
+ciesielski, boleslaw      
+clement, bruce            
+clemente, marc f.         
+cline, ernest             
+cocking , simon           
+compton, curtis           
+costello, robert          
+coulman, randy            
+cox, anthony              
+cox, robert               
+culliton, tom             
+daigle, joe               
+decarlo, john             
+dippold, ron              
+donaldson, ian            
+drye, stephen             
+duffy, patrick            
+dusitsin, krid            
+erzberger, martin         
+feldtmann, marten         
+feustel, edward           
+filippini,luigi           
+fischer, stefan           
+fleuren, rik              
+francis, tim              
+francois menard           
+franks, derek             
+franzki, wolfgang         -juelich.de
+friedrich, jochen         
+friis, torben             
+g"unther, stefan          stefan@med-informatik.uni-hildesheim.de
+galarza, edward           
+gammon, robert            
+gartler, hermann          
+garzik, jeff              
+gershman, mark            
+giller, david r.          
+gnassi, john              
+goyal, mohit              
+green, anthony            
+grupenhoff, mike          
+guo, youren               
+hacker;jonathan           
+haggerty, michael         
+hargrave, bj              
+hartman, shane            
+hartzman, les             
+hassa, george             
+hed, nevo                 
+heederik, robbert         
+hellerhoff, torsten       
+hendel, bernd             
+henriksen, gerald         
+henry, andrew             
+herbison, b.j.            
+herron, kenneth           
+hilmer, andrew            
+hoang, long               
+hodge, bob                
+hodges, matthew           
+hollebone, bruce          
+holsman, ian              
+hopkins, john             
+hoppenbrouwers, jeroen    
+howard, robert            
+huang, ping               
+jackson, dave             
+jensen, colin             
+kassarjian, steven        
+kiehl, horst              -juelich.de
+kitchin, bruce            
+kone, bob                 
+kovarski, mark            
+kretzer, myke             
+lacy, stephen             sl31+@andrew.cmu.edu
+lai, william              
+landy, brian              
+lau, frankie              
+lau, stephen              
+lawton, gef               
+le glasse, franck         
+lebius, henning           
+lee, james                
+lehtonen, jari            
+leitner, thomas           -graz.ac.at
+lempriere, mike           
+lentin, kevin             
+leung, johnnie            
+lim, pean                 
+lin, steven               
+lindholm, george          
+liukkonen, juha           
+logan, stan               
+lu, kevin                 
+martin, johannes          -mainz.de
+mashao, daniel            
+maturo, larry             
+maxwell, scott            
+mayer, gunther h.         -kl.de
+maynard, jay              
+mccarthy, christopher     
+mcgehrin, matthew         matthew@
+mcging, john              
+mcguire, ed               
+mcmillan, andrew          
+meyer, jeff               
+miller, richard           
+mittelstaedt, olaf h.-p.  -ulm.de
+moorcroft, marc           
+morrison, john paul       
+mosher, david             
+mouawad, naji.            
+mullins, don              
+nadler, cliff             
+nareid, helge             
+narinian, vartan          
+norton, charles m.        
+o'neel, bruce             
+o'rourke, sean            
+oldham, c. r.             
+olson, eric               
+oussoren, ronald          
+owens, bill               
+parks, dwayne             
+parry, tom                
+pebly, bob                
+perdue, alicia            
+petro, herbert            
+pietilainen, pekka        
+poole, david              
+powell, stephen           
+prescod, paul             
+provensal, jerome         uunet.uu.net!iac!jerome
+quinn, michael            
+rao, venkat               
+reisert, jim              
+reynolds, robert          
+robertson, james          
+roelofs, greg             
+rosenvold, johan kristian 
+ruppel, markus            
+ryan, sean                
+salomon, larry            
+schimke, nathan           
+schipper, haijo           
+seymour, jim              
+shankar, gess             
+shaw, jeremy              
+sierwald, joern           sierwald@tu-harburg.dbp.de
+sipples, timothy          
+skogstad, oddbjorn        
+smith, donald             
+smith, eliot              
+sneath, tim               
+sorensen, tom             
+sriram, n                 
+steele, alan              
+steinkopf, dirk           
+stirling, ian t.          
+strazdus, stephen         
+streeter, carl            
+sum, eva                  
+sum, joey                 
+suttor, jeff              
+swallow, doug             
+sward, david              sward+@cmu.edu
+thomas, stephen           
+thompson, michael         
+tiffany, bernard          
+torremans, engelbert      etorrem%
+tremain, jim              
+tsen, maoee               
+van der lek, petja        
+van iwaarden, ronald      
+van woerkom, marc e.e.    marc_van-
+veeraraghavan, venkatesh  
+veldhuyzen, eric          
+vigor, kevin              
+villumsen, ole            
+wald, david               
+wallace, jack             
+wantosch, rainer          
+watson, brett             
+weber-fahr, christoph     -kl.de
+weeks, larry              
+werner, john              
+west, mike                
+weyrich, orville          uunet.uu.net!weyrich!orville
+white, andrew             
+wiersema, brian           
+wimmer, carsten           
+wittenauer, allen         
+woodbury, gregory         
+worthington, stephen      
+wright, gregory           
+wyble, richard            transfer.stratus.com!schunix!rwyble
+young, david m.           
+zabbal, christian         
+zawodny, jeremy           
+zou, nan                  
+-- 
+--:--~  (os|  mike levis       unofficial os/2 spokesmodel
+s/2)  .--:-|
+--:--(os/2)|     ->          votes
+ (os/2)--~ |    -> clarifications

@@ -1,0 +1,10 @@
+from dresden de andre beck subject xdm backgroundpixmap hi, i've tried to get rid off xdm's ugly login window by giving it a 'cool'
+backgroundpixmap ressource. as login is derived from core, this should be
+possible. anyway, setting xlogin*backgroundpixmap:/a/b/c.xpm did not
+produce any message of the form 'cannot convert string to pixmap' and
+explicitely registering such converter lead to nothing, too. any way to do it ? --
++-o-+--------------------------------------------------------------+-o-+
+| o | \\\- brain inside -/// | o |
+| o | ^^^^^^^^^^^^^^^ | o |
+| o | andre' beck (abpsoft) mehl: -dresden.de | o |
++-o-+--------------------------------------------------------------+-o-+

@@ -1,0 +1,4 @@
+from maw ying yuan subject win config sys query hi there, with a megs of ram, is there a need to run/load smartdrv for
+windows 3.1? if yes, can i run/load ramdrive without smartdrv?
+if i need both ramdrive & smartdrv, is the following config.sys
+settings ok: ...smartdrv.sys 2048 2048 ...ramdrive.sys 2048 /e thanks in advance for e-mail reply.

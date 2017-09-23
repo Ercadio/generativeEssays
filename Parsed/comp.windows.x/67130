@@ -1,0 +1,8 @@
+from michael salmon subject re title for xterm in article r fe inn d fbi news informatik uni dortmund de dortmund.de (ingolf markhof) writes:
+[...]
+|> i have an
+|> |> alias precmd echo -n '^[]2\;${host}:$cwd^g'
+|> |> in my ~/.tcshrc. this is a special alias for tvtwm. i presume that you meant to say tcsh here ------^^^^^ -- michael salmon #include	<standard.disclaimer>
+#include	<witty.saying>
+#include	<fancy.pseudo.graphics> ericsson telecom ab
+stockholm

@@ -1,0 +1,6 @@
+from technik uni erlangen de uwe bonnes subject re sunrise sunset times in article , joseph wetstein asked |> |> hello. i am looking for a program (or algorithm) that can be used
+|> to compute sunrise and sunset times.
+|> |> i would appreciate any advice.
+|> |> joe wetstein
+|> to compute this, and many other astronomical things, go and get (x)ephem written
+by elwood c. downey. it is e.g. on export.lcs.mit.edu uwe bonnes -technik.uni-erlangen.de

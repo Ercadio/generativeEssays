@@ -1,0 +1,10 @@
+from joerg schlaeger subject re mb isa limit writes in article mark ashley) writes:
+> > >then the writer claims that glitches can
+> >occur in systems with over 16mb because > >of that limit. that part i don't understand
+> >because the ram is right on the motherboard.
+> >so the cpu should have no problems talking
+> >with the ram. can anybody explain this ?
+the floppy is served by dma on the motherboard,
+and original dma-controller can't reach more than the first
+16mb (the address-space of the isa-bus)
+joerg

@@ -1,0 +1,3 @@
+from subject xtranslatecoord problem it seems like xtranslatecoord doesn't work the way i expecting it right after performs a xmovewindow, i want to know the absolute window position
+with respect to the root window. to get this info. i do a xtranslatecoordinates
+but the abs_x, and abs_y aren't right? does anybody know of a way to find out this information? thanks, please e-mail to if it's possible -- _---_ steve / o o \ , | \___/ | just say no to vms!!

@@ -1,0 +1,3 @@
+from gary keim gk g andrew cmu edu subject re x toolkits excerpts from misc apr re x toolkits sivesh (423) > i do not have finger!!! so is there any other way of accessing this service > like mail server or telnet or ftp? you can use telnet: % xhost +atk.itc.cmu.edu
+% telnet atk.itc.cmu.edu 79
+run-demo

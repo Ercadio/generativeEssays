@@ -1,0 +1,19 @@
+from guy dawson subject re help adding a scsi drive can it coexist with an ide in article , (eric bosco) writes:
+> in article <> > (mark jackson) writes:
+> > > > in article <>, > (eric bosco) writes:
+> > > > > > > i dont think you can mix the two types of drive, unless you have one of > the
+> > scsi/ide cards that is available. you will have to turn your ide off.
+> > > > is this true??? i was under the impression that people on the net had both > scsi and ide working together. no! i'm running both at home. ok, to the cumpter is turned off right now but i
+did boot bsd/386 from an ide drive, most of the system is on a scsi drive... i'm using an adaptec 1542b and a no-name el-cheapo ide card. > > > > > > > well that seems to be all. is there anythiing i'm forgetting? > > > any help is *really* appreciated, i'm lost...
+> > > > > > -eric
+> > > > > > > > -- > > mark > >  
+> __________________________________________________________________________ 
+> ____
+> > 
+
+guy
+-- 
+-- -----------------------------------------------------------------------------
+guy dawson - hoskyns group plc.
+          tel hoskyns uk     -  71 251 2128
+         tel ibm austin usa - 512 838 3377

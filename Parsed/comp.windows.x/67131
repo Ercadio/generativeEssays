@@ -1,0 +1,5 @@
+from robert l mcmillin subject re how do i find my appcontext on apr 3:00:15 gmt, (todd greene) said: > is there an xt call to give me my application context?
+> i am fixing up an x/motif program, and am trying to use xtappaddtimeout,
+> whose first argument is the app_context. what call can i use
+> to give me this value? i believe it's xtvaappinitialize or something like that. -- robert l. mcmillin | surf city software | | dude!
+#include <std.disclaimer.h>
