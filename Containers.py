@@ -1,3 +1,4 @@
+import itertools
 class BST:
     def __init__(self):
         self.root = None
@@ -91,7 +92,9 @@ class BST:
     WDUP = __Mode(binary_insert_wdup.__get__(object))
     NODUP = __Mode(binary_insert_ndup.__get__(object))
 
-tree = BST()
-for n in range(11,0):
-    tree.push(n)
-    print("pushing", n)
+
+for n in itertools.permutations(range(0,11)):
+    tree = BST()
+    for j in n:
+        tree.push(j)
+        print(j)
