@@ -21,7 +21,7 @@
 import os
 import re
 import sys
-
+import Containers
 
 class DataCleaner:
 
@@ -63,10 +63,27 @@ class DataCleaner:
     def parse_all_from_dir_to(path, destination, program):
         unparsed_textfiles = DataCleaner.search_rfile(path)
         for fname in unparsed_textfiles:
-            with open(fname) as file:
+            with open(fname, "w+") as file:
                 txt = file.read()
             txt = DataCleaner.parse_txt_from_prog(txt,program)
             open(fname.replace(path, destination), mode="w+").write(txt)
             print("Parsed {}\n".format(fname))
 
-DataCleaner.parse_all_from_dir_to("../Unparsed","../Parsed", DataCleaner.ONLY_WORDS_SPACES)
+
+if __name__ == "__main__":
+    # Parse all from ./Unparsed to ./Parsed
+    # DataCleaner.parse_all_from_dir_to("./Unparsed","./Parsed", DataCleaner.ONLY_WORDS_SPACES)
+
+    # Get a sorted list of all words from all files inside ./Parsed
+    tree = Containers.BST()
+    for fname in DataCleaner.search_rfile("./Parsed"):
+        file = open(fname)
+        txt = file.read()
+        file.close()
+        tokens = txt.split(" ")
+        for token in tokens:
+            print("Pushing", token)
+            tree.push(token)
+    with open("./tokens.data", "w+") as file:
+        file.writelines("\n".join())
+    # tree.toList()
