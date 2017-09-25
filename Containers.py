@@ -79,6 +79,23 @@ class BST:
                 continue
         return out
 
+    @staticmethod
+    def search(tree, root, key):
+        while True:
+            if root.data > node.data:
+                if root.left is None:
+                    root.left = node
+                    break
+                else:
+                    root = root.left
+            elif root.data < node.data:
+                if root.right is None:
+                    root.right = node
+                    break
+                else:
+                    root = root.right
+            else:
+                break
 
 
     class __Node:
@@ -93,6 +110,22 @@ class BST:
 
     WDUP = __Mode(binary_insert_wdup.__get__(object))
     NODUP = __Mode(binary_insert_ndup.__get__(object))
+class Algorithm:
+    @staticmethod
+    def binary_search(array, target):
+        lower = 0
+        upper = len(array)
+        while lower < upper:  # use < instead of <=
+            x = lower + (upper - lower) // 2
+            val = array[x]
+            if target == val:
+                return x
+            elif target > val:
+                if lower == x:  # this two are the actual lines
+                    break  # you're looking for
+                lower = x
+            elif target < val:
+                upper = x
 
 if __name__ is "__main__":
     for n in itertools.permutations(range(0,11)):

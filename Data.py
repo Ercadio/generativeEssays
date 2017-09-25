@@ -76,15 +76,29 @@ if __name__ == "__main__":
     # DataCleaner.parse_all_from_dir_to("./Unparsed","./Parsed", DataCleaner.ONLY_WORDS_SPACES)
 
     # Get a sorted list of all words from all files inside ./Parsed
-    tree = Containers.BST()
-    for fname in DataCleaner.search_rfile("./Parsed"):
-        file = open(fname)
+    # tree = Containers.BST()
+    # for fname in DataCleaner.search_rfile("./Parsed"):
+    #     file = open(fname)
+    #     txt = file.read()
+    #     file.close()
+    #     tokens = txt.split(" ")
+    #     for token in tokens:
+    #         tree.push(token)
+    #     print("Got", fname)
+    # with open("./tokens.data", "w+") as file:
+    #     file.writelines("\n".join(tree.toList()))
+    # tree.toList()
+
+    # Compare tokens with dictionary > words.data
+    with open("./dictionary.txt") as file:
         txt = file.read()
-        file.close()
-        tokens = txt.split(" ")
-        for token in tokens:
-            tree.push(token)
-        print("Got", fname)
-    with open("./tokens.data", "w+") as file:
-        file.writelines("\n".join(tree.toList()))
-    tree.toList()
+    good_words = txt.split("\n")
+    with open("./tokens.data") as file:
+        txt = file.read()
+    tokens = txt.split("\n")
+    out = list()
+    for t in tokens:
+        if(Containers.Algorithm.binary_search(good_words,t)):
+            out.append(t)
+    with open("./words.data", "w+") as file:
+        file.write("\n".join(out))
