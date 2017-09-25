@@ -73,18 +73,17 @@ class DataCleaner:
 
 if __name__ == "__main__":
     # Parse all from ./Unparsed to ./Parsed
-    DataCleaner.parse_all_from_dir_to("./Unparsed","./Parsed", DataCleaner.ONLY_WORDS_SPACES)
+    # DataCleaner.parse_all_from_dir_to("./Unparsed","./Parsed", DataCleaner.ONLY_WORDS_SPACES)
 
     # Get a sorted list of all words from all files inside ./Parsed
-    # tree = Containers.BST()
-    # for fname in DataCleaner.search_rfile("./Parsed"):
-    #     file = open(fname)
-    #     txt = file.read()
-    #     file.close()
-    #     tokens = txt.split(" ")
-    #     for token in tokens:
-    #         print("Pushing", token)
-    #         tree.push(token)
-    # with open("./tokens.data", "w+") as file:
-    #     file.writelines("\n".join())
-    # tree.toList()
+    tree = Containers.BST()
+    for fname in DataCleaner.search_rfile("./Parsed"):
+        file = open(fname)
+        txt = file.read()
+        file.close()
+        tokens = txt.split(" ")
+        for token in tokens:
+            tree.push(token)
+    with open("./tokens.data", "w+") as file:
+        file.writelines("\n".join())
+    tree.toList()

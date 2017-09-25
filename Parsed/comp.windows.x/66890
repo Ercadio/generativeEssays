@@ -1,1 +1,1 @@
-From Derrick J Brashear db andrew cmu edu Subject mouseless operation in ol v wm Mouseless operation is documented in the man pages for olwm and olvwm However, I can't get it to work in either I have this line in my Xdefaults OpenWindows KeyboardCommands Full That should do it I haven't rebound the keys Am I missing something D
+From Derrick Brashear Subject mouseless operation in ol v wm Mouseless operation is documented in the man pages for olwm and However I can't get it to work in I have this line in my Full That should do I haven't rebound the Am I missing something D

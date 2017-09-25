@@ -1,1 +1,1 @@
-From Subject Re v A What's the difference between a UART and a A UART Thanks BUGS without the A would sometimes get extra characters in the FIFO This renders the FIFO useless Only get the A
+From Subject Re What's the difference between a UART and a UART Thanks BUGS without the A would sometimes get extra characters in the This renders the FIFO Only get the

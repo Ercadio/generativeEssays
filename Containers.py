@@ -42,6 +42,8 @@ class BST:
                     break
                 else:
                     root = root.right
+            else:
+                break
 
     def print(self):
         print(self.toList())
