@@ -84,6 +84,7 @@ if __name__ == "__main__":
         tokens = txt.split(" ")
         for token in tokens:
             tree.push(token)
+        print("Got", fname)
     with open("./tokens.data", "w+") as file:
-        file.writelines("\n".join())
+        file.writelines("\n".join(tree.toList()))
     tree.toList()
