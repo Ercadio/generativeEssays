@@ -92,9 +92,9 @@ class BST:
     WDUP = __Mode(binary_insert_wdup.__get__(object))
     NODUP = __Mode(binary_insert_ndup.__get__(object))
 
-
-for n in itertools.permutations(range(0,11)):
-    tree = BST()
-    for j in n:
-        tree.push(j)
-        print(j)
+if __name__ is "__main__":
+    for n in itertools.permutations(range(0,11)):
+        tree = BST()
+        for j in n:
+            tree.push(j)
+            print(j)
